@@ -1,0 +1,2920 @@
+//-- Normal
+WESTRING_UEVAL_UABI=
+//-- Default Active Ability
+WESTRING_UEVAL_UDAA=
+//-- Hero
+WESTRING_UEVAL_UHAB=
+//-- Model File
+WESTRING_UEVAL_UMDL=
+//-- Model File - Extra Versions
+WESTRING_UEVAL_UVER=
+//-- Scaling Value
+WESTRING_UEVAL_USCA=
+//-- Tinting Color 1 (Red)
+WESTRING_UEVAL_UCLR=
+//-- Tinting Color 2 (Green)
+WESTRING_UEVAL_UCLG=
+//-- Tinting Color 3 (Blue)
+WESTRING_UEVAL_UCLB=
+//-- Selection Scale
+WESTRING_UEVAL_USSC=
+//-- Projectile Launch - X
+WESTRING_UEVAL_ULPX=
+//-- Projectile Launch - Y
+WESTRING_UEVAL_ULPY=
+//-- Projectile Launch - Z
+WESTRING_UEVAL_ULPZ=
+//-- Projectile Launch - Z (Swimming)
+WESTRING_UEVAL_ULSZ=
+//-- Projectile Impact - Z
+WESTRING_UEVAL_UIMZ=
+//-- Projectile Impact - Z (Swimming)
+WESTRING_UEVAL_UISZ=
+//-- Ground Texture
+WESTRING_UEVAL_UUBS=
+//-- Shadow Image (Unit)
+WESTRING_UEVAL_USHU=
+//-- Shadow Texture (Building)
+WESTRING_UEVAL_USHB=
+//-- Icon - Game Interface
+WESTRING_UEVAL_UICO=
+//-- Icon - Score Screen
+WESTRING_UEVAL_USSI=
+//-- Required Animation Names
+WESTRING_UEVAL_UANI=
+//-- Required Animation Names - Attachments
+WESTRING_UEVAL_UAAP=
+//-- Required Attachment Link Names
+WESTRING_UEVAL_UALP=
+//-- Required Bone Names
+WESTRING_UEVAL_UBPR=
+//-- Caster Upgrade Art
+WESTRING_UEVAL_UCUA=
+//-- Button Position (X)
+WESTRING_UEVAL_UBPX=
+//-- Button Position (Y)
+WESTRING_UEVAL_UBPY=
+//-- Death Time (seconds)
+WESTRING_UEVAL_UDTM=
+//-- Shadow Image - Width
+WESTRING_UEVAL_USHW=
+//-- Shadow Image - Height
+WESTRING_UEVAL_USHH=
+//-- Shadow Image - Center X
+WESTRING_UEVAL_USHX=
+//-- Shadow Image - Center Y
+WESTRING_UEVAL_USHY=
+//-- Has Water Shadow
+WESTRING_UEVAL_USHR=
+//-- Selection Circle On Water
+WESTRING_UEVAL_USEW=
+//-- Team Color
+WESTRING_UEVAL_UTCO=
+//-- Allow Custom Team Color
+WESTRING_UEVAL_UTCC=
+//-- Propulsion Window (degrees)
+WESTRING_UEVAL_UPRW=
+//-- Orientation Interpolation
+WESTRING_UEVAL_UORI=
+//-- Animation - Cast Point
+WESTRING_UEVAL_UCPT=
+//-- Animation - Cast Backswing
+WESTRING_UEVAL_UCBS=
+//-- Animation - Blend Time (seconds)
+WESTRING_UEVAL_UBLE=
+//-- Use Extended Line of Sight
+WESTRING_UEVAL_ULOS=
+//-- Maximum Pitch Angle (degrees)
+WESTRING_UEVAL_UMXP=
+//-- Maximum Roll Angle (degrees)
+WESTRING_UEVAL_UMXR=
+//-- Elevation - Sample Points
+WESTRING_UEVAL_UEPT=
+//-- Elevation - Sample Radius
+WESTRING_UEVAL_UERD=
+//-- Fog of War - Sample Radius
+WESTRING_UEVAL_UFRD=
+//-- Animation - Walk Speed
+WESTRING_UEVAL_UWAL=
+//-- Animation - Run Speed
+WESTRING_UEVAL_URUN=
+//-- Selection Circle - Height
+WESTRING_UEVAL_USLZ=
+//-- Occluder Height
+WESTRING_UEVAL_UOCC=
+//-- Scale Projectiles
+WESTRING_UEVAL_USCB=
+//-- Special
+WESTRING_UEVAL_USPA=
+//-- Target
+WESTRING_UEVAL_UTAA=
+//-- Attacks Enabled
+WESTRING_UEVAL_UAEN=
+//-- Attack 1 - Projectile Art
+WESTRING_UEVAL_UA1M=
+//-- Attack 1 - Projectile Speed
+WESTRING_UEVAL_UA1Z=
+//-- Attack 1 - Projectile Arc
+WESTRING_UEVAL_UMA1=
+//-- Attack 1 - Projectile Homing Enabled
+WESTRING_UEVAL_UMH1=
+//-- Attack 1 - Range
+WESTRING_UEVAL_UA1R=
+//-- Attack 1 - Cooldown Time
+WESTRING_UEVAL_UA1C=
+//-- Attack 1 - Area of Effect (Full Damage)
+WESTRING_UEVAL_UA1F=
+//-- Attack 1 - Area of Effect (Medium Damage)
+WESTRING_UEVAL_UA1H=
+//-- Attack 1 - Damage Factor - Medium
+WESTRING_UEVAL_UHD1=
+//-- Attack 1 - Area of Effect (Small Damage)
+WESTRING_UEVAL_UA1Q=
+//-- Attack 1 - Damage Factor - Small
+WESTRING_UEVAL_UQD1=
+//-- Attack 1 - Area of Effect Targets
+WESTRING_UEVAL_UA1P=
+//-- Attack 1 - Attack Type
+WESTRING_UEVAL_UA1T=
+//-- Attack 1 - Weapon Type
+WESTRING_UEVAL_UA1W=
+//-- Attack 1 - Weapon Sound
+WESTRING_UEVAL_UCS1=
+//-- Attack 1 - Targets Allowed
+WESTRING_UEVAL_UA1G=
+//-- Attack 1 - Maximum Number of Targets
+WESTRING_UEVAL_UTC1=
+//-- Attack 1 - Damage Base
+WESTRING_UEVAL_UA1B=
+//-- Attack 1 - Damage Number of Dice
+WESTRING_UEVAL_UA1D=
+//-- Attack 1 - Damage Sides per Die
+WESTRING_UEVAL_UA1S=
+//-- Attack 1 - Damage Upgrade Amount
+WESTRING_UEVAL_UDU1=
+//-- Attack 2 - Projectile Art
+WESTRING_UEVAL_UA2M=
+//-- Attack 2 - Projectile Speed
+WESTRING_UEVAL_UA2Z=
+//-- Attack 2 - Projectile Arc
+WESTRING_UEVAL_UMA2=
+//-- Attack 2 - Projectile Homing Enabled
+WESTRING_UEVAL_UMH2=
+//-- Attack 2 - Range
+WESTRING_UEVAL_UA2R=
+//-- Attack 2 - Cooldown Time
+WESTRING_UEVAL_UA2C=
+//-- Attack 2 - Area of Effect (Full Damage)
+WESTRING_UEVAL_UA2F=
+//-- Attack 2 - Area of Effect (Medium Damage)
+WESTRING_UEVAL_UA2H=
+//-- Attack 2 - Damage Factor - Medium
+WESTRING_UEVAL_UHD2=
+//-- Attack 2 - Area of Effect (Small Damage)
+WESTRING_UEVAL_UA2Q=
+//-- Attack 2 - Damage Factor - Small
+WESTRING_UEVAL_UQD2=
+//-- Attack 2 - Area of Effect Targets
+WESTRING_UEVAL_UA2P=
+//-- Attack 2 - Attack Type
+WESTRING_UEVAL_UA2T=
+//-- Attack 2 - Weapon Type
+WESTRING_UEVAL_UA2W=
+//-- Attack 2 - Weapon Sound
+WESTRING_UEVAL_UCS2=
+//-- Attack 2 - Targets Allowed
+WESTRING_UEVAL_UA2G=
+//-- Attack 2 - Maximum Number of Targets
+WESTRING_UEVAL_UTC2=
+//-- Attack 2 - Damage Base
+WESTRING_UEVAL_UA2B=
+//-- Attack 2 - Damage Number of Dice
+WESTRING_UEVAL_UA2D=
+//-- Attack 2 - Damage Sides per Die
+WESTRING_UEVAL_UA2S=
+//-- Attack 2 - Damage Upgrade Amount
+WESTRING_UEVAL_UDU2=
+//-- Attack 1 - Show UI
+WESTRING_UEVAL_UWU1=
+//-- Attack 2 - Show UI
+WESTRING_UEVAL_UWU2=
+//-- Attack 1 - Range Motion Buffer
+WESTRING_UEVAL_URB1=
+//-- Attack 2 - Range Motion Buffer
+WESTRING_UEVAL_URB2=
+//-- Attack 1 - Animation Damage Point
+WESTRING_UEVAL_UDP1=
+//-- Attack 2 - Animation Damage Point
+WESTRING_UEVAL_UDP2=
+//-- Attack 1 - Animation Backswing Point
+WESTRING_UEVAL_UBS1=
+//-- Attack 2 - Animation Backswing Point
+WESTRING_UEVAL_UBS2=
+//-- Attack 1 - Damage Loss Factor
+WESTRING_UEVAL_UDL1=
+//-- Attack 2 - Damage Loss Factor
+WESTRING_UEVAL_UDL2=
+//-- Attack 1 - Damage Spill Distance
+WESTRING_UEVAL_USD1=
+//-- Attack 2 - Damage Spill Distance
+WESTRING_UEVAL_USD2=
+//-- Attack 1 - Damage Spill Radius
+WESTRING_UEVAL_USR1=
+//-- Attack 2 - Damage Spill Radius
+WESTRING_UEVAL_USR2=
+//-- Acquisition Range
+WESTRING_UEVAL_UACQ=
+//-- Minimum Attack Range
+WESTRING_UEVAL_UAMN=
+//-- Defense Type
+WESTRING_UEVAL_UDTY=
+//-- Defense Base
+WESTRING_UEVAL_UDEF=
+//-- Defense Upgrade Bonus
+WESTRING_UEVAL_UDUP=
+//-- Targeted as
+WESTRING_UEVAL_UTAR=
+//-- Armor Type
+WESTRING_UEVAL_UARM=
+//-- Death Type
+WESTRING_UEVAL_UDEA=
+//-- Display as Neutral Hostile
+WESTRING_UEVAL_UHOS=
+//-- Tilesets
+WESTRING_UEVAL_UTIL=
+//-- Has Tileset Specific Data
+WESTRING_UEVAL_UTSS=
+//-- Placeable In Editor
+WESTRING_UEVAL_UINE=
+//-- Categorization - Special
+WESTRING_UEVAL_USPE=
+//-- Categorization - Campaign
+WESTRING_UEVAL_UCAM=
+//-- Can Drop Items On Death
+WESTRING_UEVAL_UDRO=
+//-- Use Click Helper
+WESTRING_UEVAL_UUCH=
+//-- Type
+WESTRING_UEVAL_UMVT=
+//-- Height
+WESTRING_UEVAL_UMVH=
+//-- Height Minimum
+WESTRING_UEVAL_UMVF=
+//-- Speed Base
+WESTRING_UEVAL_UMVS=
+//-- Speed Minimum
+WESTRING_UEVAL_UMIS=
+//-- Speed Maximum
+WESTRING_UEVAL_UMAS=
+//-- Turn Rate
+WESTRING_UEVAL_UMVR=
+//-- Group Separation - Enabled
+WESTRING_UEVAL_URPO=
+//-- Group Separation - Parameter
+WESTRING_UEVAL_URPP=
+//-- Group Separation - Group Number
+WESTRING_UEVAL_URPG=
+//-- Group Separation - Priority
+WESTRING_UEVAL_URPR=
+//-- Collision Size
+WESTRING_UEVAL_UCOL=
+//-- Pathing Map
+WESTRING_UEVAL_UPAT=
+//-- Placement Requires
+WESTRING_UEVAL_UPAP=
+//-- Placement Prevented By
+WESTRING_UEVAL_UPAR=
+//-- Placement Requires Water Radius
+WESTRING_UEVAL_UPAW=
+//-- AI Placement Type
+WESTRING_UEVAL_UABT=
+//-- AI Placement Radius
+WESTRING_UEVAL_UABR=
+//-- Unit Sound Set
+WESTRING_UEVAL_USND=
+//-- Construction
+WESTRING_UEVAL_UBSL=
+//-- Movement
+WESTRING_UEVAL_UMSL=
+//-- Random
+WESTRING_UEVAL_URSL=
+//-- Looping Fade In Rate
+WESTRING_UEVAL_ULFI=
+//-- Looping Fade Out Rate
+WESTRING_UEVAL_ULFO=
+//-- Gold Cost
+WESTRING_UEVAL_UGOL=
+//-- Lumber Cost
+WESTRING_UEVAL_ULUM=
+//-- Repair Gold Cost
+WESTRING_UEVAL_UGOR=
+//-- Repair Lumber Cost
+WESTRING_UEVAL_ULUR=
+//-- Food Cost
+WESTRING_UEVAL_UFOO=
+//-- Food Produced
+WESTRING_UEVAL_UFMA=
+//-- Unit Classification
+WESTRING_UEVAL_UTYP=
+//-- Hit Points Maximum (Base)
+WESTRING_UEVAL_UHPM=
+//-- Hit Points Regeneration Rate
+WESTRING_UEVAL_UHPR=
+//-- Hit Points Regeneration Type
+WESTRING_UEVAL_UHRT=
+//-- Mana Maximum
+WESTRING_UEVAL_UMPM=
+//-- Mana Regeneration
+WESTRING_UEVAL_UMPR=
+//-- Mana Initial Amount
+WESTRING_UEVAL_UMPI=
+//-- Sight Radius (Day)
+WESTRING_UEVAL_USID=
+//-- Sight Radius (Night)
+WESTRING_UEVAL_USIN=
+//-- Transported Size
+WESTRING_UEVAL_UCAR=
+//-- Level
+WESTRING_UEVAL_ULEV=
+//-- Gold Bounty Awarded - Base
+WESTRING_UEVAL_UBBA=
+//-- Gold Bounty Awarded - Number of Dice
+WESTRING_UEVAL_UBDI=
+//-- Gold Bounty Awarded - Sides per Die
+WESTRING_UEVAL_UBSI=
+//-- Lumber Bounty Awarded - Base
+WESTRING_UEVAL_ULBA=
+//-- Lumber Bounty Awarded - Number of Dice
+WESTRING_UEVAL_ULBD=
+//-- Lumber Bounty Awarded - Sides per Die
+WESTRING_UEVAL_ULBS=
+//-- Stock Maximum
+WESTRING_UEVAL_USMA=
+//-- Stock Replenish Interval
+WESTRING_UEVAL_USRG=
+//-- Priority
+WESTRING_UEVAL_UPRI=
+//-- Starting Strength
+WESTRING_UEVAL_USTR=
+//-- Strength per Level
+WESTRING_UEVAL_USTP=
+//-- Starting Intelligence
+WESTRING_UEVAL_UINT=
+//-- Intelligence per Level
+WESTRING_UEVAL_UINP=
+//-- Starting Agility
+WESTRING_UEVAL_UAGI=
+//-- Agility per Level
+WESTRING_UEVAL_UAGP=
+//-- Primary Attribute
+WESTRING_UEVAL_UPRA=
+//-- Point Value
+WESTRING_UEVAL_UPOI=
+//-- Sleeps
+WESTRING_UEVAL_USLE=
+//-- Can Flee
+WESTRING_UEVAL_UFLE=
+//-- Stock Start Delay
+WESTRING_UEVAL_USST=
+//-- Build Time
+WESTRING_UEVAL_UBLD=
+//-- Repair Time
+WESTRING_UEVAL_URTM=
+//-- Formation Rank
+WESTRING_UEVAL_UFOR=
+//-- Race
+WESTRING_UEVAL_URAC=
+//-- Neutral Building - Valid As Random Building
+WESTRING_UEVAL_UNBR=
+//-- Neutral Building - Shows Minimap Icon
+WESTRING_UEVAL_UNBM=
+//-- Hero - Hide Hero Interface Icon
+WESTRING_UEVAL_UHHB=
+//-- Hero - Hide Hero Minimap Display
+WESTRING_UEVAL_UHHM=
+//-- Hero - Hide Hero Death Message
+WESTRING_UEVAL_UHHD=
+//-- Hide Minimap Display
+WESTRING_UEVAL_UHOM=
+//-- Is a Building
+WESTRING_UEVAL_UBDG=
+//-- Requirements
+WESTRING_UEVAL_UREQ=
+//-- Requirements - Tiers Used
+WESTRING_UEVAL_URQC=
+//-- Requirements - Tier 2
+WESTRING_UEVAL_URQ1=
+//-- Requirements - Tier 3
+WESTRING_UEVAL_URQ2=
+//-- Requirements - Tier 4
+WESTRING_UEVAL_URQ3=
+//-- Requirements - Tier 5
+WESTRING_UEVAL_URQ4=
+//-- Requirements - Tier 6
+WESTRING_UEVAL_URQ5=
+//-- Requirements - Tier 7
+WESTRING_UEVAL_URQ6=
+//-- Requirements - Tier 8
+WESTRING_UEVAL_URQ7=
+//-- Requirements - Tier 9
+WESTRING_UEVAL_URQ8=
+//-- Requirements - Levels
+WESTRING_UEVAL_URQA=
+//-- Dependency Equivalents
+WESTRING_UEVAL_UDEP=
+//-- Units Trained
+WESTRING_UEVAL_UTRA=
+//-- Hero Revival Locations
+WESTRING_UEVAL_URVA=
+//-- Researches Available
+WESTRING_UEVAL_URES=
+//-- Items Sold
+WESTRING_UEVAL_USEI=
+//-- Items Made
+WESTRING_UEVAL_UMKI=
+//-- Units Sold
+WESTRING_UEVAL_USEU=
+//-- Upgrades Used
+WESTRING_UEVAL_UPGR=
+//-- Structures Built
+WESTRING_UEVAL_UBUI=
+//-- Upgrades To
+WESTRING_UEVAL_UUPT=
+//-- Tooltip - Basic
+WESTRING_UEVAL_UTIP=
+//-- Tooltip - Extended
+WESTRING_UEVAL_UTUB=
+//-- Tooltip - Revive
+WESTRING_UEVAL_UTPR=
+//-- Tooltip - Awaken
+WESTRING_UEVAL_UAWT=
+//-- Proper Names
+WESTRING_UEVAL_UPRO=
+//-- Proper Names Used
+WESTRING_UEVAL_UPRU=
+//-- Hotkey
+WESTRING_UEVAL_UHOT=
+//-- Name - Editor Suffix
+WESTRING_UEVAL_UNSF=
+//-- Caster Upgrade Names
+WESTRING_UEVAL_UCUN=
+//-- Caster Upgrade Tips
+WESTRING_UEVAL_UCUT=
+//-- Name
+WESTRING_UEVAL_UNAM=
+//-- Revives Dead Heros
+WESTRING_UEVAL_UREV=
+//-- Interface Icon
+WESTRING_UEVAL_IICO=
+//-- Gold Cost
+WESTRING_UEVAL_IGOL=
+//-- Lumber Cost
+WESTRING_UEVAL_ILUM=
+//-- Number of Charges
+WESTRING_UEVAL_IUSE=
+//-- Actively Used
+WESTRING_UEVAL_IUSA=
+//-- Perishable
+WESTRING_UEVAL_IPER=
+//-- Stock Maximum
+WESTRING_UEVAL_ISTO=
+//-- Stock Replenish Interval
+WESTRING_UEVAL_ISTR=
+//-- Description
+WESTRING_UEVAL_IDES=
+//-- Stock Start Delay
+WESTRING_UEVAL_ISST=
+//-- Abilities
+WESTRING_UEVAL_IABI=
+//-- Classification
+WESTRING_UEVAL_ICLA=
+//-- Level
+WESTRING_UEVAL_ILEV=
+//-- Level (Unclassified)
+WESTRING_UEVAL_ILVO=
+//-- Can Be Dropped
+WESTRING_UEVAL_IDRO=
+//-- Dropped When Carrier Dies
+WESTRING_UEVAL_IDRP=
+//-- Hit Points
+WESTRING_UEVAL_IHTP=
+//-- Priority
+WESTRING_UEVAL_IPRI=
+//-- Include As Random Choice
+WESTRING_UEVAL_IPRN=
+//-- Use Automatically When Acquired
+WESTRING_UEVAL_IPOW=
+//-- Valid Target For Transformation
+WESTRING_UEVAL_IMOR=
+//-- Model Used
+WESTRING_UEVAL_IFIL=
+//-- Armor Type
+WESTRING_UEVAL_IARM=
+//-- Cooldown Group
+WESTRING_UEVAL_ICID=
+//-- Can Be Sold By Merchants
+WESTRING_UEVAL_ISEL=
+//-- Can Be Sold To Merchants
+WESTRING_UEVAL_IPAW=
+//-- Scaling Value
+WESTRING_UEVAL_ISCA=
+//-- Selection Size - Editor
+WESTRING_UEVAL_ISSC=
+//-- Tinting Color 1 (Red)
+WESTRING_UEVAL_ICLR=
+//-- Tinting Color 2 (Green)
+WESTRING_UEVAL_ICLG=
+//-- Tinting Color 3 (Blue)
+WESTRING_UEVAL_ICLB=
+//-- Ignore Cooldown
+WESTRING_UEVAL_IICD=
+//-- Name
+WESTRING_BEVAL_BNAM=
+//-- Editor Suffix
+WESTRING_BEVAL_BSUF=
+//-- Category
+WESTRING_BEVAL_BCAT=
+//-- Tilesets
+WESTRING_BEVAL_BTIL=
+//-- Has Tileset Specific Data
+WESTRING_BEVAL_BTSP=
+//-- Model Directory
+WESTRING_BEVAL_BDIR=
+//-- Model File
+WESTRING_BEVAL_BFIL=
+//-- Model File - Has Lightweight Model
+WESTRING_BEVAL_BLIT=
+//-- Fat Line of Sight
+WESTRING_BEVAL_BFLO=
+//-- Replaceable Texture ID
+WESTRING_BEVAL_BTXI=
+//-- Replaceable Texture File
+WESTRING_BEVAL_BTXF=
+//-- Show Helper Object for Selection
+WESTRING_BEVAL_BUCH=
+//-- Placeable on Cliffs
+WESTRING_BEVAL_BONC=
+//-- Placeable on Water
+WESTRING_BEVAL_BONW=
+//-- Show Dead Version in Palette
+WESTRING_BEVAL_BCPD=
+//-- Is Walkable
+WESTRING_BEVAL_BWAL=
+//-- Cliff Height
+WESTRING_BEVAL_BCLH=
+//-- Targeted As
+WESTRING_BEVAL_BTAR=
+//-- Armor Type
+WESTRING_BEVAL_BARM=
+//-- Model File - Variations
+WESTRING_BEVAL_BVAR=
+//-- Hit Points
+WESTRING_BEVAL_BHPS=
+//-- Occlusion Height
+WESTRING_BEVAL_BOCH=
+//-- Fly-Over Height
+WESTRING_BEVAL_BFLH=
+//-- Fixed Rotation
+WESTRING_BEVAL_BFXR=
+//-- Selection Size - Editor
+WESTRING_BEVAL_BSEL=
+//-- Minimum Scale
+WESTRING_BEVAL_BMIS=
+//-- Maximum Scale
+WESTRING_BEVAL_BMAS=
+//-- Can Place Random Scale
+WESTRING_BEVAL_BCPR=
+//-- Maximum Pitch Angle (degrees)
+WESTRING_BEVAL_BMAP=
+//-- Max Roll Angle (degrees)
+WESTRING_BEVAL_BMAR=
+//-- Elevation Sample Radius
+WESTRING_BEVAL_BRAD=
+//-- Fog Radius
+WESTRING_BEVAL_BFRA=
+//-- Fog Visibility
+WESTRING_BEVAL_BFVI=
+//-- Pathing Texture
+WESTRING_BEVAL_BPTX=
+//-- Pathing Texture (Dead)
+WESTRING_BEVAL_BPTD=
+//-- Death
+WESTRING_BEVAL_BDSN=
+//-- Shadow
+WESTRING_BEVAL_BSHD=
+//-- Minimap - Show
+WESTRING_BEVAL_BSMM=
+//-- Minimap Color 1 (Red)
+WESTRING_BEVAL_BMMR=
+//-- Minimap Color 2 (Green)
+WESTRING_BEVAL_BMMG=
+//-- Minimap Color 3 (Blue)
+WESTRING_BEVAL_BMMB=
+//-- Minimap - Use Custom Color
+WESTRING_BEVAL_BUMM=
+//-- Build Time
+WESTRING_BEVAL_BBUT=
+//-- Repair Time
+WESTRING_BEVAL_BRET=
+//-- Repair Gold Cost
+WESTRING_BEVAL_BREG=
+//-- Repair Lumber Cost
+WESTRING_BEVAL_BREL=
+//-- On User-Specified List
+WESTRING_BEVAL_BUSR=
+//-- Tinting Color 1 (Red)
+WESTRING_BEVAL_BVCR=
+//-- Tinting Color 2 (Green)
+WESTRING_BEVAL_BVCG=
+//-- Tinting Color 3 (Blue)
+WESTRING_BEVAL_BVCB=
+//-- Selectable In Game
+WESTRING_BEVAL_BGSE=
+//-- Selection Size - Game
+WESTRING_BEVAL_BGSC=
+//-- Model File - Portrait
+WESTRING_BEVAL_BGPM=
+//-- Variation %d
+WESTRING_DEVAL_VAR=
+//-- Name
+WESTRING_DEVAL_DNAM=
+//-- Category
+WESTRING_DEVAL_DCAT=
+//-- Tilesets
+WESTRING_DEVAL_DTIL=
+//-- Has Tileset Specific Data
+WESTRING_DEVAL_DTSP=
+//-- Model Directory
+WESTRING_DEVAL_DDIR=
+//-- Model File
+WESTRING_DEVAL_DFIL=
+//-- Looping Sound
+WESTRING_DEVAL_DSND=
+//-- Selection Size
+WESTRING_DEVAL_DSEL=
+//-- Default Scale
+WESTRING_DEVAL_DDES=
+//-- Minimum Scale
+WESTRING_DEVAL_DMIS=
+//-- Maximum Scale
+WESTRING_DEVAL_DMAS=
+//-- Can Place Random Scale
+WESTRING_DEVAL_DCPR=
+//-- Use Click Helper
+WESTRING_DEVAL_DUCH=
+//-- Ignore Model Clicks
+WESTRING_DEVAL_DIMC=
+//-- Maximum Pitch Angle (degrees)
+WESTRING_DEVAL_DMAP=
+//-- Max Roll Angle (degrees)
+WESTRING_DEVAL_DMAR=
+//-- Visibility Radius
+WESTRING_DEVAL_DVIS=
+//-- Walkable
+WESTRING_DEVAL_DWLK=
+//-- Variations
+WESTRING_DEVAL_DVAR=
+//-- Placeable on Cliffs
+WESTRING_DEVAL_DONC=
+//-- Placeable on Water
+WESTRING_DEVAL_DONW=
+//-- Floats
+WESTRING_DEVAL_DFLT=
+//-- Has a Shadow
+WESTRING_DEVAL_DSHD=
+//-- Show in Fog
+WESTRING_DEVAL_DSHF=
+//-- Animate in Fog
+WESTRING_DEVAL_DANF=
+//-- Fixed Rotation
+WESTRING_DEVAL_DFXR=
+//-- Pathing Texture
+WESTRING_DEVAL_DPTX=
+//-- Minimap - Show
+WESTRING_DEVAL_DSMM=
+//-- Minimap - Use Custom Color
+WESTRING_DEVAL_DUMC=
+//-- Minimap Color 1 (Red)
+WESTRING_DEVAL_DMMR=
+//-- Minimap Color 2 (Green)
+WESTRING_DEVAL_DMMG=
+//-- Minimap Color 3 (Blue)
+WESTRING_DEVAL_DMMB=
+//-- Tinting Color 1 (Red)
+WESTRING_DEVAL_DVR1=
+//-- Tinting Color 2 (Green)
+WESTRING_DEVAL_DVG1=
+//-- Tinting Color 3 (Blue)
+WESTRING_DEVAL_DVB1=
+//-- On User-Specified List
+WESTRING_DEVAL_DUSR=
+//-- Level %d
+WESTRING_AEVAL_LVL=
+//-- Name
+WESTRING_AEVAL_ANAM=
+//-- Editor Suffix
+WESTRING_AEVAL_ANSF=
+//-- Hero Ability
+WESTRING_AEVAL_AHER=
+//-- Item Ability
+WESTRING_AEVAL_AITE=
+//-- Button Position - Normal (X)
+WESTRING_AEVAL_ABPX=
+//-- Button Position - Normal (Y)
+WESTRING_AEVAL_ABPY=
+//-- Button Position - Turn Off (X)
+WESTRING_AEVAL_AUBX=
+//-- Button Position - Turn Off (Y)
+WESTRING_AEVAL_AUBY=
+//-- Button Position - Research (X)
+WESTRING_AEVAL_ARPX=
+//-- Button Position - Research (Y)
+WESTRING_AEVAL_ARPY=
+//-- Icon - Normal
+WESTRING_AEVAL_AART=
+//-- Icon - Turn Off
+WESTRING_AEVAL_AUAR=
+//-- Icon - Research
+WESTRING_AEVAL_ARAR=
+//-- Caster
+WESTRING_AEVAL_ACAT=
+//-- Target
+WESTRING_AEVAL_ATAT=
+//-- Special
+WESTRING_AEVAL_ASAT=
+//-- Effect
+WESTRING_AEVAL_AEAT=
+//-- Area Effect
+WESTRING_AEVAL_AAEA=
+//-- Lightning Effects
+WESTRING_AEVAL_ALIG=
+//-- Missile Art
+WESTRING_AEVAL_AMAT=
+//-- Missile Speed
+WESTRING_AEVAL_AMSP=
+//-- Missile Arc
+WESTRING_AEVAL_AMAC=
+//-- Missile Homing Enabled
+WESTRING_AEVAL_AMHO=
+//-- Tooltip - Normal
+WESTRING_AEVAL_ATP1=
+//-- Tooltip - Turn Off
+WESTRING_AEVAL_AUT1=
+//-- Tooltip - Normal - Extended
+WESTRING_AEVAL_AUB1=
+//-- Tooltip - Turn Off - Extended
+WESTRING_AEVAL_AUU1=
+//-- Hotkey - Normal
+WESTRING_AEVAL_AHKY=
+//-- Hotkey - Turn Off
+WESTRING_AEVAL_AUHK=
+//-- Levels
+WESTRING_AEVAL_ALEV=
+//-- Required Level
+WESTRING_AEVAL_ARLV=
+//-- Level Skip Requirement
+WESTRING_AEVAL_ALSK=
+//-- Targets Allowed
+WESTRING_AEVAL_ATAR=
+//-- Casting Time
+WESTRING_AEVAL_ACAS=
+//-- Duration - Normal
+WESTRING_AEVAL_ADUR=
+//-- Duration - Hero
+WESTRING_AEVAL_AHDU=
+//-- Cooldown
+WESTRING_AEVAL_ACDN=
+//-- Mana Cost
+WESTRING_AEVAL_AMCS=
+//-- Area of Effect
+WESTRING_AEVAL_AARE=
+//-- Cast Range
+WESTRING_AEVAL_ARAN=
+//-- Requirements
+WESTRING_AEVAL_AREQ=
+//-- Requirements - Levels
+WESTRING_AEVAL_ARQA=
+//-- Tooltip - Learn
+WESTRING_AEVAL_ARET=
+//-- Tooltip - Learn - Extended
+WESTRING_AEVAL_ARUT=
+//-- Hotkey - Learn
+WESTRING_AEVAL_ARHK=
+//-- Race
+WESTRING_AEVAL_ARAC=
+//-- Check Dependencies
+WESTRING_AEVAL_ACHD=
+//-- Priority for Spell Steal
+WESTRING_AEVAL_APRI=
+//-- Order String - Use/Turn On
+WESTRING_AEVAL_AORD=
+//-- Order String - Turn Off
+WESTRING_AEVAL_AORU=
+//-- Order String - Activate
+WESTRING_AEVAL_AORO=
+//-- Order String - Deactivate
+WESTRING_AEVAL_AORF=
+//-- Effect Sound
+WESTRING_AEVAL_AEFS=
+//-- Effect Sound (Looping)
+WESTRING_AEVAL_AEFL=
+//-- Target Attachments
+WESTRING_AEVAL_ATAC=
+//-- Target Attachment Point 1
+WESTRING_AEVAL_ATA0=
+//-- Target Attachment Point 2
+WESTRING_AEVAL_ATA1=
+//-- Target Attachment Point 3
+WESTRING_AEVAL_ATA2=
+//-- Target Attachment Point 4
+WESTRING_AEVAL_ATA3=
+//-- Target Attachment Point 5
+WESTRING_AEVAL_ATA4=
+//-- Target Attachment Point 6
+WESTRING_AEVAL_ATA5=
+//-- Caster Attachments
+WESTRING_AEVAL_ACAC=
+//-- Caster Attachment Point 1
+WESTRING_AEVAL_ACAP=
+//-- Caster Attachment Point 2
+WESTRING_AEVAL_ACA1=
+//-- Special Attachment Point
+WESTRING_AEVAL_ASPT=
+//-- Buffs
+WESTRING_AEVAL_ABUF=
+//-- Effects
+WESTRING_AEVAL_AEFF=
+//-- Animation Names
+WESTRING_AEVAL_AANI=
+//-- Number of Waves
+WESTRING_AEVAL_HBZ1=
+//-- Damage
+WESTRING_AEVAL_HBZ2=
+//-- Number of Shards
+WESTRING_AEVAL_HBZ3=
+//-- Building Reduction
+WESTRING_AEVAL_HBZ4=
+//-- Damage Per Second
+WESTRING_AEVAL_HBZ5=
+//-- Maximum Damage per Wave
+WESTRING_AEVAL_HBZ6=
+//-- Mana Regeneration Increase
+WESTRING_AEVAL_HAB1=
+//-- Number of Units Teleported
+WESTRING_AEVAL_HMT1=
+//-- Casting Delay
+WESTRING_AEVAL_HMT2=
+//-- Use Teleport Clustering
+WESTRING_AEVAL_HMT3=
+//-- Use Teleport Clustering
+WESTRING_AEVAL_ITP2=
+//-- Summoned Unit Type
+WESTRING_AEVAL_HWE1=
+//-- Summoned Unit Count
+WESTRING_AEVAL_HWE2=
+//-- Damage Per Second
+WESTRING_AEVAL_OWW1=
+//-- Magic Damage Reduction
+WESTRING_AEVAL_OWW2=
+//-- Chance to Critical Strike
+WESTRING_AEVAL_OCR1=
+//-- Damage Multiplier
+WESTRING_AEVAL_OCR2=
+//-- Damage Bonus
+WESTRING_AEVAL_OCR3=
+//-- Chance to Evade
+WESTRING_AEVAL_OCR4=
+//-- Number of Images
+WESTRING_AEVAL_OMI1=
+//-- Damage Dealt (%)
+WESTRING_AEVAL_OMI2=
+//-- Damage Taken (%)
+WESTRING_AEVAL_OMI3=
+//-- Animation Delay
+WESTRING_AEVAL_OMI4=
+//-- Transition Time
+WESTRING_AEVAL_OWK1=
+//-- Movement Speed Increase (%)
+WESTRING_AEVAL_OWK2=
+//-- Backstab Damage
+WESTRING_AEVAL_OWK3=
+//-- Number of Corpses Raised
+WESTRING_AEVAL_UAN1=
+//-- Amount Healed/Damaged
+WESTRING_AEVAL_UDC1=
+//-- Life Converted to Mana
+WESTRING_AEVAL_UDP1=
+//-- Life Converted to Life
+WESTRING_AEVAL_UDP2=
+//-- Mana Conversion As Percent
+WESTRING_AEVAL_UDP3=
+//-- Life Conversion As Percent
+WESTRING_AEVAL_UDP4=
+//-- Leave Target Alive
+WESTRING_AEVAL_UDP5=
+//-- Movement Speed Increase (%)
+WESTRING_AEVAL_UAU1=
+//-- Life Regeneration Increase (%)
+WESTRING_AEVAL_UAU2=
+//-- Chance to Evade
+WESTRING_AEVAL_EEV1=
+//-- Damage per Interval
+WESTRING_AEVAL_EIM1=
+//-- Mana Drained per Second
+WESTRING_AEVAL_EIM2=
+//-- Buffer Mana Required
+WESTRING_AEVAL_EIM3=
+//-- Max Mana Drained
+WESTRING_AEVAL_EMB1=
+//-- Bolt Delay
+WESTRING_AEVAL_EMB2=
+//-- Bolt Lifetime
+WESTRING_AEVAL_EMB3=
+//-- Normal Form Unit
+WESTRING_AEVAL_EME1=
+//-- Morphing Flags
+WESTRING_AEVAL_EME2=
+//-- Altitude Adjustment Duration
+WESTRING_AEVAL_EME3=
+//-- Landing Delay Time
+WESTRING_AEVAL_EME4=
+//-- Alternate Form Hit Point Bonus
+WESTRING_AEVAL_EME5=
+//-- Life Regeneration Rate (per second)
+WESTRING_AEVAL_AVE5=
+//-- Alternate Form Unit
+WESTRING_AEVAL_EMEU=
+//-- Stun Duration
+WESTRING_AEVAL_USL1=
+//-- Attack Damage Stolen (%)
+WESTRING_AEVAL_UAV1=
+//-- Damage
+WESTRING_AEVAL_UCS1=
+//-- Max Damage
+WESTRING_AEVAL_UCS2=
+//-- Distance
+WESTRING_AEVAL_UCS3=
+//-- Final Area
+WESTRING_AEVAL_UCS4=
+//-- Damage
+WESTRING_AEVAL_UIN1=
+//-- Duration
+WESTRING_AEVAL_UIN2=
+//-- Impact Delay
+WESTRING_AEVAL_UIN3=
+//-- Summoned Unit
+WESTRING_AEVAL_UIN4=
+//-- Damage per Target
+WESTRING_AEVAL_OCL1=
+//-- Number of Targets Hit
+WESTRING_AEVAL_OCL2=
+//-- Damage Reduction per Target
+WESTRING_AEVAL_OCL3=
+//-- Effect Delay
+WESTRING_AEVAL_OEQ1=
+//-- Damage per Second to Buildings
+WESTRING_AEVAL_OEQ2=
+//-- Units Slowed (%)
+WESTRING_AEVAL_OEQ3=
+//-- Final Area
+WESTRING_AEVAL_OEQ4=
+//-- Summoned Unit
+WESTRING_AEVAL_OSF1=
+//-- Number of Summoned Units
+WESTRING_AEVAL_OSF2=
+//-- Damage per Second
+WESTRING_AEVAL_EER1=
+//-- Number of Summoned Units
+WESTRING_AEVAL_EFN1=
+//-- Summoned Unit Type
+WESTRING_AEVAL_EFNU=
+//-- Damage Dealt to Attackers
+WESTRING_AEVAL_EAH1=
+//-- Damage is Percent Received
+WESTRING_AEVAL_EAH2=
+//-- Life Healed
+WESTRING_AEVAL_ETQ1=
+//-- Heal Interval
+WESTRING_AEVAL_ETQ2=
+//-- Building Reduction
+WESTRING_AEVAL_ETQ3=
+//-- Max Life Drained per Second (%)
+WESTRING_AEVAL_UDD1=
+//-- Building Reduction
+WESTRING_AEVAL_UDD2=
+//-- Armor Duration
+WESTRING_AEVAL_UFA1=
+//-- Armor Bonus
+WESTRING_AEVAL_UFA2=
+//-- Area of Effect Damage
+WESTRING_AEVAL_UFN1=
+//-- Specific Target Damage
+WESTRING_AEVAL_UFN2=
+//-- Damage Bonus
+WESTRING_AEVAL_HFA1=
+//-- Summoned Unit
+WESTRING_AEVAL_EST1=
+//-- Damage Dealt
+WESTRING_AEVAL_ESF1=
+//-- Damage Interval
+WESTRING_AEVAL_ESF2=
+//-- Building Reduction
+WESTRING_AEVAL_ESF3=
+//-- Damage Bonus (%)
+WESTRING_AEVAL_EAR1=
+//-- Defense Bonus
+WESTRING_AEVAL_HAV1=
+//-- Hit Point Bonus
+WESTRING_AEVAL_HAV2=
+//-- Damage Bonus
+WESTRING_AEVAL_HAV3=
+//-- Magic Damage Reduction
+WESTRING_AEVAL_HAV4=
+//-- Chance to Bash
+WESTRING_AEVAL_HBH1=
+//-- Damage Multiplier
+WESTRING_AEVAL_HBH2=
+//-- Damage Bonus
+WESTRING_AEVAL_HBH3=
+//-- Chance to Miss
+WESTRING_AEVAL_HBH4=
+//-- Damage
+WESTRING_AEVAL_HTB1=
+//-- AOE Damage
+WESTRING_AEVAL_HTC1=
+//-- Specific Target Damage
+WESTRING_AEVAL_HTC2=
+//-- Movement Speed Reduction (%)
+WESTRING_AEVAL_HTC3=
+//-- Attack Speed Reduction (%)
+WESTRING_AEVAL_HTC4=
+//-- Armor Bonus
+WESTRING_AEVAL_HAD1=
+//-- Amount Healed/Damaged
+WESTRING_AEVAL_HHB1=
+//-- Number of Corpses Raised
+WESTRING_AEVAL_HRE1=
+//-- Raised Units Are Invulnerable
+WESTRING_AEVAL_HRE2=
+//-- Extra Damage
+WESTRING_AEVAL_HCA1=
+//-- Movement Speed Factor
+WESTRING_AEVAL_HCA2=
+//-- Attack Speed Factor
+WESTRING_AEVAL_HCA3=
+//-- Stack Flags
+WESTRING_AEVAL_HCA4=
+//-- Movement Speed Increase (%)
+WESTRING_AEVAL_OAE1=
+//-- Attack Speed Increase (%)
+WESTRING_AEVAL_OAE2=
+//-- Reincarnation Delay
+WESTRING_AEVAL_ORE1=
+//-- Damage
+WESTRING_AEVAL_OSH1=
+//-- Maximum Damage
+WESTRING_AEVAL_OSH2=
+//-- Distance
+WESTRING_AEVAL_OSH3=
+//-- Final Area
+WESTRING_AEVAL_OSH4=
+//-- Graphic Delay 
+WESTRING_AEVAL_NFD1=
+//-- Graphic Duration
+WESTRING_AEVAL_NFD2=
+//-- Damage
+WESTRING_AEVAL_NFD3=
+//-- Spawned Units
+WESTRING_AEVAL_NDP1=
+//-- Minimum Number of Units
+WESTRING_AEVAL_NDP2=
+//-- Maximum Number of Units
+WESTRING_AEVAL_NDP3=
+//-- Ability for Unit Creation
+WESTRING_AEVAL_NRC1=
+//-- Number of Units Created
+WESTRING_AEVAL_NRC2=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_AMS1=
+//-- Magic Damage Reduction
+WESTRING_AEVAL_AMS2=
+//-- Shield Life
+WESTRING_AEVAL_AMS3=
+//-- Aura Duration
+WESTRING_AEVAL_APL1=
+//-- Damage per Second
+WESTRING_AEVAL_APL2=
+//-- Duration of Plague Ward
+WESTRING_AEVAL_APL3=
+//-- Plague Ward Unit Type
+WESTRING_AEVAL_APLU=
+//-- Amount of Hit Points Regenerated
+WESTRING_AEVAL_OAR1=
+//-- Percentage
+WESTRING_AEVAL_OAR2=
+//-- Attack Damage Increase
+WESTRING_AEVAL_AKB1=
+//-- Mana Loss
+WESTRING_AEVAL_ADM1=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_ADM2=
+//-- Allowed Unit Type
+WESTRING_AEVAL_BTL1=
+//-- Summon Busy Units
+WESTRING_AEVAL_BTL2=
+//-- Expansion Amount
+WESTRING_AEVAL_BLI1=
+//-- Creates Blight
+WESTRING_AEVAL_BLI2=
+//-- Gold per Interval
+WESTRING_AEVAL_BGM1=
+//-- Interval Duration
+WESTRING_AEVAL_BGM2=
+//-- Max Number of Miners
+WESTRING_AEVAL_BGM3=
+//-- Radius of Mining Ring
+WESTRING_AEVAL_BGM4=
+//-- Attack Speed Increase (%)
+WESTRING_AEVAL_BLO1=
+//-- Movement Speed Increase (%)
+WESTRING_AEVAL_BLO2=
+//-- Scaling Factor
+WESTRING_AEVAL_BLO3=
+//-- Hit Points per Second
+WESTRING_AEVAL_CAN1=
+//-- Max Hit Points
+WESTRING_AEVAL_CAN2=
+//-- Cargo Capacity
+WESTRING_AEVAL_CAR1=
+//-- Damage per Second
+WESTRING_AEVAL_DEV2=
+//-- Maximum Creep Level
+WESTRING_AEVAL_DEV3=
+//-- Movement Update Frequency
+WESTRING_AEVAL_CHD1=
+//-- Attack Update Frequency
+WESTRING_AEVAL_CHD2=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_CHD3=
+//-- New Unit Type
+WESTRING_AEVAL_CHA1=
+//-- Movement Speed Reduction (%)
+WESTRING_AEVAL_CRI1=
+//-- Attack Speed Reduction (%)
+WESTRING_AEVAL_CRI2=
+//-- Damage Reduction
+WESTRING_AEVAL_CRI3=
+//-- Chance to Miss
+WESTRING_AEVAL_CRS1=
+//-- Full Damage Radius
+WESTRING_AEVAL_DDA1=
+//-- Full Damage Amount
+WESTRING_AEVAL_DDA2=
+//-- Partial Damage Radius
+WESTRING_AEVAL_DDA3=
+//-- Partial Damage Amount
+WESTRING_AEVAL_DDA4=
+//-- Building Damage Factor
+WESTRING_AEVAL_SDS5=
+//-- Damage Taken (%)
+WESTRING_AEVAL_DEF1=
+//-- Damage Dealt (%)
+WESTRING_AEVAL_DEF2=
+//-- Movement Speed Factor
+WESTRING_AEVAL_DEF3=
+//-- Attack Speed Factor
+WESTRING_AEVAL_DEF4=
+//-- Magic Damage Reduction
+WESTRING_AEVAL_DEF5=
+//-- Max Creep Level
+WESTRING_AEVAL_DEV1=
+//-- Rip Delay
+WESTRING_AEVAL_EAT1=
+//-- Eat Delay
+WESTRING_AEVAL_EAT2=
+//-- Hit Points Gained
+WESTRING_AEVAL_EAT3=
+//-- Air Unit Lower Duration
+WESTRING_AEVAL_ENS1=
+//-- Air Unit Height
+WESTRING_AEVAL_ENS2=
+//-- Melee Attack Range
+WESTRING_AEVAL_ENS3=
+//-- Resulting Unit Type
+WESTRING_AEVAL_ENT1=
+//-- Gold per Interval
+WESTRING_AEVAL_EGM1=
+//-- Interval Duration
+WESTRING_AEVAL_EGM2=
+//-- Defense Reduction
+WESTRING_AEVAL_FAE1=
+//-- Always Autocast
+WESTRING_AEVAL_FAE2=
+//-- Detection Type
+WESTRING_AEVAL_FLA1=
+//-- Effect Delay
+WESTRING_AEVAL_FLA2=
+//-- Flare Count
+WESTRING_AEVAL_FLA3=
+//-- Max Gold
+WESTRING_AEVAL_GLD1=
+//-- Mining Duration
+WESTRING_AEVAL_GLD2=
+//-- Mining Capacity
+WESTRING_AEVAL_GLD3=
+//-- Maximum Number of Corpses
+WESTRING_AEVAL_GYD1=
+//-- Radius of Gravestones
+WESTRING_AEVAL_GYD2=
+//-- Radius of Corpses
+WESTRING_AEVAL_GYD3=
+//-- Corpse Unit Type
+WESTRING_AEVAL_GYDU=
+//-- Damage to Tree
+WESTRING_AEVAL_HAR1=
+//-- Lumber Capacity
+WESTRING_AEVAL_HAR2=
+//-- Gold Capacity
+WESTRING_AEVAL_HAR3=
+//-- Hit Points Gained 
+WESTRING_AEVAL_HEA1=
+//-- Damage Increase (%)
+WESTRING_AEVAL_INF1=
+//-- Defense Increase
+WESTRING_AEVAL_INF2=
+//-- Autocast Range
+WESTRING_AEVAL_INF3=
+//-- Life Regen Rate
+WESTRING_AEVAL_INF4=
+//-- Graphic Delay
+WESTRING_AEVAL_LIT1=
+//-- Graphic Duration
+WESTRING_AEVAL_LIT2=
+//-- Damage per Second
+WESTRING_AEVAL_LSH1=
+//-- Allowed Unit Type
+WESTRING_AEVAL_LOA1=
+//-- Mana Gained
+WESTRING_AEVAL_MBT1=
+//-- Hit Points Gained
+WESTRING_AEVAL_MBT2=
+//-- Autocast Requirement
+WESTRING_AEVAL_MBT3=
+//-- Water Height
+WESTRING_AEVAL_MBT4=
+//-- Regenerate Only At Night
+WESTRING_AEVAL_MBT5=
+//-- Normal Form Unit
+WESTRING_AEVAL_MIL1=
+//-- Alternate Form Unit
+WESTRING_AEVAL_MIL2=
+//-- Activation Delay
+WESTRING_AEVAL_MIN1=
+//-- Activation Radius
+WESTRING_AEVAL_NEU1=
+//-- Interaction Type
+WESTRING_AEVAL_NEU2=
+//-- Show Select Unit Button
+WESTRING_AEVAL_NEU3=
+//-- Show Unit Indicator
+WESTRING_AEVAL_NEU4=
+//-- Gold Cost
+WESTRING_AEVAL_NDT1=
+//-- Lumber Cost
+WESTRING_AEVAL_NDT2=
+//-- Detection Type
+WESTRING_AEVAL_NDT3=
+//-- Base Order ID
+WESTRING_AEVAL_ANS5=
+//-- Charge Owning Player
+WESTRING_AEVAL_ANS6=
+//-- Amount Regenerated
+WESTRING_AEVAL_NRE1=
+//-- Percentage
+WESTRING_AEVAL_NRE2=
+//-- Damage per Second
+WESTRING_AEVAL_POI1=
+//-- Attack Speed Factor
+WESTRING_AEVAL_POI2=
+//-- Movement Speed Factor
+WESTRING_AEVAL_POI3=
+//-- Stacking Type
+WESTRING_AEVAL_POI4=
+//-- Extra Damage
+WESTRING_AEVAL_POA1=
+//-- WESTRING_AEVAL_POI1
+WESTRING_AEVAL_POA2=
+//-- WESTRING_AEVAL_POI2
+WESTRING_AEVAL_POA3=
+//-- WESTRING_AEVAL_POI3
+WESTRING_AEVAL_POA4=
+//-- WESTRING_AEVAL_POI4
+WESTRING_AEVAL_POA5=
+//-- Maximum Creep Level
+WESTRING_AEVAL_PLY1=
+//-- Morph Units - Ground
+WESTRING_AEVAL_PLY2=
+//-- Morph Units - Air
+WESTRING_AEVAL_PLY3=
+//-- Morph Units - Amphibious
+WESTRING_AEVAL_PLY4=
+//-- Morph Units - Water
+WESTRING_AEVAL_PLY5=
+//-- Maximum Creep Level
+WESTRING_AEVAL_POS1=
+//-- Damage Amplification
+WESTRING_AEVAL_POS2=
+//-- Target Is Invulnerable
+WESTRING_AEVAL_POS3=
+//-- Target Is Magic Immune
+WESTRING_AEVAL_POS4=
+//-- Chance to Stomp (%)
+WESTRING_AEVAL_WAR1=
+//-- Damage Dealt
+WESTRING_AEVAL_WAR2=
+//-- Full Damage Radius
+WESTRING_AEVAL_WAR3=
+//-- Half Damage Radius
+WESTRING_AEVAL_WAR4=
+//-- Movement Update Frequency
+WESTRING_AEVAL_PRG1=
+//-- Attack Update Frequency
+WESTRING_AEVAL_PRG2=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_PRG3=
+//-- Unit Pause Duration
+WESTRING_AEVAL_PRG4=
+//-- Hero Pause Duration
+WESTRING_AEVAL_PRG5=
+//-- Units Summoned (Type One)
+WESTRING_AEVAL_RAI1=
+//-- Units Summoned (Type Two)
+WESTRING_AEVAL_RAI2=
+//-- Unit Type One
+WESTRING_AEVAL_RAI3=
+//-- Unit Type Two
+WESTRING_AEVAL_RAI4=
+//-- Unit Type For Limit Check
+WESTRING_AEVAL_RAIU=
+//-- Max Units Summoned
+WESTRING_AEVAL_UCB5=
+//-- Hit Points Gained
+WESTRING_AEVAL_REJ1=
+//-- Mana Points Gained
+WESTRING_AEVAL_REJ2=
+//-- Allow When Full
+WESTRING_AEVAL_REJ3=
+//-- No Target Required
+WESTRING_AEVAL_REJ4=
+//-- Minimum Life Required
+WESTRING_AEVAL_RPB3=
+//-- Minimum Mana Required
+WESTRING_AEVAL_RPB4=
+//-- Maximum Units Charged To Caster
+WESTRING_AEVAL_RPB5=
+//-- Maximum Units Affected
+WESTRING_AEVAL_RPB6=
+//-- Repair Cost Ratio
+WESTRING_AEVAL_REP1=
+//-- Repair Time Ratio
+WESTRING_AEVAL_REP2=
+//-- Powerbuild Cost
+WESTRING_AEVAL_REP3=
+//-- Powerbuild Rate
+WESTRING_AEVAL_REP4=
+//-- Naval Range Bonus
+WESTRING_AEVAL_REP5=
+//-- Accepts Gold
+WESTRING_AEVAL_RTN1=
+//-- Accepts Lumber
+WESTRING_AEVAL_RTN2=
+//-- Damage Increase (%)
+WESTRING_AEVAL_ROA1=
+//-- Defense Increase
+WESTRING_AEVAL_ROA2=
+//-- Life Regeneration Rate
+WESTRING_AEVAL_ROA3=
+//-- Damage Increase
+WESTRING_AEVAL_NBR1=
+//-- Rooted Weapons
+WESTRING_AEVAL_ROO1=
+//-- Uprooted Weapons
+WESTRING_AEVAL_ROO2=
+//-- Rooted Turning
+WESTRING_AEVAL_ROO3=
+//-- Uprooted Defense Type
+WESTRING_AEVAL_ROO4=
+//-- Salvage Cost Ratio
+WESTRING_AEVAL_SAL1=
+//-- Accumulation Step
+WESTRING_AEVAL_SAL2=
+//-- In Flight Sight Radius
+WESTRING_AEVAL_ESN1=
+//-- Hovering Sight Radius
+WESTRING_AEVAL_ESN2=
+//-- Hovering Height
+WESTRING_AEVAL_ESN3=
+//-- Number of Owls
+WESTRING_AEVAL_ESN4=
+//-- Fade Duration
+WESTRING_AEVAL_SHM1=
+//-- Day/Night Duration
+WESTRING_AEVAL_SHM2=
+//-- Action Duration
+WESTRING_AEVAL_SHM3=
+//-- Movement Speed Factor
+WESTRING_AEVAL_SLO1=
+//-- Attack Speed Factor
+WESTRING_AEVAL_SLO2=
+//-- Always Autocast
+WESTRING_AEVAL_SLO3=
+//-- Damage Per Second
+WESTRING_AEVAL_SPO1=
+//-- Movement Speed Factor
+WESTRING_AEVAL_SPO2=
+//-- Attack Speed Factor
+WESTRING_AEVAL_SPO3=
+//-- Stacking Type
+WESTRING_AEVAL_SPO4=
+//-- Number of Units
+WESTRING_AEVAL_SOD1=
+//-- Unit Type
+WESTRING_AEVAL_SOD2=
+//-- Spider Capacity
+WESTRING_AEVAL_SPA1=
+//-- Activation Delay
+WESTRING_AEVAL_STA1=
+//-- Detection Radius
+WESTRING_AEVAL_STA2=
+//-- Detonation Radius
+WESTRING_AEVAL_STA3=
+//-- Stun Duration
+WESTRING_AEVAL_STA4=
+//-- Ward Unit Type
+WESTRING_AEVAL_STAU=
+//-- Attack Speed Bonus (%)
+WESTRING_AEVAL_UHF1=
+//-- Damage per Second
+WESTRING_AEVAL_UHF2=
+//-- Lumber per Interval
+WESTRING_AEVAL_WHA1=
+//-- Intervals Before Changing Trees
+WESTRING_AEVAL_WHA2=
+//-- Art Attachment Height
+WESTRING_AEVAL_WHA3=
+//-- Teleport Area Width
+WESTRING_AEVAL_WRP1=
+//-- Teleport Area Height
+WESTRING_AEVAL_WRP2=
+//-- Agility Bonus
+WESTRING_AEVAL_IAGI=
+//-- Intelligence Bonus
+WESTRING_AEVAL_IINT=
+//-- Strength Bonus
+WESTRING_AEVAL_ISTR=
+//-- Hide Button
+WESTRING_AEVAL_IHID=
+//-- Attack Bonus
+WESTRING_AEVAL_IATT=
+//-- Defense Bonus
+WESTRING_AEVAL_IDEF=
+//-- Summon 1 - Amount
+WESTRING_AEVAL_ISN1=
+//-- Summon 1 - Unit Type
+WESTRING_AEVAL_IST1=
+//-- Summon 2 - Amount
+WESTRING_AEVAL_ISN2=
+//-- Summon 2 - Unit Type
+WESTRING_AEVAL_IST2=
+//-- Experience Gained
+WESTRING_AEVAL_IXPG=
+//-- Hit Points Gained
+WESTRING_AEVAL_IHPG=
+//-- Mana Points Gained
+WESTRING_AEVAL_IMPG=
+//-- Area of Effect Radius
+WESTRING_AEVAL_IAOE=
+//-- Life Stolen Per Attack
+WESTRING_AEVAL_IVAM=
+//-- Damage Bonus Dice
+WESTRING_AEVAL_IDIC=
+//-- Armor Penalty
+WESTRING_AEVAL_IARP=
+//-- Damage Bonus
+WESTRING_AEVAL_IDAM=
+//-- Chance To Hit Units (%)
+WESTRING_AEVAL_IOB2=
+//-- Chance To Hit Heros (%)
+WESTRING_AEVAL_IOB3=
+//-- Chance To Hit Summons (%)
+WESTRING_AEVAL_IOB4=
+//-- Enabled Attack Index
+WESTRING_AEVAL_IOB5=
+//-- Effect Ability
+WESTRING_AEVAL_IOBU=
+//-- Levels Gained
+WESTRING_AEVAL_ILEV=
+//-- Max Life Gained
+WESTRING_AEVAL_ILIF=
+//-- Max Mana Gained
+WESTRING_AEVAL_IMAN=
+//-- Gold Given
+WESTRING_AEVAL_IGOL=
+//-- Lumber Given
+WESTRING_AEVAL_ILUM=
+//-- Delay For Target Effect
+WESTRING_AEVAL_IDEL=
+//-- Maximum Creep Level
+WESTRING_AEVAL_ICRE=
+//-- Movement Frequency
+WESTRING_AEVAL_IMVF=
+//-- Attack Frequency
+WESTRING_AEVAL_IATF=
+//-- Damage to Summoned Units
+WESTRING_AEVAL_IDMS=
+//-- Movement Speed Bonus
+WESTRING_AEVAL_IMVB=
+//-- Hit Points Regenerated Per Second
+WESTRING_AEVAL_IHPR=
+//-- Sight Range Bonus
+WESTRING_AEVAL_ISIB=
+//-- Damage Per Duration
+WESTRING_AEVAL_ICFD=
+//-- Mana Used Per Second
+WESTRING_AEVAL_ICFM=
+//-- Extra Mana Required
+WESTRING_AEVAL_ICFX=
+//-- Detection Radius
+WESTRING_AEVAL_IDET=
+//-- Mana Loss Per Unit
+WESTRING_AEVAL_IDIM=
+//-- Damage To Summoned Units
+WESTRING_AEVAL_IDID=
+//-- Damage Dealt (% of normal)
+WESTRING_AEVAL_IILD=
+//-- Damage Received Multiplier
+WESTRING_AEVAL_IILW=
+//-- Maximum Number of Units
+WESTRING_AEVAL_IREC=
+//-- Mana Regeneration Bonus (as fraction of normal)
+WESTRING_AEVAL_IMRP=
+//-- Delay After Death (seconds)
+WESTRING_AEVAL_IRCD=
+//-- Restored Life
+WESTRING_AEVAL_IRC2=
+//-- Restored Mana (-1 for current)
+WESTRING_AEVAL_IRC3=
+//-- Hit Points Restored
+WESTRING_AEVAL_IHPS=
+//-- Mana Points Restored
+WESTRING_AEVAL_IMPS=
+//-- Area of Effect Radius
+WESTRING_AEVAL_IREA=
+//-- Movement Speed Increase
+WESTRING_AEVAL_ISPI=
+//-- Maximum Number of Units
+WESTRING_AEVAL_ITPM=
+//-- Damage Per Second
+WESTRING_AEVAL_IDPS=
+//-- Number of Corpses Raised
+WESTRING_AEVAL_CAD1=
+//-- Attack Damage Increase
+WESTRING_AEVAL_CAC1=
+//-- Damage Per Second
+WESTRING_AEVAL_COR1=
+//-- Attack Speed Increase
+WESTRING_AEVAL_ISX1=
+//-- Damage
+WESTRING_AEVAL_WRS1=
+//-- Terrain Deformation Amplitude
+WESTRING_AEVAL_WRS2=
+//-- Terrain Deformation Duration (ms)
+WESTRING_AEVAL_WRS3=
+//-- Damage
+WESTRING_AEVAL_CTC1=
+//-- Extra Damage To Target
+WESTRING_AEVAL_CTC2=
+//-- Movement Speed Reduction
+WESTRING_AEVAL_CTC3=
+//-- Attack Speed Reduction
+WESTRING_AEVAL_CTC4=
+//-- Damage
+WESTRING_AEVAL_CTB1=
+//-- Unit Created (per player race)
+WESTRING_AEVAL_IBL1=
+//-- Maximum Units
+WESTRING_AEVAL_UDS1=
+//-- Casting Delay (seconds)
+WESTRING_AEVAL_UDS2=
+//-- Race to Convert
+WESTRING_AEVAL_NDC1=
+//-- Conversion Unit
+WESTRING_AEVAL_NDC2=
+//-- Unit to Preserve
+WESTRING_AEVAL_NSL1=
+//-- Unit Type Allowed
+WESTRING_AEVAL_CHL1=
+//-- Detection Type
+WESTRING_AEVAL_DET1=
+//-- Mana Loss (per unit)
+WESTRING_AEVAL_DTN1=
+//-- Damage to Summoned Units
+WESTRING_AEVAL_DTN2=
+//-- Immune to Morph Effects
+WESTRING_AEVAL_ETH1=
+//-- Does Not Block Buildings
+WESTRING_AEVAL_ETH2=
+//-- Auto-Acquire Attack Targets
+WESTRING_AEVAL_GHO1=
+//-- WESTRING_AEVAL_ETH1
+WESTRING_AEVAL_GHO2=
+//-- WESTRING_AEVAL_ETH2
+WESTRING_AEVAL_GHO3=
+//-- Transition Time (seconds)
+WESTRING_AEVAL_IVS1=
+//-- Mana Drained per Second
+WESTRING_AEVAL_NMR1=
+//-- Gold Cost per Structure
+WESTRING_AEVAL_NSP1=
+//-- Lumber Cost per Use
+WESTRING_AEVAL_NSP2=
+//-- Detection Type
+WESTRING_AEVAL_NSP3=
+//-- Chance to Reduce Damage (%)
+WESTRING_AEVAL_SSK1=
+//-- Minimum Damage
+WESTRING_AEVAL_SSK2=
+//-- Ignored Damage
+WESTRING_AEVAL_SSK3=
+//-- Include Ranged Damage
+WESTRING_AEVAL_SSK4=
+//-- Include Melee Damage
+WESTRING_AEVAL_SSK5=
+//-- Full Damage Dealt
+WESTRING_AEVAL_HFS1=
+//-- Full Damage Interval
+WESTRING_AEVAL_HFS2=
+//-- Half Damage Dealt
+WESTRING_AEVAL_HFS3=
+//-- Half Damage Interval
+WESTRING_AEVAL_HFS4=
+//-- Building Reduction
+WESTRING_AEVAL_HFS5=
+//-- Maximum Damage
+WESTRING_AEVAL_HFS6=
+//-- Mana per Hit Point
+WESTRING_AEVAL_NMS1=
+//-- Damage Absorbed (%)
+WESTRING_AEVAL_NMS2=
+//-- Wave Distance
+WESTRING_AEVAL_UIM1=
+//-- Wave Time (seconds)
+WESTRING_AEVAL_UIM2=
+//-- Damage Dealt
+WESTRING_AEVAL_UIM3=
+//-- Air Time (seconds)
+WESTRING_AEVAL_UIM4=
+//-- Number of Swarm Units
+WESTRING_AEVAL_ULS1=
+//-- Unit Release Interval (seconds)
+WESTRING_AEVAL_ULS2=
+//-- Max Swarm Units Per Target
+WESTRING_AEVAL_ULS3=
+//-- Damage Return Factor
+WESTRING_AEVAL_ULS4=
+//-- Damage Return Threshold
+WESTRING_AEVAL_ULS5=
+//-- Swarm Unit Type
+WESTRING_AEVAL_ULSU=
+//-- Returned Damage Factor
+WESTRING_AEVAL_UTS1=
+//-- Received Damage Factor
+WESTRING_AEVAL_UTS2=
+//-- Defense Bonus
+WESTRING_AEVAL_UTS3=
+//-- Damage Bonus
+WESTRING_AEVAL_NBA1=
+//-- Number of Summoned Units
+WESTRING_AEVAL_NBA2=
+//-- Summoned Unit Duration (seconds)
+WESTRING_AEVAL_NBA3=
+//-- Summoned Unit Type
+WESTRING_AEVAL_NBAU=
+//-- Maximum Creep Level
+WESTRING_AEVAL_NCH1=
+//-- Mana per Summoned Hitpoint
+WESTRING_AEVAL_CMG2=
+//-- Hit Points Drained
+WESTRING_AEVAL_NDR1=
+//-- Mana Points Drained
+WESTRING_AEVAL_NDR2=
+//-- Drain Interval (seconds)
+WESTRING_AEVAL_NDR3=
+//-- Attacks Prevented
+WESTRING_AEVAL_NSI1=
+//-- Chance To Miss (%)
+WESTRING_AEVAL_NSI2=
+//-- Movement Speed Modifier
+WESTRING_AEVAL_NSI3=
+//-- Attack Speed Modifier
+WESTRING_AEVAL_NSI4=
+//-- Detection Type
+WESTRING_AEVAL_OFS1=
+//-- Summoned Unit Type
+WESTRING_AEVAL_NTOU=
+//-- Damage Per Second
+WESTRING_AEVAL_TDG1=
+//-- Medium Damage Radius
+WESTRING_AEVAL_TDG2=
+//-- Medium Damage Per Second
+WESTRING_AEVAL_TDG3=
+//-- Small Damage Radius
+WESTRING_AEVAL_TDG4=
+//-- Small Damage Per Second
+WESTRING_AEVAL_TDG5=
+//-- Air Time (seconds)
+WESTRING_AEVAL_TSP1=
+//-- Minimum Hit Interval (seconds)
+WESTRING_AEVAL_TSP2=
+//-- Damage Per Second
+WESTRING_AEVAL_NBF5=
+//-- Maximum Range
+WESTRING_AEVAL_EBL1=
+//-- Minimum Range
+WESTRING_AEVAL_EBL2=
+//-- Damage Per Target
+WESTRING_AEVAL_EFK1=
+//-- Maximum Total Damage
+WESTRING_AEVAL_EFK2=
+//-- Maximum Number of Targets
+WESTRING_AEVAL_EFK3=
+//-- Maximum Speed Adjustment
+WESTRING_AEVAL_EFK4=
+//-- Decaying Damage
+WESTRING_AEVAL_ESH1=
+//-- Movement Speed Factor
+WESTRING_AEVAL_ESH2=
+//-- Attack Speed Factor
+WESTRING_AEVAL_ESH3=
+//-- Decay Power
+WESTRING_AEVAL_ESH4=
+//-- Initial Damage
+WESTRING_AEVAL_ESH5=
+//-- Number of Summoned Units
+WESTRING_AEVAL_ESV1=
+//-- Summoned Unit Type
+WESTRING_AEVAL_ESVU=
+//-- Maximum Life Absorbed
+WESTRING_AEVAL_ABS1=
+//-- Maximum Mana Absorbed
+WESTRING_AEVAL_ABS2=
+//-- Movement Speed Increase
+WESTRING_AEVAL_BSK1=
+//-- Attack Speed Increase
+WESTRING_AEVAL_BSK2=
+//-- Damage Taken Increase
+WESTRING_AEVAL_BSK3=
+//-- Resulting Unit Type
+WESTRING_AEVAL_COAU=
+//-- Partner Unit Type
+WESTRING_AEVAL_COA1=
+//-- Move To Partner
+WESTRING_AEVAL_COA2=
+//-- Can Be Dispelled
+WESTRING_AEVAL_CYC1=
+//-- Partner Unit Type One
+WESTRING_AEVAL_DCP1=
+//-- Partner Unit Type Two
+WESTRING_AEVAL_DCP2=
+//-- Life Per Unit
+WESTRING_AEVAL_DVM1=
+//-- Mana Per Unit
+WESTRING_AEVAL_DVM2=
+//-- Life Per Buff
+WESTRING_AEVAL_DVM3=
+//-- Mana Per Buff
+WESTRING_AEVAL_DVM4=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_DVM5=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_DCH1=
+//-- Medium Damage Factor
+WESTRING_AEVAL_DCH2=
+//-- Small Damage Factor
+WESTRING_AEVAL_DCH3=
+//-- Maximum Number of Corpses
+WESTRING_AEVAL_EXH1=
+//-- Unit Type
+WESTRING_AEVAL_EXHU=
+//-- Damage Bonus
+WESTRING_AEVAL_FAK1=
+//-- Medium Damage Factor
+WESTRING_AEVAL_FAK2=
+//-- Small Damage Factor
+WESTRING_AEVAL_FAK3=
+//-- Full Damage Radius
+WESTRING_AEVAL_FAK4=
+//-- Half Damage Radius
+WESTRING_AEVAL_FAK5=
+//-- Ward Unit Type
+WESTRING_AEVAL_HWDU=
+//-- Item Capacity
+WESTRING_AEVAL_INV1=
+//-- Drop Items On Death
+WESTRING_AEVAL_INV2=
+//-- Can Use Items
+WESTRING_AEVAL_INV3=
+//-- Can Get Items
+WESTRING_AEVAL_INV4=
+//-- Can Drop Items
+WESTRING_AEVAL_INV5=
+//-- Extra Damage Per Second
+WESTRING_AEVAL_LIQ1=
+//-- Movement Speed Reduction
+WESTRING_AEVAL_LIQ2=
+//-- Attack Speed Reduction
+WESTRING_AEVAL_LIQ3=
+//-- Repairs Allowed
+WESTRING_AEVAL_LIQ4=
+//-- Magic Damage Factor
+WESTRING_AEVAL_MIM1=
+//-- Unit - Damage Per Mana Point
+WESTRING_AEVAL_MFL1=
+//-- Hero - Damage Per Mana Point
+WESTRING_AEVAL_MFL2=
+//-- Unit - Maximum Damage
+WESTRING_AEVAL_MFL3=
+//-- Hero - Maximum Damage
+WESTRING_AEVAL_MFL4=
+//-- Damage Cooldown
+WESTRING_AEVAL_MFL5=
+//-- Required Unit Type
+WESTRING_AEVAL_TPI1=
+//-- Converted Unit Type
+WESTRING_AEVAL_TPI2=
+//-- Distributed Damage Factor
+WESTRING_AEVAL_SPL1=
+//-- Maximum Number of Targets
+WESTRING_AEVAL_SPL2=
+//-- Life Regenerated
+WESTRING_AEVAL_IRL1=
+//-- Mana Regenerated
+WESTRING_AEVAL_IRL2=
+//-- Allow When Full
+WESTRING_AEVAL_IRL3=
+//-- No Target Required
+WESTRING_AEVAL_IRL4=
+//-- Dispel On Attack
+WESTRING_AEVAL_IRL5=
+//-- Mana Loss Per Unit
+WESTRING_AEVAL_IDC1=
+//-- Summoned Unit Damage
+WESTRING_AEVAL_IDC2=
+//-- Maximum Dispelled Units
+WESTRING_AEVAL_IDC3=
+//-- Number of Lures
+WESTRING_AEVAL_IMO1=
+//-- Activation Delay
+WESTRING_AEVAL_IMO2=
+//-- Lure Interval (seconds)
+WESTRING_AEVAL_IMO3=
+//-- Lure Unit Type
+WESTRING_AEVAL_IMOU=
+//-- New Time of Day - Hour
+WESTRING_AEVAL_ICT1=
+//-- New Time of Day - Minute
+WESTRING_AEVAL_ICT2=
+//-- Damage Bonus
+WESTRING_AEVAL_ISR1=
+//-- Damage Reduction
+WESTRING_AEVAL_ISR2=
+//-- Damage Bonus
+WESTRING_AEVAL_IPV1=
+//-- Life Steal Amount
+WESTRING_AEVAL_IPV2=
+//-- Amount Is Raw Value
+WESTRING_AEVAL_IPV3=
+//-- Number of Units Created
+WESTRING_AEVAL_MEC1=
+//-- Spell List
+WESTRING_AEVAL_SPB1=
+//-- Shared Spell Cooldown
+WESTRING_AEVAL_SPB2=
+//-- Minimum Spells
+WESTRING_AEVAL_SPB3=
+//-- Maximum Spells
+WESTRING_AEVAL_SPB4=
+//-- Base Order ID
+WESTRING_AEVAL_SPB5=
+//-- Life Restored Factor
+WESTRING_AEVAL_AST1=
+//-- Mana Restored Factor
+WESTRING_AEVAL_AST2=
+//-- Attach Delay
+WESTRING_AEVAL_GRA1=
+//-- Remove Delay
+WESTRING_AEVAL_GRA2=
+//-- Disabled Attack Index
+WESTRING_AEVAL_GRA3=
+//-- Enabled Attack Index
+WESTRING_AEVAL_GRA4=
+//-- Maximum Attacks
+WESTRING_AEVAL_GRA5=
+//-- Unit Type
+WESTRING_AEVAL_IPMU=
+//-- Building Types Allowed
+WESTRING_AEVAL_NPR1=
+//-- Building Types Allowed
+WESTRING_AEVAL_NSA1=
+//-- Hero Regeneration Delay
+WESTRING_AEVAL_NSA2=
+//-- Unit Regeneration Delay
+WESTRING_AEVAL_NSA3=
+//-- Magic Damage Reduction
+WESTRING_AEVAL_NSA4=
+//-- Hit Points Per Second
+WESTRING_AEVAL_NSA5=
+//-- Attack Modification
+WESTRING_AEVAL_IAA1=
+//-- Damage To Summoned Units
+WESTRING_AEVAL_IXS1=
+//-- Magic Damage Reduction
+WESTRING_AEVAL_IXS2=
+//-- Summoned Unit Types
+WESTRING_AEVAL_NEF1=
+//-- Summoned Unit Count
+WESTRING_AEVAL_NPA5=
+//-- Summoned Unit Duration
+WESTRING_AEVAL_NPA6=
+//-- Upgrade Levels
+WESTRING_AEVAL_IGL1=
+//-- Upgrade Type
+WESTRING_AEVAL_IGLU=
+//-- Shield Cooldown Time
+WESTRING_AEVAL_NSE1=
+//-- Damage Per Second
+WESTRING_AEVAL_NDO1=
+//-- Number of Summoned Units
+WESTRING_AEVAL_NDO2=
+//-- Summoned Unit Duration (seconds)
+WESTRING_AEVAL_NDO3=
+//-- Summoned Unit Type
+WESTRING_AEVAL_NDOU=
+//-- Medium Damage Radius
+WESTRING_AEVAL_FLK1=
+//-- Small Damage Radius
+WESTRING_AEVAL_FLK2=
+//-- Full Damage Amount
+WESTRING_AEVAL_FLK3=
+//-- Medium Damage Amount
+WESTRING_AEVAL_FLK4=
+//-- Small Damage Amount
+WESTRING_AEVAL_FLK5=
+//-- Movement Speed Reduction (%)
+WESTRING_AEVAL_HBN1=
+//-- Attack Speed Reduction (%)
+WESTRING_AEVAL_HBN2=
+//-- Max Mana Drained - Units
+WESTRING_AEVAL_FBK1=
+//-- Damage Ratio - Units (%)
+WESTRING_AEVAL_FBK2=
+//-- Max Mana Drained - Heros
+WESTRING_AEVAL_FBK3=
+//-- Damage Ratio - Heros (%)
+WESTRING_AEVAL_FBK4=
+//-- Distributed Damage Factor
+WESTRING_AEVAL_NCA1=
+//-- Initial Damage
+WESTRING_AEVAL_PXF1=
+//-- Damage Per Second
+WESTRING_AEVAL_PXF2=
+//-- Damage Per Second
+WESTRING_AEVAL_MLS1=
+//-- Sleep Once
+WESTRING_AEVAL_SLA1=
+//-- Allow On Any Player Slot
+WESTRING_AEVAL_SLA2=
+//-- Beasts Per Second
+WESTRING_AEVAL_NST1=
+//-- Beast Collision Radius
+WESTRING_AEVAL_NST2=
+//-- Damage Amount
+WESTRING_AEVAL_NST3=
+//-- Damage Radius
+WESTRING_AEVAL_NST4=
+//-- Damage Delay
+WESTRING_AEVAL_NST5=
+//-- Follow Through Time
+WESTRING_AEVAL_NCL1=
+//-- Target Type
+WESTRING_AEVAL_NCL2=
+//-- Options
+WESTRING_AEVAL_NCL3=
+//-- Art Duration
+WESTRING_AEVAL_NCL4=
+//-- Disable Other Abilities
+WESTRING_AEVAL_NCL5=
+//-- Base Order ID
+WESTRING_AEVAL_NCL6=
+//-- Movement Speed Reduction (%)
+WESTRING_AEVAL_NAB1=
+//-- Attack Speed Reduction (%)
+WESTRING_AEVAL_NAB2=
+//-- Armor Penalty
+WESTRING_AEVAL_NAB3=
+//-- Primary Damage
+WESTRING_AEVAL_NAB4=
+//-- Secondary Damage
+WESTRING_AEVAL_NAB5=
+//-- Damage Interval
+WESTRING_AEVAL_NAB6=
+//-- Wave Count
+WESTRING_AEVAL_NHS6=
+//-- Gold Cost Factor
+WESTRING_AEVAL_NTM1=
+//-- Lumber Cost Factor
+WESTRING_AEVAL_NTM2=
+//-- Max Creep Level
+WESTRING_AEVAL_NTM3=
+//-- Allow Bounty
+WESTRING_AEVAL_NTM4=
+//-- Move Speed Bonus
+WESTRING_AEVAL_NEG1=
+//-- Damage Bonus
+WESTRING_AEVAL_NEG2=
+//-- Ability Upgrade 1
+WESTRING_AEVAL_NEG3=
+//-- Ability Upgrade 2
+WESTRING_AEVAL_NEG4=
+//-- Ability Upgrade 3
+WESTRING_AEVAL_NEG5=
+//-- Ability Upgrade 4
+WESTRING_AEVAL_NEG6=
+//-- Damage Amount
+WESTRING_AEVAL_NCS1=
+//-- Damage Interval
+WESTRING_AEVAL_NCS2=
+//-- Missile Count
+WESTRING_AEVAL_NCS3=
+//-- Max Damage
+WESTRING_AEVAL_NCS4=
+//-- Building Damage Factor
+WESTRING_AEVAL_NCS5=
+//-- Effect Duration
+WESTRING_AEVAL_NCS6=
+//-- Spawn Interval
+WESTRING_AEVAL_NSY1=
+//-- Spawn Unit ID
+WESTRING_AEVAL_NSY2=
+//-- Spawn Unit Duration
+WESTRING_AEVAL_NSY3=
+//-- Spawn Unit Offset
+WESTRING_AEVAL_NSY4=
+//-- Factory Unit ID
+WESTRING_AEVAL_NSYU=
+//-- Spawn Interval
+WESTRING_AEVAL_NFY1=
+//-- Spawn Unit ID
+WESTRING_AEVAL_NFYU=
+//-- Chance to Demolish
+WESTRING_AEVAL_NDE1=
+//-- Damage Multiplier (Buildings)
+WESTRING_AEVAL_NDE2=
+//-- Damage Multiplier (Units)
+WESTRING_AEVAL_NDE3=
+//-- Damage Multiplier (Heroes)
+WESTRING_AEVAL_NDE4=
+//-- Bonus Damage Multiplier
+WESTRING_AEVAL_NIC1=
+//-- Death Damage Full Amount
+WESTRING_AEVAL_NIC2=
+//-- Death Damage Full Area
+WESTRING_AEVAL_NIC3=
+//-- Death Damage Half Amount
+WESTRING_AEVAL_NIC4=
+//-- Death Damage Half Area
+WESTRING_AEVAL_NIC5=
+//-- Death Damage Delay
+WESTRING_AEVAL_NIC6=
+//-- Damage Amount
+WESTRING_AEVAL_NSO1=
+//-- Damage Period
+WESTRING_AEVAL_NSO2=
+//-- Damage Penalty
+WESTRING_AEVAL_NSO3=
+//-- Movement Speed Reduction (%)
+WESTRING_AEVAL_NSO4=
+//-- Attack Speed Reduction (%)
+WESTRING_AEVAL_NSO5=
+//-- Split Delay
+WESTRING_AEVAL_NLM2=
+//-- Split Attack Count
+WESTRING_AEVAL_NLM3=
+//-- Max Hitpoint Factor
+WESTRING_AEVAL_NLM4=
+//-- Life Duration Split Bonus
+WESTRING_AEVAL_NLM5=
+//-- Generation Count
+WESTRING_AEVAL_NLM6=
+//-- Rock Ring Count
+WESTRING_AEVAL_NVC1=
+//-- Wave Count
+WESTRING_AEVAL_NVC2=
+//-- Wave Interval
+WESTRING_AEVAL_NVC3=
+//-- Building Damage Factor
+WESTRING_AEVAL_NVC4=
+//-- Full Damage Amount
+WESTRING_AEVAL_NVC5=
+//-- Half Damage Factor
+WESTRING_AEVAL_NVC6=
+//-- Name (Editor Only)
+WESTRING_FEVAL_FNAM=
+//-- Editor Suffix
+WESTRING_FEVAL_FNSF=
+//-- Tooltip
+WESTRING_FEVAL_FTIP=
+//-- Tooltip - Extended
+WESTRING_FEVAL_FUBE=
+//-- Icon
+WESTRING_FEVAL_FART=
+//-- Is an Effect
+WESTRING_FEVAL_FEFF=
+//-- Race
+WESTRING_FEVAL_FRAC=
+//-- Target
+WESTRING_FEVAL_FTAT=
+//-- Special
+WESTRING_FEVAL_FSAT=
+//-- Effect
+WESTRING_FEVAL_FEAT=
+//-- Lightning
+WESTRING_FEVAL_FLIG=
+//-- Missile Art
+WESTRING_FEVAL_FMAT=
+//-- Missile Speed
+WESTRING_FEVAL_FMSP=
+//-- Missile Arc
+WESTRING_FEVAL_FMAC=
+//-- Missile Homing Enabled
+WESTRING_FEVAL_FMHO=
+//-- Target Attachments
+WESTRING_FEVAL_FTAC=
+//-- Target Attachment Point 1
+WESTRING_FEVAL_FTA0=
+//-- Target Attachment Point 2
+WESTRING_FEVAL_FTA1=
+//-- Target Attachment Point 3
+WESTRING_FEVAL_FTA2=
+//-- Target Attachment Point 4
+WESTRING_FEVAL_FTA3=
+//-- Target Attachment Point 5
+WESTRING_FEVAL_FTA4=
+//-- Target Attachment Point 6
+WESTRING_FEVAL_FTA5=
+//-- Effect Attachment Point
+WESTRING_FEVAL_FEFT=
+//-- Special Attachment Point
+WESTRING_FEVAL_FSPT=
+//-- Effect Sound
+WESTRING_FEVAL_FEFS=
+//-- Effect Sound (Looping)
+WESTRING_FEVAL_FEFL=
+//-- Required Spell Detail
+WESTRING_FEVAL_FSPD=
+//-- Level %d
+WESTRING_GEVAL_LVL=
+//-- Name
+WESTRING_GEVAL_GNAM=
+//-- Editor Suffix
+WESTRING_GEVAL_GNSF=
+//-- Tooltip
+WESTRING_GEVAL_GTP1=
+//-- Tooltip - Extended
+WESTRING_GEVAL_GUB1=
+//-- Hotkey
+WESTRING_GEVAL_GHK1=
+//-- Button Position (X)
+WESTRING_GEVAL_GBPX=
+//-- Button Position (Y)
+WESTRING_GEVAL_GBPY=
+//-- Icon
+WESTRING_GEVAL_GAR1=
+//-- Class
+WESTRING_GEVAL_GCLS=
+//-- Levels
+WESTRING_GEVAL_GLVL=
+//-- Gold Base
+WESTRING_GEVAL_GGLB=
+//-- Gold Increment
+WESTRING_GEVAL_GGLM=
+//-- Lumber Base
+WESTRING_GEVAL_GLMB=
+//-- Lumber Increment
+WESTRING_GEVAL_GLMM=
+//-- Time Base
+WESTRING_GEVAL_GTIB=
+//-- Time Increment
+WESTRING_GEVAL_GTIM=
+//-- Effect 1
+WESTRING_GEVAL_GEF1=
+//-- Effect 1 - %s
+WESTRING_GEVAL_GBA1=
+//-- Effect 1 - %s
+WESTRING_GEVAL_GMO1=
+//-- Effect 1 - %s
+WESTRING_GEVAL_GCO1=
+//-- Effect 2
+WESTRING_GEVAL_GEF2=
+//-- Effect 2 - %s
+WESTRING_GEVAL_GBA2=
+//-- Effect 2 - %s
+WESTRING_GEVAL_GMO2=
+//-- Effect 2 - %s
+WESTRING_GEVAL_GCO2=
+//-- Effect 3
+WESTRING_GEVAL_GEF3=
+//-- Effect 3 - %s
+WESTRING_GEVAL_GBA3=
+//-- Effect 3 - %s
+WESTRING_GEVAL_GMO3=
+//-- Effect 3 - %s
+WESTRING_GEVAL_GCO3=
+//-- Effect 4
+WESTRING_GEVAL_GEF4=
+//-- Effect 4 - %s
+WESTRING_GEVAL_GBA4=
+//-- Effect 4 - %s
+WESTRING_GEVAL_GMO4=
+//-- Effect 4 - %s
+WESTRING_GEVAL_GCO4=
+//-- Transfer with Unit Ownership
+WESTRING_GEVAL_GINH=
+//-- Requirements
+WESTRING_GEVAL_GREQ=
+//-- Requirements - Levels
+WESTRING_GEVAL_GRQC=
+//-- Race
+WESTRING_GEVAL_GRAC=
+//-- Applies to All Units
+WESTRING_GEVAL_GLOB=
+//-- Attack Dice Bonus - Base
+WESTRING_EEVAL_ATDB=
+//-- Attack Dice Bonus - Increment
+WESTRING_EEVAL_ATDM=
+//-- Ability Level Bonus - Base
+WESTRING_EEVAL_LEVB=
+//-- Ability Level Bonus - Increment
+WESTRING_EEVAL_LEVM=
+//-- Ability Affected
+WESTRING_EEVAL_LEVC=
+//-- Hit Point Bonus - Base
+WESTRING_EEVAL_HPXB=
+//-- Hit Point Bonus - Increment
+WESTRING_EEVAL_HPXM=
+//-- Mana Point Bonus - Base
+WESTRING_EEVAL_MNXB=
+//-- Mana Point Bonus - Increment
+WESTRING_EEVAL_MNXM=
+//-- Movement Speed Bonus - Base
+WESTRING_EEVAL_MVXB=
+//-- Movement Speed Bonus - Increment
+WESTRING_EEVAL_MVXM=
+//-- Mana Regeneration Bonus (%) - Base
+WESTRING_EEVAL_MNRB=
+//-- Mana Regeneration Bonus (%) - Increment
+WESTRING_EEVAL_MNRM=
+//-- Hit Point Bonus (%) - Base
+WESTRING_EEVAL_HPOB=
+//-- Hit Point Bonus (%) - Increment
+WESTRING_EEVAL_HPOM=
+//-- Mana Point Bonus (%) - Base
+WESTRING_EEVAL_MANB=
+//-- Mana Point Bonus (%) - Increment
+WESTRING_EEVAL_MANM=
+//-- Movement Speed Bonus (%) - Base
+WESTRING_EEVAL_MOVB=
+//-- Movement Speed Bonus (%) - Increment
+WESTRING_EEVAL_MOVM=
+//-- Attack Damage Bonus - Base
+WESTRING_EEVAL_ATXB=
+//-- Attack Damage Bonus - Increment
+WESTRING_EEVAL_ATXM=
+//-- Lumber Harvest Bonus - Base
+WESTRING_EEVAL_LUMB=
+//-- Lumber Harvest Bonus - Increment
+WESTRING_EEVAL_LUMM=
+//-- Attack Range Bonus - Base
+WESTRING_EEVAL_ATRB=
+//-- Attack Range Bonus - Increment
+WESTRING_EEVAL_ATRM=
+//-- Attack Speed Bonus (%) - Base
+WESTRING_EEVAL_ATSB=
+//-- Attack Speed Bonus (%) - Increment
+WESTRING_EEVAL_ATSM=
+//-- Spike Damage - Base
+WESTRING_EEVAL_SPIB=
+//-- Spike Damage - Increment
+WESTRING_EEVAL_SPIM=
+//-- Hit Point Regeneration Bonus (%) - Base
+WESTRING_EEVAL_HPRB=
+//-- Hit Point Regeneration Bonus (%) - Increment
+WESTRING_EEVAL_HPRM=
+//-- Sight Range Bonus - Base
+WESTRING_EEVAL_SIGB=
+//-- Sight Range Bonus - Increment
+WESTRING_EEVAL_SIGM=
+//-- Attack Target Count Bonus - Base
+WESTRING_EEVAL_ATCB=
+//-- Attack Target Count Bonus - Increment
+WESTRING_EEVAL_ATCM=
+//-- Attack Damage Loss Bonus - Base
+WESTRING_EEVAL_ADLB=
+//-- Attack Damage Loss Bonus - Increment
+WESTRING_EEVAL_ADLM=
+//-- Gold Harvest Bonus - Base
+WESTRING_EEVAL_MINB=
+//-- Gold Harvest Bonus - Increment
+WESTRING_EEVAL_MINM=
+//-- Raise Dead Duration Bonus - Base
+WESTRING_EEVAL_RAIB=
+//-- Raise Dead Duration Bonus - Increment
+WESTRING_EEVAL_RAIM=
+//-- Gold Harvest Bonus (Entangle) - Base
+WESTRING_EEVAL_ENTB=
+//-- Gold Harvest Bonus (Entangle) - Increment
+WESTRING_EEVAL_ENTM=
+//-- Attacks to Enable
+WESTRING_EEVAL_ENWB=
+//-- Aura Data Bonus - Base
+WESTRING_EEVAL_AUDB=
+//-- Aura Data Bonus - Increment
+WESTRING_EEVAL_AUDM=
+//-- Attack Spill Distance Bonus - Base
+WESTRING_EEVAL_ASDB=
+//-- Attack Spill Distance Bonus - Increment
+WESTRING_EEVAL_ASDM=
+//-- Attack Spill Radius Bonus - Base
+WESTRING_EEVAL_ASRB=
+//-- Attack Spill Radius Bonus - Increment
+WESTRING_EEVAL_ASRM=
+//-- Attacks to Enable (Rooted)
+WESTRING_EEVAL_ROOB=
+//-- Attacks to Enable (Uprooted)
+WESTRING_EEVAL_UROB=
+//-- New Defense Type
+WESTRING_EEVAL_UART=
+//-- New Availability
+WESTRING_EEVAL_UTMA=
+//-- Unit Type Affected
+WESTRING_EEVAL_TTMA=
+//-- Hero XP - Global Distribution
+WESTRING_MISCVAL_GEXP=
+//-- Hero XP - Building Kills Grant XP
+WESTRING_MISCVAL_BGXP=
+//-- Hero XP - Max Level Heroes Drain XP
+WESTRING_MISCVAL_MHDX=
+//-- Building Status Display
+WESTRING_MISCVAL_DBST=
+//-- Enemy Inventory Display
+WESTRING_MISCVAL_DEIN=
+//-- Hero Maximum Level
+WESTRING_MISCVAL_MHEL=
+//-- Unit Maximum Level
+WESTRING_MISCVAL_MULE=
+//-- Hero XP Required - Table
+WESTRING_MISCVAL_MXPN=
+//-- Hero XP Required - Previous Value Factor
+WESTRING_MISCVAL_XPN1=
+//-- Hero XP Required - Level Factor
+WESTRING_MISCVAL_XPN2=
+//-- Hero XP Required - Constant Factor
+WESTRING_MISCVAL_XPN3=
+//-- Hero Maximum Revive Cost - Gold
+WESTRING_MISCVAL_MHRC=
+//-- Hero Maximum Revive Cost - Lumber
+WESTRING_MISCVAL_MHRL=
+//-- Hero Maximum Revive Cost - Time
+WESTRING_MISCVAL_MHRT=
+//-- Hero Maximum Awaken Cost - Gold
+WESTRING_MISCVAL_MHAC=
+//-- Hero Maximum Awaken Cost - Lumber
+WESTRING_MISCVAL_MHAL=
+//-- Hero Revive - Use Starting Mana
+WESTRING_MISCVAL_HRMS=
+//-- Hero Revive - Mana Factor
+WESTRING_MISCVAL_HRMF=
+//-- Hero Revive - Life Factor
+WESTRING_MISCVAL_HRLF=
+//-- Hero Awaken - Use Starting Mana
+WESTRING_MISCVAL_HAMS=
+//-- Hero Awaken - Mana Factor
+WESTRING_MISCVAL_HAMF=
+//-- Hero Awaken - Life Factor
+WESTRING_MISCVAL_HALF=
+//-- Building Radius - Blight Dispel
+WESTRING_MISCVAL_BUBR=
+//-- Creeps - Radius to Notice Building Construction
+WESTRING_MISCVAL_BCNR=
+//-- Creeps - Radius to Notice Neutral Building Use
+WESTRING_MISCVAL_NUNR=
+//-- Fog Reveal Radius - Attacking Unit
+WESTRING_MISCVAL_FARR=
+//-- Fog Reveal Radius - Dying Unit
+WESTRING_MISCVAL_DFRR=
+//-- Decay Time (sec) - Bones
+WESTRING_MISCVAL_BDET=
+//-- Decay Time (sec) - Structures
+WESTRING_MISCVAL_SDET=
+//-- Decay Time (sec) - Flesh
+WESTRING_MISCVAL_DECT=
+//-- Decay Time (sec) - Hero Dissipation
+WESTRING_MISCVAL_DIST=
+//-- Decay Time (sec) - Missiles
+WESTRING_MISCVAL_BUDT=
+//-- Decay Time (sec) - Effects
+WESTRING_MISCVAL_EFDT=
+//-- Decay Time (sec) - Cancellation
+WESTRING_MISCVAL_CADT=
+//-- Decay Time (sec) - Fog of War Flash
+WESTRING_MISCVAL_FFDT=
+//-- Follow Range - Units
+WESTRING_MISCVAL_FOLR=
+//-- Follow Range - Structures
+WESTRING_MISCVAL_FOLS=
+//-- Follow Range - Items
+WESTRING_MISCVAL_FOLI=
+//-- Spells - Target Motion Allowance
+WESTRING_MISCVAL_SCRB=
+//-- Reaction Delay (sec) - Maximum
+WESTRING_MISCVAL_READ=
+//-- Combat - Chance to Miss (moving or high ground)
+WESTRING_MISCVAL_CHTM=
+//-- Time - Real seconds per game day
+WESTRING_MISCVAL_DAYL=
+//-- Time - Dawn
+WESTRING_MISCVAL_DAWN=
+//-- Time - Dusk
+WESTRING_MISCVAL_DUSK=
+//-- Time - Hours Per Day
+WESTRING_MISCVAL_DAYH=
+//-- Gold Mine - Maximum Gold
+WESTRING_MISCVAL_GMMG=
+//-- Hero Maximum XP Gain Range
+WESTRING_MISCVAL_HEXR=
+//-- Hero Revive Cost - Gold Constant Factor
+WESTRING_MISCVAL_RBFG=
+//-- Hero Revive Cost - Gold Level Factor
+WESTRING_MISCVAL_RLFG=
+//-- Hero Revive Cost - Lumber Constant Factor
+WESTRING_MISCVAL_RBFL=
+//-- Hero Revive Cost - Lumber Level Factor
+WESTRING_MISCVAL_RLFL=
+//-- Hero Revive Cost - Maximum Gold/Lumber Factor
+WESTRING_MISCVAL_RMAF=
+//-- Hero Revive Cost - Time Level Factor
+WESTRING_MISCVAL_RBFT=
+//-- Hero Revive Cost - Maximum Time Factor
+WESTRING_MISCVAL_RMTF=
+//-- Hero Awaken Cost - Gold Constant Factor
+WESTRING_MISCVAL_AWBF=
+//-- Hero Awaken Cost - Gold Level Factor
+WESTRING_MISCVAL_AWLF=
+//-- Hero Awaken Cost - Lumber Constant Factor
+WESTRING_MISCVAL_AWBL=
+//-- Hero Awaken Cost - Lumber Level Factor
+WESTRING_MISCVAL_AWLL=
+//-- Hero Awaken Cost - Maximum Gold/Lumber Factor
+WESTRING_MISCVAL_AWMF=
+//-- Gold Mine - Low Gold Amount
+WESTRING_MISCVAL_LOGA=
+//-- Gold Mine - Ownership Time Buffer (sec)
+WESTRING_MISCVAL_GMOD=
+//-- Unit Visibility Change Rate
+WESTRING_MISCVAL_INVS=
+//-- Spells - Frost Movement Speed Reduction
+WESTRING_MISCVAL_FROM=
+//-- Spells - Frost Attack Speed Reduction
+WESTRING_MISCVAL_FROA=
+//-- "Hero XP Gained - Normal, Table"
+WESTRING_MISCVAL_GNXP=
+//-- "Hero XP Gained - Normal, Previous Value Factor"
+WESTRING_MISCVAL_GNXA=
+//-- "Hero XP Gained - Normal, Level Factor"
+WESTRING_MISCVAL_GNXB=
+//-- "Hero XP Gained - Normal, Constant Factor"
+WESTRING_MISCVAL_GNXC=
+//-- "Hero XP Gained - Hero, Table"
+WESTRING_MISCVAL_GHXP=
+//-- "Hero XP Gained - Hero, Previous Value Factor"
+WESTRING_MISCVAL_GHFA=
+//-- "Hero XP Gained - Hero, Level Factor"
+WESTRING_MISCVAL_GHFB=
+//-- "Hero XP Gained - Hero, Constant Factor"
+WESTRING_MISCVAL_GHFC=
+//-- Hero XP Gained - Creep Reduction Table
+WESTRING_MISCVAL_HFXP=
+//-- Hero Attributes - Attack Bonus per Primary Att. Point
+WESTRING_MISCVAL_SATB=
+//-- Hero Attributes - Hit Point Bonus per Strength Point
+WESTRING_MISCVAL_SHPB=
+//-- Hero Attributes - HP Regen. Bonus per Strength Point
+WESTRING_MISCVAL_SREB=
+//-- Hero Attributes - Mana Point Bonus per Intelligence Point
+WESTRING_MISCVAL_IMAB=
+//-- Hero Attributes - Mana Regen. Bonus per Intelligence Point
+WESTRING_MISCVAL_IMRB=
+//-- Hero Attributes - Defense Bonus per Agility Point
+WESTRING_MISCVAL_ADEB=
+//-- Hero Attributes - Defense Base Value (before Agility Bonus)
+WESTRING_MISCVAL_ADBA=
+//-- Hero Attributes - Movement Bonus per Agility Point
+WESTRING_MISCVAL_AMVB=
+//-- Hero Attributes - Attack Speed Bonus per Agility Point
+WESTRING_MISCVAL_AASB=
+//-- Inventory - Drop Item Range
+WESTRING_MISCVAL_DROP=
+//-- Inventory - Give Item Range
+WESTRING_MISCVAL_GIVE=
+//-- Inventory - Pick Up Item Range
+WESTRING_MISCVAL_PICK=
+//-- Inventory - Sell Item Range
+WESTRING_MISCVAL_PAIR=
+//-- Inventory - Sell Item Return Rate
+WESTRING_MISCVAL_PAIF=
+//-- Combat - Call For Help Range
+WESTRING_MISCVAL_CFHR=
+//-- "Combat - Call For Help Range, Creeps"
+WESTRING_MISCVAL_CFHC=
+//-- Combat - Armor Damage Reduction Multiplier
+WESTRING_MISCVAL_DEFA=
+//-- Combat - Damage Bonus Table - Normal
+WESTRING_MISCVAL_CTNO=
+//-- Combat - Damage Bonus Table - Pierce
+WESTRING_MISCVAL_CTPI=
+//-- Combat - Damage Bonus Table - Siege
+WESTRING_MISCVAL_CTSI=
+//-- Combat - Damage Bonus Table - Magic
+WESTRING_MISCVAL_CTMA=
+//-- Combat - Damage Bonus Table - Chaos
+WESTRING_MISCVAL_CTCH=
+//-- Combat - Damage Bonus Table - Spells
+WESTRING_MISCVAL_CTSP=
+//-- Combat - Damage Bonus Table - Hero
+WESTRING_MISCVAL_CTHE=
+//-- Creeps - Guard Distance
+WESTRING_MISCVAL_GUAD=
+//-- Creeps - Guard Return Distance
+WESTRING_MISCVAL_GUAM=
+//-- Creeps - Guard Return Time (sec)
+WESTRING_MISCVAL_GUAT=
+//-- Cancel Refund Factor - Building Construction
+WESTRING_MISCVAL_RRCO=
+//-- Cancel Refund Factor - Research
+WESTRING_MISCVAL_RRRE=
+//-- Cancel Refund Factor - Hero Revival
+WESTRING_MISCVAL_RRHR=
+//-- Cancel Refund Factor - Unit Training
+WESTRING_MISCVAL_RRTU=
+//-- Cancel Refund Factor - Building Upgrade
+WESTRING_MISCVAL_RRBU=
+//-- Attack Notification - Minimum Interval (sec)
+WESTRING_MISCVAL_ANDE=
+//-- Attack Notification - Minimum Range
+WESTRING_MISCVAL_ANRA=
+//-- Ally Trading Increment - Normal Click
+WESTRING_MISCVAL_TRAS=
+//-- Ally Trading Increment - Control Click
+WESTRING_MISCVAL_TRAL=
+//-- Hero Abilities Level Skip (Default)
+WESTRING_MISCVAL_HALS=
+//-- Cancel Construction - HP Loss Rate (per sec)
+WESTRING_MISCVAL_CLDR=
+//-- Building Facing Angle (degrees)
+WESTRING_MISCVAL_BANG=
+//-- "Building Facing Angle, Rooted (degrees)"
+WESTRING_MISCVAL_RANG=
+//-- Collision - Maximum Radius
+WESTRING_MISCVAL_MCOR=
+//-- Rally Point - Z Offset
+WESTRING_MISCVAL_RZOF=
+//-- Animation Time Scale
+WESTRING_MISCVAL_SANT=
+//-- Hero XP Gained - Summoned Unit Factor
+WESTRING_MISCVAL_SKIF=
+//-- Combat - Damage Bonus Table - Ethereal
+WESTRING_MISCVAL_EDBO=
+//-- Combat - Missed Attacks Damage Factor
+WESTRING_MISCVAL_MDRE=
+//-- Spells - Ethereal Heal Bonus
+WESTRING_MISCVAL_EHBO=
+//-- Movement - Unit Speed - Maximum
+WESTRING_MISCVAL_MXUS=
+//-- Movement - Unit Speed - Minimum
+WESTRING_MISCVAL_MNUS=
+//-- Movement - Building Speed - Maximum
+WESTRING_MISCVAL_MXBS=
+//-- Movement - Building Speed - Minimum
+WESTRING_MISCVAL_MNBS=
+//-- Creeps - Maximum Creep Camp Radius (pathing cells)
+WESTRING_MISCVAL_CCCR=
+//-- Food Limit
+WESTRING_MISCVAL_FCAP=
+//-- Upkeep - Food Levels
+WESTRING_MISCVAL_UPKU=
+//-- Upkeep - Gold Tax Rates
+WESTRING_MISCVAL_UPKG=
+//-- Upkeep - Lumber Tax Rates
+WESTRING_MISCVAL_UPKW=
+//-- Techtree - Dependency Equivalents - Hero
+WESTRING_MISCVAL_HERO=
+//-- Techtree - Dependency Equivalents - Altar
+WESTRING_MISCVAL_TALT=
+//-- Techtree - Dependency Equivalents - Tier 1 Hall
+WESTRING_MISCVAL_TWN1=
+//-- Techtree - Dependency Equivalents - Tier 2 Hall
+WESTRING_MISCVAL_TWN2=
+//-- Techtree - Dependency Equivalents - Tier 3 Hall
+WESTRING_MISCVAL_TWN3=
+//-- Techtree - Dependency Equivalents - Tier 4 Hall
+WESTRING_MISCVAL_TWN4=
+//-- Techtree - Dependency Equivalents - Tier 5 Hall
+WESTRING_MISCVAL_TWN5=
+//-- Techtree - Dependency Equivalents - Tier 6 Hall
+WESTRING_MISCVAL_TWN6=
+//-- Techtree - Dependency Equivalents - Tier 7 Hall
+WESTRING_MISCVAL_TWN7=
+//-- Techtree - Dependency Equivalents - Tier 8 Hall
+WESTRING_MISCVAL_TWN8=
+//-- Techtree - Dependency Equivalents - Tier 9 Hall
+WESTRING_MISCVAL_TWN9=
+//-- Hero XP Gained - Tier 1 Bonus Factors
+WESTRING_MISCVAL_TXP1=
+//-- Hero XP Gained - Tier 2 Bonus Factors
+WESTRING_MISCVAL_TXP2=
+//-- Hero XP Gained - Tier 3 Bonus Factors
+WESTRING_MISCVAL_TXP3=
+//-- Hero XP Gained - Tier 4 Bonus Factors
+WESTRING_MISCVAL_TXP4=
+//-- Hero XP Gained - Tier 5 Bonus Factors
+WESTRING_MISCVAL_TXP5=
+//-- Hero XP Gained - Tier 6 Bonus Factors
+WESTRING_MISCVAL_TXP6=
+//-- Hero XP Gained - Tier 7 Bonus Factors
+WESTRING_MISCVAL_TXP7=
+//-- Hero XP Gained - Tier 8 Bonus Factors
+WESTRING_MISCVAL_TXP8=
+//-- Hero XP Gained - Tier 9 Bonus Factors
+WESTRING_MISCVAL_TXP9=
+//-- Techtree - Dependency Equivalents Text - Hero
+WESTRING_MISCVAL_EQNH=
+//-- Techtree - Dependency Equivalents Text - Altar
+WESTRING_MISCVAL_EQNA=
+//-- Techtree - Dependency Equivalents Text - Tier 1 Hall
+WESTRING_MISCVAL_EQN1=
+//-- Techtree - Dependency Equivalents Text - Tier 2 Hall
+WESTRING_MISCVAL_EQN2=
+//-- Techtree - Dependency Equivalents Text - Tier 3 Hall
+WESTRING_MISCVAL_EQN3=
+//-- Techtree - Dependency Equivalents Text - Tier 4 Hall
+WESTRING_MISCVAL_EQN4=
+//-- Techtree - Dependency Equivalents Text - Tier 5 Hall
+WESTRING_MISCVAL_EQN5=
+//-- Techtree - Dependency Equivalents Text - Tier 6 Hall
+WESTRING_MISCVAL_EQN6=
+//-- Techtree - Dependency Equivalents Text - Tier 7 Hall
+WESTRING_MISCVAL_EQN7=
+//-- Techtree - Dependency Equivalents Text - Tier 8 Hall
+WESTRING_MISCVAL_EQN8=
+//-- Techtree - Dependency Equivalents Text - Tier 9 Hall
+WESTRING_MISCVAL_EQN9=
+//-- Can Build On
+WESTRING_UEVAL_UCBO=
+//-- Can Be Built On
+WESTRING_UEVAL_UIBO=
+//-- Animation Name Levels
+WESTRING_AEVAL_AANC=
+//-- Animation Names (Level 2)
+WESTRING_AEVAL_AAN1=
+//-- Animation Names (Level 3)
+WESTRING_AEVAL_AAN2=
+//-- Animation Names (Level 4)
+WESTRING_AEVAL_AAN3=
+//-- Gameplay - Magic Immunes Resist Damage
+WESTRING_MISCVAL_MIRD=
+//-- Gameplay - Magic Immunes Resist Thorns
+WESTRING_MISCVAL_MIRT=
+//-- Gameplay - Magic Immunes Resist Leech
+WESTRING_MISCVAL_MIRL=
+//-- Gameplay - Magic Immunes Resist Ultimates
+WESTRING_MISCVAL_MIRU=
+//-- Gameplay - Cyclone Hides Unit
+WESTRING_MISCVAL_CYST=
+//-- Gameplay - Dependencies Check Ability Data ID
+WESTRING_MISCVAL_DCAL=
+//-- Gameplay - Mass Teleport Clustering
+WESTRING_MISCVAL_MTCL=
+//-- Gameplay - Dark Summoning Clustering
+WESTRING_MISCVAL_DSCL=
+//-- Gameplay - Town Portal Clustering
+WESTRING_MISCVAL_TPCL=
+//-- Gameplay - Amulet Of Recall Clustering
+WESTRING_MISCVAL_ARCL=
+//-- Gameplay - Morphing Flyers Land At Closest Position
+WESTRING_MISCVAL_MLCL=
+//-- Gameplay - Morphing Disables Alternate Abilities
+WESTRING_MISCVAL_MADI=
+//-- Gameplay - Invulnerable Summonables Take Dispel Damage
+WESTRING_MISCVAL_ISDD=
+//-- Gameplay - Construction Damage Refund Penalty
+WESTRING_MISCVAL_CDRP=
+//-- Gameplay - Upgrade Damage Refund Penalty
+WESTRING_MISCVAL_UDRP=
+//-- Gameplay - Allow Multiple Bounces Per Unit
+WESTRING_MISCVAL_AMBO=
+//-- Gameplay - Ensnare Checks Magic Immunity
+WESTRING_MISCVAL_EIMA=
+//-- Gameplay - Web Checks Magic Immunity
+WESTRING_MISCVAL_WIMA=
+//-- Gameplay - Illusions Get Attack Bonuses
+WESTRING_MISCVAL_IGAB=
+//-- Gameplay - Illusions Get Attack Speed Bonuses
+WESTRING_MISCVAL_IASB=
+//-- Gameplay - Illusions Get Move Speed Bonuses
+WESTRING_MISCVAL_IGMB=
+//-- Gameplay - Illusions Get Defense Bonuses
+WESTRING_MISCVAL_IGDB=
+//-- Gameplay - Illusions Can Restore Life
+WESTRING_MISCVAL_ICRL=
+//-- Gameplay - Illusions Can Restore Mana
+WESTRING_MISCVAL_ICRM=
+//-- Gameplay - Illusions Bestow Auras
+WESTRING_MISCVAL_IBAU=
+//-- Gameplay - Illusions Are Autocast Targets
+WESTRING_MISCVAL_IGAU=
+//-- Gameplay - Invisible Units Bestow Auras
+WESTRING_MISCVAL_INBA=
+//-- Gameplay - Polymorphed Units Bestow Auras
+WESTRING_MISCVAL_PUBA=
+//-- Gameplay - Burrowed Units Bestow Auras
+WESTRING_MISCVAL_BUBA=
+//-- Gameplay - Animate Dead Units Bestow Auras
+WESTRING_MISCVAL_AUBA=
+//-- Gameplay - Flying Heroes Bestow Auras
+WESTRING_MISCVAL_FHBA=
+//-- Gameplay - Move Speed Bonuses Stack
+WESTRING_MISCVAL_MSBS=
+//-- Gameplay - Drain Uses Etheral Bonus
+WESTRING_MISCVAL_DUEB=
+//-- Gameplay - Drain Transfers Life
+WESTRING_MISCVAL_DTLI=
+//-- Gameplay - Drain Transfers Mana
+WESTRING_MISCVAL_DTMA=
+//-- Gameplay - Drain Gives Bonus Life
+WESTRING_MISCVAL_DGBL=
+//-- Gameplay - Drain Gives Bonus Mana
+WESTRING_MISCVAL_DGBM=
+//-- Gameplay - Ethereal Damage Bonus Ally
+WESTRING_MISCVAL_EDBA=
+//-- Gameplay - Can Deactivate Avatar (NYI)
+WESTRING_MISCVAL_CDAV=
+//-- Gameplay - Can Deactivate Avenger Form (NYI)
+WESTRING_MISCVAL_CDAF=
+//-- Gameplay - Can Deactivate Barkskin (NYI)
+WESTRING_MISCVAL_CDBS=
+//-- Gameplay - Can Deactivate Bear Form (NYI)
+WESTRING_MISCVAL_CDBF=
+//-- Gameplay - Can Deactivate Bladestorm (NYI)
+WESTRING_MISCVAL_CDBM=
+//-- Gameplay - Can Deactivate Burrow (NYI)
+WESTRING_MISCVAL_CDBU=
+//-- Gameplay - Can Deactivate Call To Arms (NYI)
+WESTRING_MISCVAL_CDCA=
+//-- Gameplay - Can Deactivate Chemical Rage (NYI)
+WESTRING_MISCVAL_CDCR=
+//-- Gameplay - Can Deactivate Corporeal Form (NYI)
+WESTRING_MISCVAL_CDCF=
+//-- Gameplay - Can Deactivate Defend (NYI)
+WESTRING_MISCVAL_CDDE=
+//-- Gameplay - Can Deactivate Divine Shield
+WESTRING_MISCVAL_CDDS=
+//-- Gameplay - Can Deactivate Immolation (NYI)
+WESTRING_MISCVAL_CDIM=
+//-- Gameplay - Can Deactivate Mana Flare (NYI)
+WESTRING_MISCVAL_CDMF=
+//-- Gameplay - Can Deactivate Mana Shield (NYI)
+WESTRING_MISCVAL_CDMS=
+//-- Gameplay - Can Deactivate Metamorphosis (NYI)
+WESTRING_MISCVAL_CDME=
+//-- Gameplay - Can Deactivate Raven Form (NYI)
+WESTRING_MISCVAL_CDRF=
+//-- Gameplay - Can Deactivate Robo Goblin (NYI)
+WESTRING_MISCVAL_CDRG=
+//-- Gameplay - Can Deactivate Stone Form (NYI)
+WESTRING_MISCVAL_CDSF=
+//-- Gameplay - Can Deactivate Submerge (NYI)
+WESTRING_MISCVAL_CDSU=
+//-- Gameplay - Can Deactivate Wind Walk (NYI)
+WESTRING_MISCVAL_CDWW=
+//-- Gameplay - Use Relative Upgrade Costs
+WESTRING_MISCVAL_RUCO=
+//-- Gameplay - Defend Can Deflect
+WESTRING_MISCVAL_DEDE=
+//-- Gameplay - Item Sale Creep Aggro Range
+WESTRING_MISCVAL_ISAR=
+//-- Gameplay - Unit Sale Creep Aggro Range
+WESTRING_MISCVAL_USAR=
+//-- Gameplay - Abil Sale Creep Aggro Range
+WESTRING_MISCVAL_ASAR=
+//-- Percent Bonus
+WESTRING_AEVAL_HAB2=
+//-- Never Miss
+WESTRING_AEVAL_OCR5=
+//-- Never Miss
+WESTRING_AEVAL_OWK4=
+//-- Life Transferred Per Second
+WESTRING_AEVAL_NDR4=
+//-- Mana Transferred Per Second
+WESTRING_AEVAL_NDR5=
+//-- Bonus Life Factor
+WESTRING_AEVAL_NDR6=
+//-- Bonus Mana Factor
+WESTRING_AEVAL_NDR7=
+//-- Bonus Life Decay
+WESTRING_AEVAL_NDR8=
+//-- Bonus Mana Decay
+WESTRING_AEVAL_NDR9=
+//-- Inherit Upgrades
+WESTRING_AEVAL_UAN3=
+//-- Percent Bonus
+WESTRING_AEVAL_UAU3=
+//-- Percent Bonus
+WESTRING_AEVAL_HAD2=
+//-- Can Deactivate
+WESTRING_AEVAL_HDS1=
+//-- Mana Regen
+WESTRING_AEVAL_ROA4=
+//-- Prefer Hostiles
+WESTRING_AEVAL_ROA5=
+//-- Prefer Friendlies
+WESTRING_AEVAL_ROA6=
+//-- Max Units
+WESTRING_AEVAL_ROA7=
+//-- Melee Bonus
+WESTRING_AEVAL_EAR2=
+//-- Ranged Bonus
+WESTRING_AEVAL_EAR3=
+//-- Flat Bonus
+WESTRING_AEVAL_EAR4=
+//-- Move Speed Bonus (Info Panel Only)
+WESTRING_AEVAL_NCR5=
+//-- Attack Speed Bonus (Info Panel Only)
+WESTRING_AEVAL_NCR6=
+//-- Strength Bonus
+WESTRING_AEVAL_NRG5=
+//-- Defense Bonus
+WESTRING_AEVAL_NRG6=
+//-- Leash Range
+WESTRING_AEVAL_NSY5=
+//-- Destructible ID
+WESTRING_AEVAL_NVCU=
+//-- Inherit Upgrades
+WESTRING_AEVAL_CAD3=
+//-- Mana Loss
+WESTRING_AEVAL_AMS4=
+//-- Charge for Current Life
+WESTRING_AEVAL_CMG3=
+//-- Chance to Deflect
+WESTRING_AEVAL_DEF6=
+//-- Deflect Damage Taken (Piercing)
+WESTRING_AEVAL_DEF7=
+//-- Deflect Damage Taken (Spells)
+WESTRING_AEVAL_DEF8=
+//-- Ignore Friendly Buffs
+WESTRING_AEVAL_DVM6=
+//-- Leash Range
+WESTRING_AEVAL_NFY2=
+//-- Summoned Damage
+WESTRING_AEVAL_FBK5=
+//-- Caster Only Splash
+WESTRING_AEVAL_MFL6=
+//-- Invisibility Transition Time
+WESTRING_AEVAL_MIN2=
+//-- Mana Loss
+WESTRING_AEVAL_PRG6=
+//-- Explodes on Death
+WESTRING_AEVAL_SDS6=
+//-- Prefer Hostiles
+WESTRING_AEVAL_TAU1=
+//-- Prefer Friendlies
+WESTRING_AEVAL_TAU2=
+//-- Max Units
+WESTRING_AEVAL_TAU3=
+//-- Max Damage
+WESTRING_AEVAL_UCO5=
+//-- Move Speed Bonus
+WESTRING_AEVAL_UCO6=
+//-- Kill On Caster Death
+WESTRING_AEVAL_UCB6=
+//-- Never Miss
+WESTRING_AEVAL_HBH5=

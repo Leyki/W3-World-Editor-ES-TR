@@ -1,0 +1,2920 @@
+//-- Normal
+WESTRING_UEVAL_UABI=
+//-- Habilidad activa predeterminada
+WESTRING_UEVAL_UDAA=
+//-- Héroe
+WESTRING_UEVAL_UHAB=
+//-- Archivo de modelo
+WESTRING_UEVAL_UMDL=
+//-- Archivo de modelos - Versiones adicionales
+WESTRING_UEVAL_UVER=
+//-- Escala de modelo
+WESTRING_UEVAL_USCA=
+//-- Color de teñido 1 (rojo)
+WESTRING_UEVAL_UCLR=
+//-- Color de teñido 2 (verde)
+WESTRING_UEVAL_UCLG=
+//-- Color de teñido 3 (azul)
+WESTRING_UEVAL_UCLB=
+//-- Escala de selección
+WESTRING_UEVAL_USSC="Cada uno primero es equivalente a un radio de 72u"
+//-- Proyectil - Lanzamiento - X
+WESTRING_UEVAL_ULPX=
+//-- Proyectil - Lanzamiento - Y
+WESTRING_UEVAL_ULPY=
+//-- Proyectil - Lanzamiento - Z
+WESTRING_UEVAL_ULPZ=
+//-- Proyectil - Lanzamiento - Z (nadando)
+WESTRING_UEVAL_ULSZ=
+//-- Proyectil - Impacto - Z
+WESTRING_UEVAL_UIMZ=
+//-- Proyectil - Impacto - Z (nadando)
+WESTRING_UEVAL_UISZ=
+//-- Textura de suelo
+WESTRING_UEVAL_UUBS=
+//-- Sombra - Imagen (unidad)
+WESTRING_UEVAL_USHU=
+//-- Sombra - Textura (edificio)
+WESTRING_UEVAL_USHB=
+//-- Icono - Interfaz de juego
+WESTRING_UEVAL_UICO=
+//-- Icono - Pantalla de puntuaciones
+WESTRING_UEVAL_USSI=
+//-- Nombres de animación requeridos
+WESTRING_UEVAL_UANI=
+//-- Nombres de animación requeridos - Accesorios
+WESTRING_UEVAL_UAAP=
+//-- Nombres de enlaces de accesorio requeirdos
+WESTRING_UEVAL_UALP=
+//-- Nombres de huesos requeridos
+WESTRING_UEVAL_UBPR=
+//-- Gráficos de actualización de conjurador
+WESTRING_UEVAL_UCUA=
+//-- Posición botón (X)
+WESTRING_UEVAL_UBPX=
+//-- Posición botón (Y)
+WESTRING_UEVAL_UBPY=
+//-- Tiempo muerte (segundos)
+WESTRING_UEVAL_UDTM=
+//-- Imagen de sombra - Ancho
+WESTRING_UEVAL_USHW=
+//-- Imagen de sombra - Altura
+WESTRING_UEVAL_USHH=
+//-- Imagen de sombra - Centrar X
+WESTRING_UEVAL_USHX=
+//-- Imagen de sombra - Centrar Y
+WESTRING_UEVAL_USHY=
+//-- Tiene sombra de agua
+WESTRING_UEVAL_USHR=
+//-- Círculo de selección en agua
+WESTRING_UEVAL_USEW=
+//-- Color de equipo
+WESTRING_UEVAL_UTCO=
+//-- Permitir color de equipo personalizado
+WESTRING_UEVAL_UTCC=
+//-- Ventana de propulsión (grados)
+WESTRING_UEVAL_UPRW=
+//-- Interpolación de orientación
+WESTRING_UEVAL_UORI=
+//-- Animación - Punto de lanzamiento
+WESTRING_UEVAL_UCPT=
+//-- Animación - Retroceso de lanzamiento
+WESTRING_UEVAL_UCBS=
+//-- Animación - Tiempo de mezcla (segundos)
+WESTRING_UEVAL_UBLE=
+//-- Utilizar línea de visión ampliada
+WESTRING_UEVAL_ULOS=
+//-- Máxima inclinación de ángulo (grados)
+WESTRING_UEVAL_UMXP=
+//-- Máxima rotación de ángulo (grados)
+WESTRING_UEVAL_UMXR=
+//-- Elevación - Puntos de muestra
+WESTRING_UEVAL_UEPT=
+//-- Elevación - Radio de muestra
+WESTRING_UEVAL_UERD=
+//-- Niebla de guerra - Radio de muestra
+WESTRING_UEVAL_UFRD=
+//-- Animación - Velocidad de paso
+WESTRING_UEVAL_UWAL=
+//-- Animación - Velocidad de corrida
+WESTRING_UEVAL_URUN=
+//-- Círculo de selección - Altura
+WESTRING_UEVAL_USLZ=
+//-- Altura de oclusión
+WESTRING_UEVAL_UOCC=
+//-- Escalar proyectiles
+WESTRING_UEVAL_USCB=
+//-- Especial
+WESTRING_UEVAL_USPA=
+//-- Objetivo
+WESTRING_UEVAL_UTAA=
+//-- Ataques activados
+WESTRING_UEVAL_UAEN=
+//-- Ataque 1 - Proyectil - Gráfico
+WESTRING_UEVAL_UA1M=
+//-- Ataque 1 - Proyectil - Velocidad
+WESTRING_UEVAL_UA1Z=
+//-- Ataque 1 - Proyectil - Arco
+WESTRING_UEVAL_UMA1=
+//-- Ataque 1 - Proyectil - Buscador activado
+WESTRING_UEVAL_UMH1=
+//-- Ataque 1 - Alcance
+WESTRING_UEVAL_UA1R=
+//-- Ataque 1 - Tiempo muerto
+WESTRING_UEVAL_UA1C=
+//-- Ataque 1 - Área de efecto (daño completo)
+WESTRING_UEVAL_UA1F=
+//-- Ataque 1 - Área de efecto (daño mediano)
+WESTRING_UEVAL_UA1H=
+//-- Ataque 1 - Daño - Factor de daño mediano
+WESTRING_UEVAL_UHD1=
+//-- Ataque 1 - Área de efecto (daño pequeño)
+WESTRING_UEVAL_UA1Q=
+//-- Ataque 1 - Daño - Factor de daño pequeño
+WESTRING_UEVAL_UQD1=
+//-- Ataque 1 - Objetivos de área de efecto 
+WESTRING_UEVAL_UA1P=
+//-- Ataque 1 - Tipo de ataque 
+WESTRING_UEVAL_UA1T=
+//-- Ataque 1 - Tipo de arma
+WESTRING_UEVAL_UA1W=
+//-- Ataque 1 - Sonido de arma
+WESTRING_UEVAL_UCS1=
+//-- Ataque 1 - Objetivos permitidos
+WESTRING_UEVAL_UA1G=
+//-- Ataque 1 - Número máximo de objetivos
+WESTRING_UEVAL_UTC1=
+//-- Ataque 1 - Daño - Daño base
+WESTRING_UEVAL_UA1B=
+//-- Ataque 1 - Daño - Cantidad de dados
+WESTRING_UEVAL_UA1D=
+//-- Ataque 1 - Daño - Caras por dado
+WESTRING_UEVAL_UA1S=
+//-- Ataque 1 - Daño - Daño agregado por actualización
+WESTRING_UEVAL_UDU1=
+//-- Ataque 2 - Proyectil - Gráfico
+WESTRING_UEVAL_UA2M=
+//-- Ataque 2 - Proyectil - Velocidad
+WESTRING_UEVAL_UA2Z=
+//-- Ataque 2 - Proyectil - Arco
+WESTRING_UEVAL_UMA2=
+//-- Ataque 2 - Proyectil - Buscador activado
+WESTRING_UEVAL_UMH2=
+//-- Ataque 2 - Alcance
+WESTRING_UEVAL_UA2R=
+//-- Ataque 2 - Tiempo muerto
+WESTRING_UEVAL_UA2C=
+//-- Ataque 2 - Área de efecto (daño completo)
+WESTRING_UEVAL_UA2F=
+//-- Ataque 2 - Área de efecto (daño mediano)
+WESTRING_UEVAL_UA2H=
+//-- Ataque 2 - Daño - Factor de daño mediano
+WESTRING_UEVAL_UHD2=
+//-- Ataque 2 - Área de efecto (daño pequeño)
+WESTRING_UEVAL_UA2Q=
+//-- Ataque 2 - Daño - Factor de daño pequeño
+WESTRING_UEVAL_UQD2=
+//-- Ataque 2 - Objetivos de área de efecto
+WESTRING_UEVAL_UA2P=
+//-- Ataque 2 - Tipo de ataque
+WESTRING_UEVAL_UA2T=
+//-- Ataque 2 - Tipo de arma
+WESTRING_UEVAL_UA2W=
+//-- Ataque 2 - Sonido de arma
+WESTRING_UEVAL_UCS2=
+//-- Ataque 2 - Objetivos permitidos
+WESTRING_UEVAL_UA2G=
+//-- Ataque 2 - Número máximo de objetivos
+WESTRING_UEVAL_UTC2=
+//-- Ataque 2 - Daño - Daño base
+WESTRING_UEVAL_UA2B=
+//-- Ataque 2 - Daño - Cantidad de dados
+WESTRING_UEVAL_UA2D=
+//-- Ataque 2 - Daño - Caras por dado
+WESTRING_UEVAL_UA2S=
+//-- Ataque 2 - Daño - Daño agregado por actualización
+WESTRING_UEVAL_UDU2=
+//-- Ataque 1 - Mostrar IU
+WESTRING_UEVAL_UWU1=
+//-- Ataque 2 - Mostrar IU
+WESTRING_UEVAL_UWU2=
+//-- Ataque 1 - Búfer de alcance de moción
+WESTRING_UEVAL_URB1=
+//-- Ataque 2 - Búfer de alcance de moción
+WESTRING_UEVAL_URB2=
+//-- Ataque 1 - Animación - Punto de daño
+WESTRING_UEVAL_UDP1=
+//-- Ataque 2 - Animación - Punto de daño
+WESTRING_UEVAL_UDP2=
+//-- Ataque 1 - Animación - Punto de retroceso
+WESTRING_UEVAL_UBS1=
+//-- Ataque 2 - Animación - Punto de retroceso
+WESTRING_UEVAL_UBS2=
+//-- Ataque 1 - Daño - Factor de pérdida de daño
+WESTRING_UEVAL_UDL1=
+//-- Ataque 2 - Daño - Factor de pérdida de daño
+WESTRING_UEVAL_UDL2=
+//-- Ataque 1 - Daño - Salpicadura - Distancia
+WESTRING_UEVAL_USD1=
+//-- Ataque 2 - Daño - Salpicadura - Distancia
+WESTRING_UEVAL_USD2=
+//-- Ataque 1 - Daño - Salpicadura - Radio
+WESTRING_UEVAL_USR1=
+//-- Ataque 2 - Daño - Salpicadura - Radio
+WESTRING_UEVAL_USR2=
+//-- Alcance de adquisición
+WESTRING_UEVAL_UACQ=
+//-- Alcance mínimo de ataque
+WESTRING_UEVAL_UAMN=
+//-- Defensa - Defensa tipo
+WESTRING_UEVAL_UDTY=
+//-- Defensa - Defensa base
+WESTRING_UEVAL_UDEF=
+//-- Defensa - Bonificación de actualización
+WESTRING_UEVAL_UDUP=
+//-- Objetivo de tipo
+WESTRING_UEVAL_UTAR=
+//-- Tipo de armadura
+WESTRING_UEVAL_UARM=
+//-- Tipo de muerte
+WESTRING_UEVAL_UDEA=
+//-- Mostrar como neutral hostil
+WESTRING_UEVAL_UHOS=
+//-- Conjuntos gráficos
+WESTRING_UEVAL_UTIL=
+//-- Tiene datos específicos de conjunto gráfico
+WESTRING_UEVAL_UTSS=
+//-- Colocable en el Editor
+WESTRING_UEVAL_UINE=
+//-- Clasificación - Especial
+WESTRING_UEVAL_USPE=
+//-- Clasificación - Campaña
+WESTRING_UEVAL_UCAM=
+//-- Puede dejar caer ítems al morir
+WESTRING_UEVAL_UDRO=
+//-- Utilizar ayudante para comandos clic
+WESTRING_UEVAL_UUCH=
+//-- Tipo
+WESTRING_UEVAL_UMVT=
+//-- Altura
+WESTRING_UEVAL_UMVH=
+//-- Altura mínima
+WESTRING_UEVAL_UMVF=
+//-- Velocidad base
+WESTRING_UEVAL_UMVS=
+//-- Velocidad mínima
+WESTRING_UEVAL_UMIS=
+//-- Velocidad máxima
+WESTRING_UEVAL_UMAS=
+//-- Velocidad de rotación
+WESTRING_UEVAL_UMVR=
+//-- Separación de grupo - Activada
+WESTRING_UEVAL_URPO=
+//-- Separación de grupo - Parámetro
+WESTRING_UEVAL_URPP=
+//-- Separación de grupo - Número de grupo
+WESTRING_UEVAL_URPG=
+//-- Separación de grupo - Prioridad
+WESTRING_UEVAL_URPR=
+//-- Tamaño de colisión
+WESTRING_UEVAL_UCOL=
+//-- Mapa de rutas
+WESTRING_UEVAL_UPAT=
+//-- Colocación requiere
+WESTRING_UEVAL_UPAP=
+//-- Colocación imposible por
+WESTRING_UEVAL_UPAR=
+//-- Colocación requiere un radio de agua
+WESTRING_UEVAL_UPAW=
+//-- IA - Tipo de colocación
+WESTRING_UEVAL_UABT=
+//-- IA - Radio de colocación
+WESTRING_UEVAL_UABR=
+//-- Conjunto de sonidos de unidad
+WESTRING_UEVAL_USND=
+//-- Construcción
+WESTRING_UEVAL_UBSL=
+//-- Movimiento
+WESTRING_UEVAL_UMSL=
+//-- Aleatorio
+WESTRING_UEVAL_URSL=
+//-- Índice de bucle fundido de entrada
+WESTRING_UEVAL_ULFI=
+//-- Índice de bucle fundido de salida
+WESTRING_UEVAL_ULFO=
+//-- Coste de oro
+WESTRING_UEVAL_UGOL=
+//-- Coste de madera
+WESTRING_UEVAL_ULUM=
+//-- Coste de oro de reparación
+WESTRING_UEVAL_UGOR=
+//-- Coste de madera de reparación
+WESTRING_UEVAL_ULUR=
+//-- Coste de comida
+WESTRING_UEVAL_UFOO=
+//-- Comida producida
+WESTRING_UEVAL_UFMA=
+//-- Clasificación de unidad
+WESTRING_UEVAL_UTYP=
+//-- Vida - Puntos de impacto máximos (base)
+WESTRING_UEVAL_UHPM=
+//-- Vida - Índice de regeneración de puntos de impacto
+WESTRING_UEVAL_UHPR=
+//-- Vida - Tipo de regeneración de puntos de impacto
+WESTRING_UEVAL_UHRT=
+//-- Maná - Maná máximo
+WESTRING_UEVAL_UMPM=
+//-- Maná - Regeneración de maná
+WESTRING_UEVAL_UMPR=
+//-- Maná - Cantidad inicial de maná
+WESTRING_UEVAL_UMPI=
+//-- Alcance de vista (día)
+WESTRING_UEVAL_USID=
+//-- Alcance de vista (noche)
+WESTRING_UEVAL_USIN=
+//-- Tamaño transportado
+WESTRING_UEVAL_UCAR=
+//-- Nivel
+WESTRING_UEVAL_ULEV=
+//-- Recompensa de oro dada - Base
+WESTRING_UEVAL_UBBA=
+//-- Recompensa de oro dada - Cantidad de dados
+WESTRING_UEVAL_UBDI=
+//-- Recompensa de oro dada - Caras por dado
+WESTRING_UEVAL_UBSI=
+//-- Recompensa de madera dada - Base
+WESTRING_UEVAL_ULBA=
+//-- Recompensa de madera dada - Cantidad de dados
+WESTRING_UEVAL_ULBD=
+//-- Recompensa de madera dada - Caras por dado
+WESTRING_UEVAL_ULBS=
+//-- Reservas - Máximo
+WESTRING_UEVAL_USMA=
+//-- Reservas - Intervalo de reabastecimiento
+WESTRING_UEVAL_USRG=
+//-- Prioridad
+WESTRING_UEVAL_UPRI="Determina en que pos. del panel de selección se encuentra la unidad. Una valoración más alta aparece 1.°."
+//-- Fuerza inicial
+WESTRING_UEVAL_USTR=
+//-- Fuerza por nivel
+WESTRING_UEVAL_USTP=
+//-- Inteligencia inicial
+WESTRING_UEVAL_UINT=
+//-- Inteligencia por nivel
+WESTRING_UEVAL_UINP=
+//-- Agilidad inicial
+WESTRING_UEVAL_UAGI=
+//-- Agilidad por nivel
+WESTRING_UEVAL_UAGP=
+//-- Atributo primario
+WESTRING_UEVAL_UPRA=
+//-- Valor de punto
+WESTRING_UEVAL_UPOI=
+//-- Duerme
+WESTRING_UEVAL_USLE=
+//-- Puede huir
+WESTRING_UEVAL_UFLE=
+//-- Reservas - Retraso de inicio
+WESTRING_UEVAL_USST=
+//-- Tiempo de construcción
+WESTRING_UEVAL_UBLD=
+//-- Tiempo de reparación
+WESTRING_UEVAL_URTM=
+//-- Rango en formación
+WESTRING_UEVAL_UFOR="Un rango más bajo indica que la unidad se posiciona más al frente al usar movimiento en formacion."
+//-- Raza
+WESTRING_UEVAL_URAC=
+//-- Edificio neutral - Válido como edificio aleatorio
+WESTRING_UEVAL_UNBR=
+//-- Edificio neutral - Muestra icono de minimapa
+WESTRING_UEVAL_UNBM=
+//-- Héroe - Ocultar icono de interfaz del héroe
+WESTRING_UEVAL_UHHB=
+//-- Héroe - Ocultar visualización de héroe en el minimapa
+WESTRING_UEVAL_UHHM=
+//-- Héroe - Ocultar mensaje de muerte del héroe
+WESTRING_UEVAL_UHHD=
+//-- Ocultar visualización en el minimapa
+WESTRING_UEVAL_UHOM=
+//-- Es un edificio
+WESTRING_UEVAL_UBDG=
+//-- Requisitos
+WESTRING_UEVAL_UREQ=
+//-- Requisitos - Niveles utilizados
+WESTRING_UEVAL_URQC=
+//-- Requisitos - Nivel 2
+WESTRING_UEVAL_URQ1=
+//-- Requisitos - Nivel 3
+WESTRING_UEVAL_URQ2=
+//-- Requisitos - Nivel 4
+WESTRING_UEVAL_URQ3=
+//-- Requisitos - Nivel 5
+WESTRING_UEVAL_URQ4=
+//-- Requisitos - Nivel 6
+WESTRING_UEVAL_URQ5=
+//-- Requisitos - Nivel 7
+WESTRING_UEVAL_URQ6=
+//-- Requisitos - Nivel 8
+WESTRING_UEVAL_URQ7=
+//-- Requisitos - Nivel 9
+WESTRING_UEVAL_URQ8=
+//-- Requisitos - Niveles
+WESTRING_UEVAL_URQA=
+//-- Equivalentes de dependencia
+WESTRING_UEVAL_UDEP=
+//-- Unidades entrenadas
+WESTRING_UEVAL_UTRA=
+//-- Lugares de resucitación de héroe
+WESTRING_UEVAL_URVA=
+//-- Investigaciones disponibles
+WESTRING_UEVAL_URES=
+//-- Ítems vendidos
+WESTRING_UEVAL_USEI=
+//-- Ítems elaborados
+WESTRING_UEVAL_UMKI=
+//-- Unidades vendidas
+WESTRING_UEVAL_USEU=
+//-- Actualizaciones utilizadas
+WESTRING_UEVAL_UPGR=
+//-- Estructuras construidas
+WESTRING_UEVAL_UBUI=
+//-- Actualiza a
+WESTRING_UEVAL_UUPT=
+//-- Ayuda - Básica
+WESTRING_UEVAL_UTIP=
+//-- Ayuda - Ampliada
+WESTRING_UEVAL_UTUB=
+//-- Ayuda - Revivir
+WESTRING_UEVAL_UTPR=
+//-- Ayuda - Despertar
+WESTRING_UEVAL_UAWT=
+//-- Nombres propios
+WESTRING_UEVAL_UPRO=
+//-- Nombres propios son utilizados
+WESTRING_UEVAL_UPRU=
+//-- Acceso rápido
+WESTRING_UEVAL_UHOT=
+//-- Nombre - Sufijo de editor
+WESTRING_UEVAL_UNSF=
+//-- Conjurador - Nombres de actualización
+WESTRING_UEVAL_UCUN=
+//-- Conjurador - Ayudas de actualización
+WESTRING_UEVAL_UCUT=
+//-- Nombre
+WESTRING_UEVAL_UNAM=
+//-- Revive héroes muertos
+WESTRING_UEVAL_UREV=
+//-- Icono de interfaz 
+WESTRING_UEVAL_IICO=
+//-- Coste de oro
+WESTRING_UEVAL_IGOL=
+//-- Coste de madera
+WESTRING_UEVAL_ILUM=
+//-- Número de cargas
+WESTRING_UEVAL_IUSE=
+//-- Utilizado activamente
+WESTRING_UEVAL_IUSA=
+//-- Perecedero
+WESTRING_UEVAL_IPER=
+//-- Reservas - Máximo
+WESTRING_UEVAL_ISTO=
+//-- Reservas - Intervalo de reabastecimiento
+WESTRING_UEVAL_ISTR=
+//-- Descripción
+WESTRING_UEVAL_IDES=
+//-- Reservas - Retraso de inicio
+WESTRING_UEVAL_ISST=
+//-- Habilidades
+WESTRING_UEVAL_IABI=
+//-- Clasificación
+WESTRING_UEVAL_ICLA=
+//-- Nivel
+WESTRING_UEVAL_ILEV=
+//-- Nivel (no clasificado)
+WESTRING_UEVAL_ILVO=
+//-- Puede soltarse
+WESTRING_UEVAL_IDRO=
+//-- Cae cuando muere su portador 
+WESTRING_UEVAL_IDRP=
+//-- Puntos de impacto
+WESTRING_UEVAL_IHTP=
+//-- Prioridad
+WESTRING_UEVAL_IPRI=
+//-- Incluir como elección aleatoria
+WESTRING_UEVAL_IPRN=
+//-- Utilizar automáticamente cuando se adquiera
+WESTRING_UEVAL_IPOW=
+//-- Objetivo válido para transformación
+WESTRING_UEVAL_IMOR=
+//-- Modelo utilizado
+WESTRING_UEVAL_IFIL=
+//-- Tipo de armadura
+WESTRING_UEVAL_IARM=
+//-- Grupo tiempo muerto
+WESTRING_UEVAL_ICID=
+//-- Puede ser vendido por mercados
+WESTRING_UEVAL_ISEL=
+//-- Puede ser vendendido en mercados
+WESTRING_UEVAL_IPAW=
+//-- Escala de modelo
+WESTRING_UEVAL_ISCA=
+//-- Tamaño de selección - Editor
+WESTRING_UEVAL_ISSC=
+//-- Color de teñido 1 (rojo)
+WESTRING_UEVAL_ICLR=
+//-- Color de teñido 2 (verde)
+WESTRING_UEVAL_ICLG=
+//-- Color de teñido 3 (azul)
+WESTRING_UEVAL_ICLB=
+//-- Ignorar tiempo muerto
+WESTRING_UEVAL_IICD=
+//-- Nombre
+WESTRING_BEVAL_BNAM=
+//-- Sufijo de editor
+WESTRING_BEVAL_BSUF=
+//-- Categoría
+WESTRING_BEVAL_BCAT=
+//-- Conjuntos gráficos
+WESTRING_BEVAL_BTIL=
+//-- Tiene datos de conjunto gráfico específicos 
+WESTRING_BEVAL_BTSP=
+//-- Modelo - Directorio
+WESTRING_BEVAL_BDIR=
+//-- Modelo - Archivo
+WESTRING_BEVAL_BFIL=
+//-- Modelo - Archivo - Tiene un modelo ligero
+WESTRING_BEVAL_BLIT=
+//-- Línea de visión amplia
+WESTRING_BEVAL_BFLO=
+//-- Reemplazable - ID de Textura
+WESTRING_BEVAL_BTXI=
+//-- Reemplazable - Archivo de textura
+WESTRING_BEVAL_BTXF=
+//-- Mostrar objeto ayudante para selección
+WESTRING_BEVAL_BUCH=
+//-- Colocable en precipicios
+WESTRING_BEVAL_BONC=
+//-- Colocable en agua
+WESTRING_BEVAL_BONW=
+//-- Mostrar versión muerta en paleta
+WESTRING_BEVAL_BCPD=
+//-- Es transitable
+WESTRING_BEVAL_BWAL=
+//-- Altura de precipicio
+WESTRING_BEVAL_BCLH=
+//-- Objetivo de tipo
+WESTRING_BEVAL_BTAR=
+//-- Tipo de armadura
+WESTRING_BEVAL_BARM=
+//-- Modelo - Archivo - Variaciones
+WESTRING_BEVAL_BVAR=
+//-- Puntos de impacto
+WESTRING_BEVAL_BHPS=
+//-- Altura de oclusión
+WESTRING_BEVAL_BOCH=
+//-- Altura en el aire
+WESTRING_BEVAL_BFLH=
+//-- Rotación fija
+WESTRING_BEVAL_BFXR=
+//-- Tamaño de selección - Editor
+WESTRING_BEVAL_BSEL=
+//-- Escala mínima
+WESTRING_BEVAL_BMIS=
+//-- Escala máxima
+WESTRING_BEVAL_BMAS=
+//-- Se puede colocar escala aleatoria
+WESTRING_BEVAL_BCPR=
+//-- Ángulo de inclinación máximo (grados)
+WESTRING_BEVAL_BMAP=
+//-- Ángulo de rotación máximo (grados)
+WESTRING_BEVAL_BMAR=
+//-- Radio de muestra de elevación
+WESTRING_BEVAL_BRAD=
+//-- Niebla - Radio
+WESTRING_BEVAL_BFRA=
+//-- Niebla - Visibilidad
+WESTRING_BEVAL_BFVI=
+//-- Textura de ruta
+WESTRING_BEVAL_BPTX=
+//-- Textura de ruta (muerto)
+WESTRING_BEVAL_BPTD=
+//-- Muerte
+WESTRING_BEVAL_BDSN=
+//-- Sombra
+WESTRING_BEVAL_BSHD=
+//-- Minimapa - Mostrar
+WESTRING_BEVAL_BSMM=
+//-- Minimapa - Color 1 (rojo)
+WESTRING_BEVAL_BMMR=
+//-- Minimapa - Color 2 (verde)
+WESTRING_BEVAL_BMMG=
+//-- Minimapa - Color 3 (azul)
+WESTRING_BEVAL_BMMB=
+//-- Minimapa - Utilizar color personalizado
+WESTRING_BEVAL_BUMM=
+//-- Tiempo de construcción
+WESTRING_BEVAL_BBUT=
+//-- Tiempo de reparación
+WESTRING_BEVAL_BRET=
+//-- Coste de oro de reparación
+WESTRING_BEVAL_BREG=
+//-- Coste de madera de reparación
+WESTRING_BEVAL_BREL=
+//-- En lista especificada por el usuario
+WESTRING_BEVAL_BUSR=
+//-- Color de teñido 1 (rojo)
+WESTRING_BEVAL_BVCR=
+//-- Color de teñido 2 (verde)
+WESTRING_BEVAL_BVCG=
+//-- Color de teñido 3 (azul)
+WESTRING_BEVAL_BVCB=
+//-- Seleccionable en el juego
+WESTRING_BEVAL_BGSE=
+//-- Tamaño de selección - Juego
+WESTRING_BEVAL_BGSC=
+//-- Modelo - Archivo - Retrato
+WESTRING_BEVAL_BGPM=
+//-- Variación %d
+WESTRING_DEVAL_VAR=
+//-- Nombre
+WESTRING_DEVAL_DNAM=
+//-- Categoría
+WESTRING_DEVAL_DCAT=
+//-- Conjuntos gráficos
+WESTRING_DEVAL_DTIL=
+//-- Tiene datos de conjunto gráfico específicos
+WESTRING_DEVAL_DTSP=
+//-- Modelo - Directorio
+WESTRING_DEVAL_DDIR=
+//-- Modelo - Archivo
+WESTRING_DEVAL_DFIL=
+//-- Sonido de bucle
+WESTRING_DEVAL_DSND=
+//-- Tamaño de selección
+WESTRING_DEVAL_DSEL=
+//-- Escala predeterminada
+WESTRING_DEVAL_DDES=
+//-- Escala mínima
+WESTRING_DEVAL_DMIS=
+//-- Escala máxima
+WESTRING_DEVAL_DMAS=
+//-- Se puede colocar escala aleatoria
+WESTRING_DEVAL_DCPR=
+//-- Utilizar ayudante para comandos clic
+WESTRING_DEVAL_DUCH=
+//-- Ignorar clics en modelo
+WESTRING_DEVAL_DIMC=
+//-- Ángulo de inclinación máximo (grados)
+WESTRING_DEVAL_DMAP=
+//-- Ángulo de rotación máximo (grados)
+WESTRING_DEVAL_DMAR=
+//-- Radio de visibilidad
+WESTRING_DEVAL_DVIS=
+//-- Transitable
+WESTRING_DEVAL_DWLK=
+//-- Variaciones
+WESTRING_DEVAL_DVAR=
+//-- Colocable en precipicios
+WESTRING_DEVAL_DONC=
+//-- Colocable en agua
+WESTRING_DEVAL_DONW=
+//-- Flota
+WESTRING_DEVAL_DFLT=
+//-- Tiene una sombra
+WESTRING_DEVAL_DSHD=
+//-- Niebla - Mostrar en niebla
+WESTRING_DEVAL_DSHF=
+//-- Niebla - Animar en niebla
+WESTRING_DEVAL_DANF=
+//-- Rotación fija
+WESTRING_DEVAL_DFXR=
+//-- Textura de ruta
+WESTRING_DEVAL_DPTX=
+//-- Minimapa - Mostrar
+WESTRING_DEVAL_DSMM=
+//-- Minimapa - Utilizar color personalizado
+WESTRING_DEVAL_DUMC=
+//-- Minimapa - Color 1 (rojo)
+WESTRING_DEVAL_DMMR=
+//-- Minimapa - Color 2 (verde)
+WESTRING_DEVAL_DMMG=
+//-- Minimapa - Color 3 (azul)
+WESTRING_DEVAL_DMMB=
+//-- Color de teñido 1 (rojo)
+WESTRING_DEVAL_DVR1=
+//-- Color de teñido 2 (verde)
+WESTRING_DEVAL_DVG1=
+//-- Color de teñido 3 (azul)
+WESTRING_DEVAL_DVB1=
+//-- En la lista especificada por el usuario
+WESTRING_DEVAL_DUSR=
+//-- Nivel %d
+WESTRING_AEVAL_LVL=
+//-- Nombre
+WESTRING_AEVAL_ANAM=
+//-- Sufijo de editor
+WESTRING_AEVAL_ANSF=
+//-- Habilidad de héroe
+WESTRING_AEVAL_AHER=
+//-- Habilidad de ítem
+WESTRING_AEVAL_AITE=
+//-- Posición botón - Normal (X)
+WESTRING_AEVAL_ABPX=
+//-- Posición botón - Normal (Y)
+WESTRING_AEVAL_ABPY=
+//-- Posición botón - Desactivar (X)
+WESTRING_AEVAL_AUBX=
+//-- Posición botón - Desactivar (Y)
+WESTRING_AEVAL_AUBY=
+//-- Posición botón - Investigar (X)
+WESTRING_AEVAL_ARPX=
+//-- Posición botón - Investigar (Y)
+WESTRING_AEVAL_ARPY=
+//-- Icono - Normal
+WESTRING_AEVAL_AART=
+//-- Icono - Desactivar
+WESTRING_AEVAL_AUAR=
+//-- Icono - Investigar
+WESTRING_AEVAL_ARAR=
+//-- Conjurador
+WESTRING_AEVAL_ACAT=
+//-- Objetivo
+WESTRING_AEVAL_ATAT=
+//-- Especial
+WESTRING_AEVAL_ASAT=
+//-- Efecto
+WESTRING_AEVAL_AEAT=
+//-- Área de efecto
+WESTRING_AEVAL_AAEA=
+//-- Efectos de rayo
+WESTRING_AEVAL_ALIG=
+//-- Misil - Gráfico
+WESTRING_AEVAL_AMAT=
+//-- Misil - Velocidad
+WESTRING_AEVAL_AMSP=
+//-- Misil - Arco
+WESTRING_AEVAL_AMAC=
+//-- Misil - Buscador activado
+WESTRING_AEVAL_AMHO=
+//-- Ayuda - Normal
+WESTRING_AEVAL_ATP1=
+//-- Ayuda - Desactivar
+WESTRING_AEVAL_AUT1=
+//-- Ayuda - Normal - Ampliada
+WESTRING_AEVAL_AUB1=
+//-- Ayuda - Desactivar - Ampliada
+WESTRING_AEVAL_AUU1=
+//-- Acceso rápido - Normal
+WESTRING_AEVAL_AHKY=
+//-- Acceso rápido - Desactivar
+WESTRING_AEVAL_AUHK=
+//-- Niveles
+WESTRING_AEVAL_ALEV=
+//-- Nivel necesario
+WESTRING_AEVAL_ARLV=
+//-- Requisito para saltar nivel
+WESTRING_AEVAL_ALSK=
+//-- Objetivos permitidos
+WESTRING_AEVAL_ATAR=
+//-- Tiempo de conjuro
+WESTRING_AEVAL_ACAS=
+//-- Duración - Normal
+WESTRING_AEVAL_ADUR=
+//-- Duración - Héroe
+WESTRING_AEVAL_AHDU=
+//-- Tiempo muerto
+WESTRING_AEVAL_ACDN=
+//-- Coste de maná
+WESTRING_AEVAL_AMCS=
+//-- Área de efecto
+WESTRING_AEVAL_AARE=
+//-- Alcance de conjuro
+WESTRING_AEVAL_ARAN=
+//-- Requisitos
+WESTRING_AEVAL_AREQ=
+//-- Requisitos - Niveles
+WESTRING_AEVAL_ARQA=
+//-- Ayuda - Aprender
+WESTRING_AEVAL_ARET=
+//-- Ayuda - Aprender - Ampliada
+WESTRING_AEVAL_ARUT=
+//-- Aprender
+WESTRING_AEVAL_ARHK=
+//-- Raza
+WESTRING_AEVAL_ARAC=
+//-- Comprobar dependencias
+WESTRING_AEVAL_ACHD=
+//-- Prioridad para Robar conjuro
+WESTRING_AEVAL_APRI=
+//-- Cadena de orden - Utilizar/Activar
+WESTRING_AEVAL_AORD=
+//-- Cadena de orden - Desactivar
+WESTRING_AEVAL_AORU=
+//-- Cadena de orden - Activar
+WESTRING_AEVAL_AORO=
+//-- Cadena de orden - Desactivar
+WESTRING_AEVAL_AORF=
+//-- Sonido de efecto
+WESTRING_AEVAL_AEFS=
+//-- Sonido de efecto (bucle)
+WESTRING_AEVAL_AEFL=
+//-- Accesorios en objetivo
+WESTRING_AEVAL_ATAC=
+//-- Accesorio en objetivo 1 - Punto
+WESTRING_AEVAL_ATA0=
+//-- Accesorio en objetivo 2 - Punto
+WESTRING_AEVAL_ATA1=
+//-- Accesorio en objetivo 3 - Punto
+WESTRING_AEVAL_ATA2=
+//-- Accesorio en objetivo 4 - Punto
+WESTRING_AEVAL_ATA3=
+//-- Accesorio en objetivo 5 - Punto
+WESTRING_AEVAL_ATA4=
+//-- Accesorio en objetivo 6 - Punto
+WESTRING_AEVAL_ATA5=
+//-- Accesorios en conjurador
+WESTRING_AEVAL_ACAC=
+//-- Accesorio en conjurador 1 - Punto
+WESTRING_AEVAL_ACAP=
+//-- Accesorio en conjurador 2 - Punto
+WESTRING_AEVAL_ACA1=
+//-- Accesorio especial - Punto
+WESTRING_AEVAL_ASPT=
+//-- Conjuros benéficos
+WESTRING_AEVAL_ABUF=
+//-- Efectos
+WESTRING_AEVAL_AEFF=
+//-- Nombres de animación
+WESTRING_AEVAL_AANI=
+//-- Número de olas
+WESTRING_AEVAL_HBZ1=
+//-- Daño
+WESTRING_AEVAL_HBZ2=
+//-- Número de fragmentos
+WESTRING_AEVAL_HBZ3=
+//-- Reducción en construcción
+WESTRING_AEVAL_HBZ4=
+//-- Daño por segundo
+WESTRING_AEVAL_HBZ5=
+//-- Daño máximo por onda
+WESTRING_AEVAL_HBZ6=
+//-- Aumento de regeneración de maná
+WESTRING_AEVAL_HAB1=
+//-- Número de unidades teletransportadas
+WESTRING_AEVAL_HMT1=
+//-- Retraso de conjuro
+WESTRING_AEVAL_HMT2=
+//-- Usar teletransporte con acomplamiento
+WESTRING_AEVAL_HMT3=
+//-- Usar teletransporte con acomplamiento
+WESTRING_AEVAL_ITP2=
+//-- Tipo de unidad de invocación
+WESTRING_AEVAL_HWE1=
+//-- Cantidad de unidades invocadas
+WESTRING_AEVAL_HWE2=
+//-- Daño por segundo
+WESTRING_AEVAL_OWW1=
+//-- Reducción de daño mágico
+WESTRING_AEVAL_OWW2=
+//-- Probabilidad de Golpe crítico
+WESTRING_AEVAL_OCR1=
+//-- Multiplicador de daño
+WESTRING_AEVAL_OCR2=
+//-- Bonificación de daño
+WESTRING_AEVAL_OCR3=
+//-- Probabilidad de Evadir
+WESTRING_AEVAL_OCR4=
+//-- Número de imágenes
+WESTRING_AEVAL_OMI1=
+//-- Daño provocado (%)
+WESTRING_AEVAL_OMI2=
+//-- Daño recibido (%)
+WESTRING_AEVAL_OMI3=
+//-- Retraso de animación
+WESTRING_AEVAL_OMI4=
+//-- Tiempo de transición
+WESTRING_AEVAL_OWK1=
+//-- Aumento de velocidad de movimiento (%)
+WESTRING_AEVAL_OWK2=
+//-- Daño de ataque por la espalda
+WESTRING_AEVAL_OWK3=
+//-- Número de cadáveres alzados
+WESTRING_AEVAL_UAN1=
+//-- Cantidad curada/dañada
+WESTRING_AEVAL_UDC1=
+//-- Vida transformada a maná
+WESTRING_AEVAL_UDP1=
+//-- Vida transformada a vida
+WESTRING_AEVAL_UDP2=
+//-- Maná convertido es un porcentaje
+WESTRING_AEVAL_UDP3=
+//-- Vida convertida es un porcentaje
+WESTRING_AEVAL_UDP4=
+//-- Dejar objetivo con vida
+WESTRING_AEVAL_UDP5=
+//-- Aumento de velocidad de movimiento (%)
+WESTRING_AEVAL_UAU1=
+//-- Aumento de regeneración de vida (%)
+WESTRING_AEVAL_UAU2=
+//-- Probabilidad de Evadir
+WESTRING_AEVAL_EEV1=
+//-- Daño por intervalo
+WESTRING_AEVAL_EIM1=
+//-- Maná consumido por segundo
+WESTRING_AEVAL_EIM2=
+//-- Maná extra para activar
+WESTRING_AEVAL_EIM3=
+//-- Maná máx. consumido
+WESTRING_AEVAL_EMB1=
+//-- Retraso de rayo
+WESTRING_AEVAL_EMB2=
+//-- Tiempo de vida de rayo
+WESTRING_AEVAL_EMB3=
+//-- Forma normal de unidad
+WESTRING_AEVAL_EME1=
+//-- Propiedades de morfosis
+WESTRING_AEVAL_EME2=
+//-- Duración de ajuste de altitud
+WESTRING_AEVAL_EME3=
+//-- Retraso de tiempo de aterrizaje
+WESTRING_AEVAL_EME4=
+//-- Bonus de puntos de impacto (forma alterna)
+WESTRING_AEVAL_EME5=
+//-- Índice de regeneración de vida (por segundo)
+WESTRING_AEVAL_AVE5=
+//-- Forma alterna de unidad
+WESTRING_AEVAL_EMEU=
+//-- Duración de aturdimiento
+WESTRING_AEVAL_USL1=
+//-- Daño de ataque robado (%)
+WESTRING_AEVAL_UAV1=
+//-- Daño
+WESTRING_AEVAL_UCS1=
+//-- Daño máximo
+WESTRING_AEVAL_UCS2=
+//-- Distancia
+WESTRING_AEVAL_UCS3=
+//-- Área final
+WESTRING_AEVAL_UCS4=
+//-- Daño
+WESTRING_AEVAL_UIN1=
+//-- Duración
+WESTRING_AEVAL_UIN2=
+//-- Retraso de impacto
+WESTRING_AEVAL_UIN3=
+//-- Unidad invocada
+WESTRING_AEVAL_UIN4=
+//-- Daño por objetivo
+WESTRING_AEVAL_OCL1=
+//-- Número de objetivos alcanzados
+WESTRING_AEVAL_OCL2=
+//-- Reducción de daño por objetivo
+WESTRING_AEVAL_OCL3=
+//-- Retraso de efecto
+WESTRING_AEVAL_OEQ1=
+//-- Daño a edificios por segundo
+WESTRING_AEVAL_OEQ2=
+//-- Unidades ralentizadas (%)
+WESTRING_AEVAL_OEQ3=
+//-- Área final
+WESTRING_AEVAL_OEQ4=
+//-- Unidad invocada
+WESTRING_AEVAL_OSF1=
+//-- Número de unidades invocadas
+WESTRING_AEVAL_OSF2=
+//-- Daño por segundo
+WESTRING_AEVAL_EER1=
+//-- Número de unidades invocadas
+WESTRING_AEVAL_EFN1=
+//-- Tipo de unidad invocada
+WESTRING_AEVAL_EFNU=
+//-- Daño provocado a los atacantes
+WESTRING_AEVAL_EAH1=
+//-- Daño provocado es un porcentaje
+WESTRING_AEVAL_EAH2=
+//-- Vida curada
+WESTRING_AEVAL_ETQ1=
+//-- Intervalo de curación
+WESTRING_AEVAL_ETQ2=
+//-- Reducción en construcción
+WESTRING_AEVAL_ETQ3=
+//-- Vida máx. consumida por segundo (%)
+WESTRING_AEVAL_UDD1=
+//-- Reducción en construcción
+WESTRING_AEVAL_UDD2=
+//-- Duración armadura
+WESTRING_AEVAL_UFA1=
+//-- Bonificación de armadura
+WESTRING_AEVAL_UFA2=
+//-- Daño de área de efecto
+WESTRING_AEVAL_UFN1=
+//-- Daño a objetivo seleccionado
+WESTRING_AEVAL_UFN2=
+//-- Bonificación de daño
+WESTRING_AEVAL_HFA1=
+//-- Unidad invocada
+WESTRING_AEVAL_EST1=
+//-- Daño provocado
+WESTRING_AEVAL_ESF1=
+//-- Intervalo de daño
+WESTRING_AEVAL_ESF2=
+//-- Reducción en construcción
+WESTRING_AEVAL_ESF3=
+//-- Bonificación de daño (%)
+WESTRING_AEVAL_EAR1=
+//-- Bonificación de defensa
+WESTRING_AEVAL_HAV1=
+//-- Bonificación de puntos de impacto
+WESTRING_AEVAL_HAV2=
+//-- Bonificación de daño
+WESTRING_AEVAL_HAV3=
+//-- Reducción de daño mágico
+WESTRING_AEVAL_HAV4=
+//-- Probabilidad de lograr Porrazo
+WESTRING_AEVAL_HBH1=
+//-- Multiplicador de daño
+WESTRING_AEVAL_HBH2=
+//-- Bonificación de daño
+WESTRING_AEVAL_HBH3=
+//-- Probabilidad de fallar
+WESTRING_AEVAL_HBH4=
+//-- Daño
+WESTRING_AEVAL_HTB1=
+//-- Daño en área
+WESTRING_AEVAL_HTC1=
+//-- Daño a objetivo específico
+WESTRING_AEVAL_HTC2=
+//-- Reducción velocidad de movimiento (%)
+WESTRING_AEVAL_HTC3=
+//-- Reducción velocidad de ataque (%)
+WESTRING_AEVAL_HTC4=
+//-- Bonificación de armadura
+WESTRING_AEVAL_HAD1=
+//-- Cantidad curada/dañada
+WESTRING_AEVAL_HHB1=
+//-- Número de cadáveres alzados
+WESTRING_AEVAL_HRE1=
+//-- Las unidades alzadas son invulnerables
+WESTRING_AEVAL_HRE2=
+//-- Daño extra
+WESTRING_AEVAL_HCA1=
+//-- Factor de velocidad de movimiento
+WESTRING_AEVAL_HCA2=
+//-- Factor de velocidad ataque
+WESTRING_AEVAL_HCA3=
+//-- Apilar propiedades
+WESTRING_AEVAL_HCA4=
+//-- Aumento velocidad de movimiento (%)
+WESTRING_AEVAL_OAE1=
+//-- Aumento velocidad de ataque (%)
+WESTRING_AEVAL_OAE2=
+//-- Retraso de Reencarnación
+WESTRING_AEVAL_ORE1=
+//-- Daño
+WESTRING_AEVAL_OSH1=
+//-- Daño máximo
+WESTRING_AEVAL_OSH2=
+//-- Distancia
+WESTRING_AEVAL_OSH3=
+//-- Área final
+WESTRING_AEVAL_OSH4=
+//-- Retraso de gráfico 
+WESTRING_AEVAL_NFD1=
+//-- Duración de gráfico
+WESTRING_AEVAL_NFD2=
+//-- Daño
+WESTRING_AEVAL_NFD3=
+//-- Unidades generadas
+WESTRING_AEVAL_NDP1=
+//-- Número mínimo de unidades
+WESTRING_AEVAL_NDP2=
+//-- Número máximo de unidades
+WESTRING_AEVAL_NDP3=
+//-- Habilidad para creación de unidades
+WESTRING_AEVAL_NRC1=
+//-- Número de unidades creadas
+WESTRING_AEVAL_NRC2=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_AMS1=
+//-- Reducción de daño mágico
+WESTRING_AEVAL_AMS2=
+//-- Vida de escudo
+WESTRING_AEVAL_AMS3=
+//-- Duración de aura
+WESTRING_AEVAL_APL1=
+//-- Daño por segundo
+WESTRING_AEVAL_APL2=
+//-- Duración del Tótem de plaga
+WESTRING_AEVAL_APL3=
+//-- Tipo de unidad de tótem de plaga
+WESTRING_AEVAL_APLU=
+//-- Cantidad de puntos de impacto regenerados
+WESTRING_AEVAL_OAR1=
+//-- Porcentaje
+WESTRING_AEVAL_OAR2=
+//-- Aumento de daño de ataque
+WESTRING_AEVAL_AKB1=
+//-- Pérdida de maná
+WESTRING_AEVAL_ADM1=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_ADM2=
+//-- Tipo de unidad permitida
+WESTRING_AEVAL_BTL1=
+//-- Llamar unidades ocupadas
+WESTRING_AEVAL_BTL2=
+//-- Cantidad de expansión
+WESTRING_AEVAL_BLI1=
+//-- Crea Infestación
+WESTRING_AEVAL_BLI2=
+//-- Oro por intervalo
+WESTRING_AEVAL_BGM1=
+//-- Duración de intervalo
+WESTRING_AEVAL_BGM2=
+//-- Número máx. de mineros
+WESTRING_AEVAL_BGM3=
+//-- Radio del anillo de extracción
+WESTRING_AEVAL_BGM4=
+//-- Aumento de velocidad de ataque (%)
+WESTRING_AEVAL_BLO1=
+//-- Aumento de velocidad de movimiento (%)
+WESTRING_AEVAL_BLO2=
+//-- Factor de escala
+WESTRING_AEVAL_BLO3=
+//-- Puntos de impacto por segundo
+WESTRING_AEVAL_CAN1=
+//-- Puntos de impacto máx.
+WESTRING_AEVAL_CAN2=
+//-- Capacidad de carga
+WESTRING_AEVAL_CAR1=
+//-- Daño por segundo
+WESTRING_AEVAL_DEV2=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_DEV3=
+//-- Frecuencia de actualización movimiento
+WESTRING_AEVAL_CHD1=
+//-- Frecuencia de actualización ataque
+WESTRING_AEVAL_CHD2=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_CHD3=
+//-- Tipo de unidad nueva
+WESTRING_AEVAL_CHA1=
+//-- Reducción de velocidad de movimiento (%)
+WESTRING_AEVAL_CRI1=
+//-- Reducción de velocidad de ataque (%)
+WESTRING_AEVAL_CRI2=
+//-- Reducción de daño
+WESTRING_AEVAL_CRI3=
+//-- Probabilidad de fallar
+WESTRING_AEVAL_CRS1=
+//-- Radio de daño completo
+WESTRING_AEVAL_DDA1=
+//-- Cantidad de daño completo
+WESTRING_AEVAL_DDA2=
+//-- Radio de daño parcial
+WESTRING_AEVAL_DDA3=
+//-- Cantidad de daño parcial
+WESTRING_AEVAL_DDA4=
+//-- Factor de daño en edificio
+WESTRING_AEVAL_SDS5=
+//-- Daño recibido (%)
+WESTRING_AEVAL_DEF1=
+//-- Daño provocado (%)
+WESTRING_AEVAL_DEF2=
+//-- Factor de velocidad de movimiento
+WESTRING_AEVAL_DEF3=
+//-- Factor de velocidad ataque
+WESTRING_AEVAL_DEF4=
+//-- Reducción de daño mágico
+WESTRING_AEVAL_DEF5=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_DEV1=
+//-- Retraso de desgarro
+WESTRING_AEVAL_EAT1=
+//-- Retraso de comer
+WESTRING_AEVAL_EAT2=
+//-- Puntos de impacto ganados
+WESTRING_AEVAL_EAT3=
+//-- Duración de traída a tierra (volador)
+WESTRING_AEVAL_ENS1=
+//-- Altura de unidad voladora
+WESTRING_AEVAL_ENS2=
+//-- Alcance de ataque melé
+WESTRING_AEVAL_ENS3=
+//-- Tipo de unidad resultante
+WESTRING_AEVAL_ENT1=
+//-- Oro por intervalo
+WESTRING_AEVAL_EGM1=
+//-- Duración de intervalo
+WESTRING_AEVAL_EGM2=
+//-- Reducción de defensa
+WESTRING_AEVAL_FAE1=
+//-- Autoconjurar siempre
+WESTRING_AEVAL_FAE2=
+//-- Tipo de detección
+WESTRING_AEVAL_FLA1=
+//-- Retraso de efecto
+WESTRING_AEVAL_FLA2=
+//-- Recuento de llamarada
+WESTRING_AEVAL_FLA3=
+//-- Oro máximo
+WESTRING_AEVAL_GLD1=
+//-- Duración de extracción
+WESTRING_AEVAL_GLD2=
+//-- Capacidad de extracción
+WESTRING_AEVAL_GLD3=
+//-- Número máximo de cadáveres
+WESTRING_AEVAL_GYD1=
+//-- Radio de lápidas
+WESTRING_AEVAL_GYD2=
+//-- Radio de cadáveres
+WESTRING_AEVAL_GYD3=
+//-- Unidad tipo de cadáver
+WESTRING_AEVAL_GYDU=
+//-- Daño a árbol
+WESTRING_AEVAL_HAR1=
+//-- Capacidad de madera
+WESTRING_AEVAL_HAR2=
+//-- Capacidad de oro
+WESTRING_AEVAL_HAR3=
+//-- Puntos de impacto ganados 
+WESTRING_AEVAL_HEA1=
+//-- Aumento de daño (%)
+WESTRING_AEVAL_INF1=
+//-- Aumento de defensa
+WESTRING_AEVAL_INF2=
+//-- Alcance de autoconjuro
+WESTRING_AEVAL_INF3=
+//-- Índice de regeneración vida
+WESTRING_AEVAL_INF4=
+//-- Retraso de gráfico
+WESTRING_AEVAL_LIT1=
+//-- Duración de gráfico
+WESTRING_AEVAL_LIT2=
+//-- Daño por segundo
+WESTRING_AEVAL_LSH1=
+//-- Tipo de unidad permitida
+WESTRING_AEVAL_LOA1=
+//-- Puntos de impacto ganados
+WESTRING_AEVAL_MBT1=
+//-- Maná ganado
+WESTRING_AEVAL_MBT2=
+//-- Maná requerido para autoconjuro
+WESTRING_AEVAL_MBT3=
+//-- Altura de agua
+WESTRING_AEVAL_MBT4=
+//-- Regeneración sólo nocturna
+WESTRING_AEVAL_MBT5=
+//-- Forma normal de unidad
+WESTRING_AEVAL_MIL1=
+//-- Forma alterna de unidad
+WESTRING_AEVAL_MIL2=
+//-- Retraso de activación
+WESTRING_AEVAL_MIN1=
+//-- Radio de activación
+WESTRING_AEVAL_NEU1=
+//-- Tipo de interacción
+WESTRING_AEVAL_NEU2=
+//-- Mostrar botón de selección unidad
+WESTRING_AEVAL_NEU3=
+//-- Mostrar indicador de unidad
+WESTRING_AEVAL_NEU4=
+//-- Coste de oro
+WESTRING_AEVAL_NDT1=
+//-- Coste de madera
+WESTRING_AEVAL_NDT2=
+//-- Tipo de detección
+WESTRING_AEVAL_NDT3=
+//-- ID de orden base
+WESTRING_AEVAL_ANS5=
+//-- Cobrar a jugador propietario
+WESTRING_AEVAL_ANS6=
+//-- Cantidad regenerada
+WESTRING_AEVAL_NRE1=
+//-- Porcentaje
+WESTRING_AEVAL_NRE2=
+//-- Daño por segundo
+WESTRING_AEVAL_POI1=
+//-- Factor de velocidad ataque
+WESTRING_AEVAL_POI2=
+//-- Factor de velocidad de movimiento
+WESTRING_AEVAL_POI3=
+//-- Tipo de acumulación
+WESTRING_AEVAL_POI4=
+//-- Daño extra
+WESTRING_AEVAL_POA1=
+//-- WESTRING_AEVAL_POI1
+WESTRING_AEVAL_POA2=
+//-- WESTRING_AEVAL_POI2
+WESTRING_AEVAL_POA3=
+//-- WESTRING_AEVAL_POI3
+WESTRING_AEVAL_POA4=
+//-- WESTRING_AEVAL_POI4
+WESTRING_AEVAL_POA5=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_PLY1=
+//-- Morfosear unidades - Tierra
+WESTRING_AEVAL_PLY2=
+//-- Morfosear unidades - Aire
+WESTRING_AEVAL_PLY3=
+//-- Morfosear unidades - Anfibias
+WESTRING_AEVAL_PLY4=
+//-- Morfosear unidades - Agua
+WESTRING_AEVAL_PLY5=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_POS1=
+//-- Aumento de daño
+WESTRING_AEVAL_POS2=
+//-- Objetivo es invulnerable
+WESTRING_AEVAL_POS3=
+//-- Objetivo es inmune a la magia
+WESTRING_AEVAL_POS4=
+//-- Probabilidad de pisotón (%)
+WESTRING_AEVAL_WAR1=
+//-- Daño provocado
+WESTRING_AEVAL_WAR2=
+//-- Radio de daño completo
+WESTRING_AEVAL_WAR3=
+//-- Radio de daño mediano
+WESTRING_AEVAL_WAR4=
+//-- Frecuencia de actualización de movimiento
+WESTRING_AEVAL_PRG1=
+//-- Frecuencia de actualización de ataque
+WESTRING_AEVAL_PRG2=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_PRG3=
+//-- Duración de pausa de unidad
+WESTRING_AEVAL_PRG4=
+//-- Duración de pausa de héroe
+WESTRING_AEVAL_PRG5=
+//-- Unidades invocadas (1)
+WESTRING_AEVAL_RAI1=
+//-- Unidades invocadas (2)
+WESTRING_AEVAL_RAI2=
+//-- Tipo de unidad (1)
+WESTRING_AEVAL_RAI3=
+//-- Tipo de unidad (2)
+WESTRING_AEVAL_RAI4=
+//-- Tipo de unidad para chequeo de límite
+WESTRING_AEVAL_RAIU=
+//-- Máximo de unidades invocadas
+WESTRING_AEVAL_UCB5=
+//-- Puntos de impacto regenerados
+WESTRING_AEVAL_REJ1=
+//-- Puntos de maná regenerados
+WESTRING_AEVAL_REJ2=
+//-- Permitir si recurso está repleto
+WESTRING_AEVAL_REJ3=
+//-- No se necesita objetivo
+WESTRING_AEVAL_REJ4=
+//-- Vida mínima requerida
+WESTRING_AEVAL_RPB3=
+//-- Maná mímino requerido
+WESTRING_AEVAL_RPB4=
+//-- Máximo de unidades cobradas por lanzamiento
+WESTRING_AEVAL_RPB5=
+//-- Máximo de unidades alcanzadas
+WESTRING_AEVAL_RPB6=
+//-- Índice de coste de reparación
+WESTRING_AEVAL_REP1=
+//-- Factor de tiempo de reparación
+WESTRING_AEVAL_REP2=
+//-- Coste de construcción acelerada
+WESTRING_AEVAL_REP3=
+//-- Factor de construcción acelerada
+WESTRING_AEVAL_REP4=
+//-- Bonificación de alcance naval
+WESTRING_AEVAL_REP5=
+//-- Acepta oro
+WESTRING_AEVAL_RTN1=
+//-- Acepta madera
+WESTRING_AEVAL_RTN2=
+//-- Aumento de daño (%)
+WESTRING_AEVAL_ROA1=
+//-- Aumento de defensa
+WESTRING_AEVAL_ROA2=
+//-- Índice de regeneración de vida
+WESTRING_AEVAL_ROA3=
+//-- Aumento de daño
+WESTRING_AEVAL_NBR1=
+//-- Armas de arraigado
+WESTRING_AEVAL_ROO1=
+//-- Armas de desarraigado
+WESTRING_AEVAL_ROO2=
+//-- Rotación de arraigado
+WESTRING_AEVAL_ROO3=
+//-- Tipo de defensa desarraigada
+WESTRING_AEVAL_ROO4=
+//-- Índice de coste de recuperación
+WESTRING_AEVAL_SAL1=
+//-- Paso de acumulación 
+WESTRING_AEVAL_SAL2=
+//-- Radio de visión en vuelo
+WESTRING_AEVAL_ESN1=
+//-- Alcance de vista en sobrevuelo
+WESTRING_AEVAL_ESN2=
+//-- Altura de sobrevuelo
+WESTRING_AEVAL_ESN3=
+//-- Número de búhos
+WESTRING_AEVAL_ESN4=
+//-- Duración de desvanecimiento
+WESTRING_AEVAL_SHM1=
+//-- Duración de día/noche
+WESTRING_AEVAL_SHM2=
+//-- Duración de acción
+WESTRING_AEVAL_SHM3=
+//-- Factor de velocidad de movimiento
+WESTRING_AEVAL_SLO1=
+//-- Factor de velocidad de ataque
+WESTRING_AEVAL_SLO2=
+//-- Autoconjurar siempre
+WESTRING_AEVAL_SLO3=
+//-- Daño por segundo
+WESTRING_AEVAL_SPO1=
+//-- Factor de velocidad de movimiento
+WESTRING_AEVAL_SPO2=
+//-- Factor de velocidad de ataque
+WESTRING_AEVAL_SPO3=
+//-- Tipo de acumulación
+WESTRING_AEVAL_SPO4=
+//-- Número de unidades
+WESTRING_AEVAL_SOD1=
+//-- Tipo de unidad
+WESTRING_AEVAL_SOD2=
+//-- Capacidad de arañas
+WESTRING_AEVAL_SPA1=
+//-- Retraso de activación
+WESTRING_AEVAL_STA1=
+//-- Radio de detección
+WESTRING_AEVAL_STA2=
+//-- Radio de detonación
+WESTRING_AEVAL_STA3=
+//-- Duración de aturdimiento
+WESTRING_AEVAL_STA4=
+//-- Tipo de unidad de tótem
+WESTRING_AEVAL_STAU=
+//-- Bonificación de velocidad de ataque (%)
+WESTRING_AEVAL_UHF1=
+//-- Daño por segundo
+WESTRING_AEVAL_UHF2=
+//-- Madera por intervalo
+WESTRING_AEVAL_WHA1=
+//-- Intervalos antes de cambiar árboles
+WESTRING_AEVAL_WHA2=
+//-- Altura de gráfico de accesorio
+WESTRING_AEVAL_WHA3=
+//-- Ancho de área de teletransporte
+WESTRING_AEVAL_WRP1=
+//-- Altura de área de teletransporte
+WESTRING_AEVAL_WRP2=
+//-- Bonificación de agilidad
+WESTRING_AEVAL_IAGI=
+//-- Bonificación de inteligencia
+WESTRING_AEVAL_IINT=
+//-- Bonificación de fuerza
+WESTRING_AEVAL_ISTR=
+//-- Ocultar botón
+WESTRING_AEVAL_IHID=
+//-- Bonificación de ataque
+WESTRING_AEVAL_IATT=
+//-- Bonificación de defensa
+WESTRING_AEVAL_IDEF=
+//-- Invocar 1 - Cantidad
+WESTRING_AEVAL_ISN1=
+//-- Invocar 1 - Tipo de unidad
+WESTRING_AEVAL_IST1=
+//-- Invocar 2 - Cantidad
+WESTRING_AEVAL_ISN2=
+//-- Invocar 2 - Tipo de unidad
+WESTRING_AEVAL_IST2=
+//-- Experiencia ganada
+WESTRING_AEVAL_IXPG=
+//-- Puntos de impacto ganados
+WESTRING_AEVAL_IHPG=
+//-- Puntos de maná ganados
+WESTRING_AEVAL_IMPG=
+//-- Radio de área de efecto
+WESTRING_AEVAL_IAOE=
+//-- Vida robada por ataque
+WESTRING_AEVAL_IVAM=
+//-- Bonificación de daño de dado
+WESTRING_AEVAL_IDIC=
+//-- Penalización a armadura
+WESTRING_AEVAL_IARP=
+//-- Bonificación de daño
+WESTRING_AEVAL_IDAM=
+//-- Probabilidad de alcanzar unidades (%)
+WESTRING_AEVAL_IOB2=
+//-- Probabilidad de alcanzar héroes (%)
+WESTRING_AEVAL_IOB3=
+//-- Probabilidad de alcanzar invocados (%)
+WESTRING_AEVAL_IOB4=
+//-- Índice de ataques activados
+WESTRING_AEVAL_IOB5=
+//-- Habilidad de efecto
+WESTRING_AEVAL_IOBU=
+//-- Niveles ganados
+WESTRING_AEVAL_ILEV=
+//-- Vida máx. ganada
+WESTRING_AEVAL_ILIF=
+//-- Maná máx. ganado
+WESTRING_AEVAL_IMAN=
+//-- Oro cedido
+WESTRING_AEVAL_IGOL=
+//-- Madera cedida
+WESTRING_AEVAL_ILUM=
+//-- Retraso de efecto de objetivo
+WESTRING_AEVAL_IDEL=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_ICRE=
+//-- Frecuencia de movimiento
+WESTRING_AEVAL_IMVF=
+//-- Frecuencia de ataque
+WESTRING_AEVAL_IATF=
+//-- Daño a unidades invocadas
+WESTRING_AEVAL_IDMS=
+//-- Bonificación de velocidad de movimiento
+WESTRING_AEVAL_IMVB=
+//-- Puntos de impacto regenerados por segundo
+WESTRING_AEVAL_IHPR=
+//-- Bonificación a alcance de vista
+WESTRING_AEVAL_ISIB=
+//-- Daño por duración
+WESTRING_AEVAL_ICFD=
+//-- Maná utilizado por segundo
+WESTRING_AEVAL_ICFM=
+//-- Maná extra necesario
+WESTRING_AEVAL_ICFX=
+//-- Radio de detección
+WESTRING_AEVAL_IDET=
+//-- Pérdida de maná por unidad
+WESTRING_AEVAL_IDIM=
+//-- Daño a unidades invocadas
+WESTRING_AEVAL_IDID=
+//-- Daño provocado (% del normal)
+WESTRING_AEVAL_IILD=
+//-- Multiplicador de daño recibido
+WESTRING_AEVAL_IILW=
+//-- Número máximo de unidades
+WESTRING_AEVAL_IREC=
+//-- Bonif. de regeneración de maná (fracción de lo normal)
+WESTRING_AEVAL_IMRP=
+//-- Retraso después de muerte (segundos)
+WESTRING_AEVAL_IRCD=
+//-- Vida restaurada
+WESTRING_AEVAL_IRC2=
+//-- Maná restaurado (-1 para actual)
+WESTRING_AEVAL_IRC3=
+//-- Puntos de impacto restaurados
+WESTRING_AEVAL_IHPS=
+//-- Puntos de maná restaurados
+WESTRING_AEVAL_IMPS=
+//-- Radio de área de efecto
+WESTRING_AEVAL_IREA=
+//-- Aumento de velocidad de movimiento
+WESTRING_AEVAL_ISPI=
+//-- Número máximo de unidades
+WESTRING_AEVAL_ITPM=
+//-- Daño por segundo
+WESTRING_AEVAL_IDPS=
+//-- Número de cadáveres alzados
+WESTRING_AEVAL_CAD1=
+//-- Aumento de daño de ataque
+WESTRING_AEVAL_CAC1=
+//-- Daño por segundo
+WESTRING_AEVAL_COR1=
+//-- Aumento de velocidad de ataque
+WESTRING_AEVAL_ISX1=
+//-- Daño
+WESTRING_AEVAL_WRS1=
+//-- Amplitud de deformación de terreno
+WESTRING_AEVAL_WRS2=
+//-- Duración de deformación de terreno (ms)
+WESTRING_AEVAL_WRS3=
+//-- Daño
+WESTRING_AEVAL_CTC1=
+//-- Daño extra al objetivo
+WESTRING_AEVAL_CTC2=
+//-- Reducción de velocidad de movimiento
+WESTRING_AEVAL_CTC3=
+//-- Reducción de velocidad de ataque
+WESTRING_AEVAL_CTC4=
+//-- Daño
+WESTRING_AEVAL_CTB1=
+//-- Unidad creada (por raza de jugador)
+WESTRING_AEVAL_IBL1=
+//-- Unidades máximas
+WESTRING_AEVAL_UDS1=
+//-- Retraso de conjuro (segundos)
+WESTRING_AEVAL_UDS2=
+//-- Raza a convertir
+WESTRING_AEVAL_NDC1=
+//-- Tipo de unidad de conversión
+WESTRING_AEVAL_NDC2=
+//-- Unidad a preservar
+WESTRING_AEVAL_NSL1=
+//-- Tipo de unidad permitido
+WESTRING_AEVAL_CHL1=
+//-- Tipo de detección
+WESTRING_AEVAL_DET1=
+//-- Pérdida de maná (por unidad)
+WESTRING_AEVAL_DTN1=
+//-- Daño a unidades invocadas
+WESTRING_AEVAL_DTN2=
+//-- Inmune a efectos de Morfosear 
+WESTRING_AEVAL_ETH1=
+//-- No obstaculiza edificios
+WESTRING_AEVAL_ETH2=
+//-- Selección automática de objetivos
+WESTRING_AEVAL_GHO1=
+//-- WESTRING_AEVAL_ETH1
+WESTRING_AEVAL_GHO2=
+//-- WESTRING_AEVAL_ETH2
+WESTRING_AEVAL_GHO3=
+//-- Tiempo de transición (segundos)
+WESTRING_AEVAL_IVS1=
+//-- Maná consumido por segundo
+WESTRING_AEVAL_NMR1=
+//-- Coste de oro por estructura
+WESTRING_AEVAL_NSP1=
+//-- Coste de madera por uso
+WESTRING_AEVAL_NSP2=
+//-- Tipo de detección
+WESTRING_AEVAL_NSP3=
+//-- Probabilidad de reducir daño (%)
+WESTRING_AEVAL_SSK1=
+//-- Daño mínimo
+WESTRING_AEVAL_SSK2=
+//-- Daño ignorado
+WESTRING_AEVAL_SSK3=
+//-- Incluir daño a distancia
+WESTRING_AEVAL_SSK4=
+//-- Incluir daño melé
+WESTRING_AEVAL_SSK5=
+//-- Daño hecho (principal)
+WESTRING_AEVAL_HFS1="Daño principal hecho en cada aplicación"
+//-- Intervalo de daño (principal)
+WESTRING_AEVAL_HFS2="Intervalo de daño principal hecho durante 'Duración - Héroe'"
+//-- Daño hecho (remanente)
+WESTRING_AEVAL_HFS3="Daño remanente hecho por cada intervalo. Este daño no se efectua durante 'Duración - Héroe'"
+//-- Intervalo de daño (remanente)
+WESTRING_AEVAL_HFS4="Intervalo de daño remanente hecho durante 'Duración - Normal'"
+//-- Reducción en construcción
+WESTRING_AEVAL_HFS5=
+//-- Daño máximo
+WESTRING_AEVAL_HFS6="Si el daño total hecho en unidades en cada aplicación supera esta cifra, el daño es distribuido."
+//-- Maná por punto de impacto
+WESTRING_AEVAL_NMS1=
+//-- Daño absorbido (%)
+WESTRING_AEVAL_NMS2=
+//-- Distancia de ola
+WESTRING_AEVAL_UIM1=
+//-- Tiempo de ola (segundos)
+WESTRING_AEVAL_UIM2=
+//-- Daño provocado
+WESTRING_AEVAL_UIM3=
+//-- Tiempo en el aire (segundos)
+WESTRING_AEVAL_UIM4=
+//-- Número de unidades langosta
+WESTRING_AEVAL_ULS1=
+//-- Intervalo liberación unidad (segundos)
+WESTRING_AEVAL_ULS2=
+//-- Unidades langosta máximas por objetivo
+WESTRING_AEVAL_ULS3=
+//-- Factor devolución daño
+WESTRING_AEVAL_ULS4=
+//-- Límite devolución daño
+WESTRING_AEVAL_ULS5=
+//-- Tipo de unidad langosta
+WESTRING_AEVAL_ULSU=
+//-- Factor de daño devuelto
+WESTRING_AEVAL_UTS1=
+//-- Factor de daño recibido
+WESTRING_AEVAL_UTS2=
+//-- Bonificación de defensa
+WESTRING_AEVAL_UTS3=
+//-- Bonificación de daño
+WESTRING_AEVAL_NBA1=
+//-- Número de unidades invocadas
+WESTRING_AEVAL_NBA2=
+//-- Duración de unidad invocada (segundos)
+WESTRING_AEVAL_NBA3=
+//-- Tipo de unidad invocada
+WESTRING_AEVAL_NBAU=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_NCH1=
+//-- Coste de mána por punto de impacto invocado
+WESTRING_AEVAL_CMG2=
+//-- Puntos de impacto consumidos
+WESTRING_AEVAL_NDR1=
+//-- Puntos de maná consumidos
+WESTRING_AEVAL_NDR2=
+//-- Intervalo de consumo (segundos)
+WESTRING_AEVAL_NDR3=
+//-- Ataques evitados
+WESTRING_AEVAL_NSI1=
+//-- Probabilidad de fallar (%)
+WESTRING_AEVAL_NSI2=
+//-- Modificador de velocidad de movimiento
+WESTRING_AEVAL_NSI3=
+//-- Modificador de velocidad de ataque
+WESTRING_AEVAL_NSI4=
+//-- Tipo de detección
+WESTRING_AEVAL_OFS1=
+//-- Tipo de unidad invocada
+WESTRING_AEVAL_NTOU=
+//-- Daño por segundo
+WESTRING_AEVAL_TDG1=
+//-- Radio de daño mediano
+WESTRING_AEVAL_TDG2=
+//-- Daño mediano por segundo
+WESTRING_AEVAL_TDG3=
+//-- Radio de daño pequeño
+WESTRING_AEVAL_TDG4=
+//-- Daño pequeño por segundo
+WESTRING_AEVAL_TDG5=
+//-- Tiempo en el aire (segundos)
+WESTRING_AEVAL_TSP1=
+//-- Intervalo mínimo de impacto (segundos)
+WESTRING_AEVAL_TSP2=
+//-- Daño por segundo
+WESTRING_AEVAL_NBF5=
+//-- Alcance máximo
+WESTRING_AEVAL_EBL1=
+//-- Alcance mínimo
+WESTRING_AEVAL_EBL2=
+//-- Daño por objetivo
+WESTRING_AEVAL_EFK1=
+//-- Daño total máximo 
+WESTRING_AEVAL_EFK2=
+//-- Número máximo de objetivos
+WESTRING_AEVAL_EFK3=
+//-- Ajuste de velocidad máxima
+WESTRING_AEVAL_EFK4=
+//-- Daño de putrefacción
+WESTRING_AEVAL_ESH1=
+//-- Factor de velocidad de movimiento
+WESTRING_AEVAL_ESH2=
+//-- Factor de velocidad ataque
+WESTRING_AEVAL_ESH3=
+//-- Poder de putrefacción
+WESTRING_AEVAL_ESH4=
+//-- Daño inicial
+WESTRING_AEVAL_ESH5=
+//-- Número de unidades invocadas
+WESTRING_AEVAL_ESV1=
+//-- Tipo de unidad invocada
+WESTRING_AEVAL_ESVU=
+//-- Vida máxima absorbida
+WESTRING_AEVAL_ABS1=
+//-- Maná máximo absorbido
+WESTRING_AEVAL_ABS2=
+//-- Aumento de velocidad de movimiento
+WESTRING_AEVAL_BSK1=
+//-- Aumento de velocidad de ataque
+WESTRING_AEVAL_BSK2=
+//-- Aumento de daño recibido
+WESTRING_AEVAL_BSK3=
+//-- Tipo de unidad resultante
+WESTRING_AEVAL_COAU=
+//-- Tipo de unidad compañero
+WESTRING_AEVAL_COA1=
+//-- Mover hacia compañero
+WESTRING_AEVAL_COA2=
+//-- Puede ser disipado
+WESTRING_AEVAL_CYC1=
+//-- Unidad compañero tipo uno
+WESTRING_AEVAL_DCP1=
+//-- Unidad compañero tipo dos
+WESTRING_AEVAL_DCP2=
+//-- Vida por unidad
+WESTRING_AEVAL_DVM1=
+//-- Maná por unidad
+WESTRING_AEVAL_DVM2=
+//-- Vida por conjuro benéfico
+WESTRING_AEVAL_DVM3=
+//-- Maná por conjuro benéfico
+WESTRING_AEVAL_DVM4=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_DVM5=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_DCH1=
+//-- Factor de daño mediano
+WESTRING_AEVAL_DCH2=
+//-- Factor de daño pequeño 
+WESTRING_AEVAL_DCH3=
+//-- Número máximo de cadáveres
+WESTRING_AEVAL_EXH1=
+//-- Tipo de unidad
+WESTRING_AEVAL_EXHU=
+//-- Bonificación de daño
+WESTRING_AEVAL_FAK1=
+//-- Factor de daño mediano
+WESTRING_AEVAL_FAK2=
+//-- Factor de daño pequeño 
+WESTRING_AEVAL_FAK3=
+//-- Radio de daño completo
+WESTRING_AEVAL_FAK4=
+//-- Radio de daño mediano
+WESTRING_AEVAL_FAK5=
+//-- Tipo de unidad de tótem
+WESTRING_AEVAL_HWDU=
+//-- Capacidad de ítems
+WESTRING_AEVAL_INV1=
+//-- Deja ítems caer al morir
+WESTRING_AEVAL_INV2=
+//-- Puede utilizar ítems
+WESTRING_AEVAL_INV3=
+//-- Puede coger ítems
+WESTRING_AEVAL_INV4=
+//-- Puede soltar ítems
+WESTRING_AEVAL_INV5=
+//-- Daño extra por segundo
+WESTRING_AEVAL_LIQ1=
+//-- Reducción de velocidad de movimiento
+WESTRING_AEVAL_LIQ2=
+//-- Reducción de velocidad de ataque
+WESTRING_AEVAL_LIQ3=
+//-- Permitir reparación
+WESTRING_AEVAL_LIQ4=
+//-- Factor de daño mágico
+WESTRING_AEVAL_MIM1=
+//-- Unidad - Daño por punto de maná
+WESTRING_AEVAL_MFL1=
+//-- Héroe - Daño por punto de maná
+WESTRING_AEVAL_MFL2=
+//-- Unidad - Daño máximo
+WESTRING_AEVAL_MFL3=
+//-- Héroe - Daño máximo
+WESTRING_AEVAL_MFL4=
+//-- Tiempo muerto de daño
+WESTRING_AEVAL_MFL5=
+//-- Tipo de unidad requerida
+WESTRING_AEVAL_TPI1=
+//-- Tipo de unidad convertida
+WESTRING_AEVAL_TPI2=
+//-- Factor de daño distribuido
+WESTRING_AEVAL_SPL1=
+//-- Número máximo de objetivos
+WESTRING_AEVAL_SPL2=
+//-- Vida regenerada
+WESTRING_AEVAL_IRL1=
+//-- Maná regenerado
+WESTRING_AEVAL_IRL2=
+//-- Permitir en recurso lleno
+WESTRING_AEVAL_IRL3=
+//-- Objetivo no requerido
+WESTRING_AEVAL_IRL4=
+//-- Disipar en ataque
+WESTRING_AEVAL_IRL5=
+//-- Pérdida de maná por unidad
+WESTRING_AEVAL_IDC1=
+//-- Daño a unidad invocada
+WESTRING_AEVAL_IDC2=
+//-- Máximo de unidades disipadas
+WESTRING_AEVAL_IDC3=
+//-- Número de señuelos
+WESTRING_AEVAL_IMO1=
+//-- Retraso de activación
+WESTRING_AEVAL_IMO2=
+//-- Intervalo de señuelo (segundos)
+WESTRING_AEVAL_IMO3=
+//-- Tipo de unidad señuelo
+WESTRING_AEVAL_IMOU=
+//-- Nueva hora del día - Hora
+WESTRING_AEVAL_ICT1=
+//-- Nueva hora del día - Minuto
+WESTRING_AEVAL_ICT2=
+//-- Bonificación de daño
+WESTRING_AEVAL_ISR1=
+//-- Reducción de daño
+WESTRING_AEVAL_ISR2=
+//-- Bonificación de daño
+WESTRING_AEVAL_IPV1=
+//-- Cantidad de vida robada
+WESTRING_AEVAL_IPV2=
+//-- Cantidad es un valor bruto
+WESTRING_AEVAL_IPV3=
+//-- Número de unidades creadas
+WESTRING_AEVAL_MEC1=
+//-- Lista de hechizos
+WESTRING_AEVAL_SPB1=
+//-- Tiempo muerto de hechizo compartido
+WESTRING_AEVAL_SPB2=
+//-- Mínimo de hechizos
+WESTRING_AEVAL_SPB3=
+//-- Máximo de hechizos
+WESTRING_AEVAL_SPB4=
+//-- ID de orden base
+WESTRING_AEVAL_SPB5=
+//-- Factor de vida restaurada
+WESTRING_AEVAL_AST1=
+//-- Factor de maná restaurado
+WESTRING_AEVAL_AST2=
+//-- Añadir retraso
+WESTRING_AEVAL_GRA1=
+//-- Eliminar retraso
+WESTRING_AEVAL_GRA2=
+//-- Índice de ataque desactivado
+WESTRING_AEVAL_GRA3=
+//-- Índice de ataque activado
+WESTRING_AEVAL_GRA4=
+//-- Máximo de ataques
+WESTRING_AEVAL_GRA5=
+//-- Tipo de unidad
+WESTRING_AEVAL_IPMU=
+//-- Tipos de edificio permitidos
+WESTRING_AEVAL_NPR1=
+//-- Tipos de edificio permitidos
+WESTRING_AEVAL_NSA1=
+//-- Retraso de regeneración en héroe
+WESTRING_AEVAL_NSA2=
+//-- Retraso de regeneración en unidad
+WESTRING_AEVAL_NSA3=
+//-- Reducción de daño mágico
+WESTRING_AEVAL_NSA4=
+//-- Puntos de impacto por segundo
+WESTRING_AEVAL_NSA5=
+//-- Modificación de ataque
+WESTRING_AEVAL_IAA1=
+//-- Daño a unidades invocadas
+WESTRING_AEVAL_IXS1=
+//-- Reducción de daño mágico
+WESTRING_AEVAL_IXS2=
+//-- Tipos de unidades invocadas
+WESTRING_AEVAL_NEF1=
+//-- Cantidad de unidades invocadas
+WESTRING_AEVAL_NPA5=
+//-- Duración de unidad invocada
+WESTRING_AEVAL_NPA6=
+//-- Niveles de actualización
+WESTRING_AEVAL_IGL1=
+//-- Tipo de actualización
+WESTRING_AEVAL_IGLU=
+//-- Tiempo muerto de escudo
+WESTRING_AEVAL_NSE1=
+//-- Daño por segundo
+WESTRING_AEVAL_NDO1=
+//-- Número de unidades invocadas
+WESTRING_AEVAL_NDO2=
+//-- Duración de unidad invocada (segundos)
+WESTRING_AEVAL_NDO3=
+//-- Tipo de unidad invocada
+WESTRING_AEVAL_NDOU=
+//-- Radio de daño mediano
+WESTRING_AEVAL_FLK1=
+//-- Radio de daño pequeño
+WESTRING_AEVAL_FLK2=
+//-- Cantidad daño completo
+WESTRING_AEVAL_FLK3=
+//-- Cantidad daño media
+WESTRING_AEVAL_FLK4=
+//-- Cantidad daño pequeña
+WESTRING_AEVAL_FLK5=
+//-- Reducción de velocidad de movimiento (%)
+WESTRING_AEVAL_HBN1=
+//-- Reducción de velocidad de ataque (%)
+WESTRING_AEVAL_HBN2=
+//-- Maná máximo consumido - Unidades
+WESTRING_AEVAL_FBK1=
+//-- Porcentaje de daño - Unidades (%)
+WESTRING_AEVAL_FBK2=
+//-- Maná máximo consumido - Héroes
+WESTRING_AEVAL_FBK3=
+//-- Porcentaje de daño - Héroes (%)
+WESTRING_AEVAL_FBK4=
+//-- Factor de daño distribuido
+WESTRING_AEVAL_NCA1=
+//-- Daño inicial
+WESTRING_AEVAL_PXF1=
+//-- Daño por segundo
+WESTRING_AEVAL_PXF2=
+//-- Daño por segundo
+WESTRING_AEVAL_MLS1=
+//-- Dormir una sola vez
+WESTRING_AEVAL_SLA1=
+//-- Permitir en cualquier ranura de jugador
+WESTRING_AEVAL_SLA2="Por defecto esta habilidad solo funciona en el jugador Hostil. Usuarios pueden usar está habilidad mas no ordenar Dormir normalmente."
+//-- Bestias por segundo
+WESTRING_AEVAL_NST1=
+//-- Radio de colisión de bestia
+WESTRING_AEVAL_NST2=
+//-- Cantidad daño
+WESTRING_AEVAL_NST3=
+//-- Radio de daño
+WESTRING_AEVAL_NST4=
+//-- Retraso de daño
+WESTRING_AEVAL_NST5=
+//-- Seguir a través el tiempo
+WESTRING_AEVAL_NCL1=
+//-- Tipo de objetivo
+WESTRING_AEVAL_NCL2=
+//-- Opciones
+WESTRING_AEVAL_NCL3=
+//-- Duración de gráfico
+WESTRING_AEVAL_NCL4=
+//-- Desactivar otras habilidades
+WESTRING_AEVAL_NCL5=
+//-- ID de orden base
+WESTRING_AEVAL_NCL6=
+//-- Reducción de velocidad de movimiento (%)
+WESTRING_AEVAL_NAB1=
+//-- Reducción de velocidad de ataque (%)
+WESTRING_AEVAL_NAB2=
+//-- Penalización a armadura
+WESTRING_AEVAL_NAB3=
+//-- Daño primario
+WESTRING_AEVAL_NAB4=
+//-- Daño secundario
+WESTRING_AEVAL_NAB5=
+//-- Intervalo de daño
+WESTRING_AEVAL_NAB6=
+//-- Cantidad de de olas
+WESTRING_AEVAL_NHS6=
+//-- Factor de coste de oro
+WESTRING_AEVAL_NTM1=
+//-- Factor de coste de madera
+WESTRING_AEVAL_NTM2=
+//-- Nivel máximo de creep
+WESTRING_AEVAL_NTM3=
+//-- Permitir recompensa
+WESTRING_AEVAL_NTM4=
+//-- Bonificación de velocidad de movimiento
+WESTRING_AEVAL_NEG1=
+//-- Bonificación de daño
+WESTRING_AEVAL_NEG2=
+//-- Actualización de habilidad 1
+WESTRING_AEVAL_NEG3=
+//-- Actualización de habilidad 2
+WESTRING_AEVAL_NEG4=
+//-- Actualización de habilidad 3
+WESTRING_AEVAL_NEG5=
+//-- Actualización de habilidad 4
+WESTRING_AEVAL_NEG6=
+//-- Cantidad de daño
+WESTRING_AEVAL_NCS1=
+//-- Intervalo de daño
+WESTRING_AEVAL_NCS2=
+//-- Cantidad de misiles
+WESTRING_AEVAL_NCS3=
+//-- Daño máximo
+WESTRING_AEVAL_NCS4=
+//-- Factorde  daño de edificio
+WESTRING_AEVAL_NCS5=
+//-- Duración de efecto
+WESTRING_AEVAL_NCS6=
+//-- Intervalo de regeneración
+WESTRING_AEVAL_NSY1=
+//-- ID de unidad regenerada
+WESTRING_AEVAL_NSY2=
+//-- Duración de unidad regenerada
+WESTRING_AEVAL_NSY3=
+//-- Desplazamiento de unidad regenerada
+WESTRING_AEVAL_NSY4=
+//-- ID de unidad de fábrica
+WESTRING_AEVAL_NSYU=
+//-- Intervalo de regeneración
+WESTRING_AEVAL_NFY1=
+//-- ID de unidad regenerada
+WESTRING_AEVAL_NFYU=
+//-- Probabilidad de Demoler
+WESTRING_AEVAL_NDE1=
+//-- Multiplicador de daño (Edificios)
+WESTRING_AEVAL_NDE2=
+//-- Multiplicador de daño (Unidades)
+WESTRING_AEVAL_NDE3=
+//-- Multiplicador de daño (Héroes)
+WESTRING_AEVAL_NDE4=
+//-- Multiplicador de bonificación de daño
+WESTRING_AEVAL_NIC1=
+//-- Cantidad de daño de muerte (completo)
+WESTRING_AEVAL_NIC2=
+//-- Área de daño de muerte (completo)
+WESTRING_AEVAL_NIC3=
+//-- Cantidad de daño de muerte (mediano)
+WESTRING_AEVAL_NIC4=
+//-- Área de daño de muerte (mediano)
+WESTRING_AEVAL_NIC5=
+//-- Retraso de daño de muerte
+WESTRING_AEVAL_NIC6=
+//-- Cantidad de daño
+WESTRING_AEVAL_NSO1=
+//-- Periodo de daño
+WESTRING_AEVAL_NSO2=
+//-- Penalización a daño
+WESTRING_AEVAL_NSO3=
+//-- Reducción de velocidad de movimiento (%)
+WESTRING_AEVAL_NSO4=
+//-- Reducción de velocidad de ataque (%)
+WESTRING_AEVAL_NSO5=
+//-- Retraso de división
+WESTRING_AEVAL_NLM2=
+//-- Cantidad de ataques para dividir
+WESTRING_AEVAL_NLM3="Cuántos ataques debe acertar una invocación para dividirse."
+//-- Factor de puntos de impacto máximo
+WESTRING_AEVAL_NLM4=
+//-- Bonif. de duración de vida al dividir
+WESTRING_AEVAL_NLM5=
+//-- Cantidad de generaciónes
+WESTRING_AEVAL_NLM6="La cantidad de creaciones (si no hay muertes) se puede expresar como 2^(generaciones-1). Un valor menor a 1 indica infinidad de generaciones."
+//-- Cantidad de Anillo de rocas
+WESTRING_AEVAL_NVC1=
+//-- Cantidad de olas
+WESTRING_AEVAL_NVC2=
+//-- Intervalo de olas
+WESTRING_AEVAL_NVC3=
+//-- Factor de daño en edificio
+WESTRING_AEVAL_NVC4=
+//-- Cantidad de daño completo
+WESTRING_AEVAL_NVC5=
+//-- Factor de daño mediano
+WESTRING_AEVAL_NVC6=
+//-- Nombre (sólo editor)
+WESTRING_FEVAL_FNAM=
+//-- Sufijo del editor
+WESTRING_FEVAL_FNSF=
+//-- Ayuda
+WESTRING_FEVAL_FTIP=
+//-- Ayuda - Ampliada
+WESTRING_FEVAL_FUBE=
+//-- Icono
+WESTRING_FEVAL_FART=
+//-- Es un efecto
+WESTRING_FEVAL_FEFF=
+//-- Raza
+WESTRING_FEVAL_FRAC=
+//-- Objetivo
+WESTRING_FEVAL_FTAT=
+//-- Especial
+WESTRING_FEVAL_FSAT=
+//-- Efecto
+WESTRING_FEVAL_FEAT=
+//-- Rayo
+WESTRING_FEVAL_FLIG=
+//-- Misil - Gráfico
+WESTRING_FEVAL_FMAT=
+//-- Misil - Velocidad
+WESTRING_FEVAL_FMSP=
+//-- Misil - Arco
+WESTRING_FEVAL_FMAC=
+//-- Misil - Buscador activado
+WESTRING_FEVAL_FMHO=
+//-- Accesorios en objetivo
+WESTRING_FEVAL_FTAC=
+//-- Accesorio en objetivo 1 - Punto
+WESTRING_FEVAL_FTA0=
+//-- Accesorio en objetivo 2 - Punto
+WESTRING_FEVAL_FTA1=
+//-- Accesorio en objetivo 3 - Punto
+WESTRING_FEVAL_FTA2=
+//-- Accesorio en objetivo 4 - Punto
+WESTRING_FEVAL_FTA3=
+//-- Accesorio en objetivo 5 - Punto
+WESTRING_FEVAL_FTA4=
+//-- Accesorio en objetivo 6 - Punto
+WESTRING_FEVAL_FTA5=
+//-- Accesorio de efecto - Punto
+WESTRING_FEVAL_FEFT=
+//-- Accesorio especial - Punto
+WESTRING_FEVAL_FSPT=
+//-- Sonido de efecto
+WESTRING_FEVAL_FEFS=
+//-- Sonido de efecto (bucle)
+WESTRING_FEVAL_FEFL=
+//-- Detalle de conjuro requerido
+WESTRING_FEVAL_FSPD="Nivel de detalle requerido por un jugador para que el efecto pueda ser visualizado (verificar)."
+//-- Nivel %d
+WESTRING_GEVAL_LVL=
+//-- Nombre
+WESTRING_GEVAL_GNAM=
+//-- Sufijo del editor
+WESTRING_GEVAL_GNSF=
+//-- Ayuda
+WESTRING_GEVAL_GTP1=
+//-- Ayuda - Ampliada
+WESTRING_GEVAL_GUB1=
+//-- Acceso rápido
+WESTRING_GEVAL_GHK1=
+//-- Posición botón (X)
+WESTRING_GEVAL_GBPX=
+//-- Posición botón (Y)
+WESTRING_GEVAL_GBPY=
+//-- Icono
+WESTRING_GEVAL_GAR1=
+//-- Clase
+WESTRING_GEVAL_GCLS=
+//-- Niveles
+WESTRING_GEVAL_GLVL=
+//-- Oro - Base
+WESTRING_GEVAL_GGLB=
+//-- Oro - Incremento
+WESTRING_GEVAL_GGLM=
+//-- Madera - Base
+WESTRING_GEVAL_GLMB=
+//-- Madera - Incremento
+WESTRING_GEVAL_GLMM=
+//-- Tiempo - Base
+WESTRING_GEVAL_GTIB=
+//-- Tiempo - Incremento
+WESTRING_GEVAL_GTIM=
+//-- Efecto 1
+WESTRING_GEVAL_GEF1=
+//-- Efecto 1 - %s
+WESTRING_GEVAL_GBA1=
+//-- Efecto 1 - %s
+WESTRING_GEVAL_GMO1=
+//-- Efecto 1 - %s
+WESTRING_GEVAL_GCO1=
+//-- Efecto 2
+WESTRING_GEVAL_GEF2=
+//-- Efecto 2 - %s
+WESTRING_GEVAL_GBA2=
+//-- Efecto 2 - %s
+WESTRING_GEVAL_GMO2=
+//-- Efecto 2 - %s
+WESTRING_GEVAL_GCO2=
+//-- Efecto 3
+WESTRING_GEVAL_GEF3=
+//-- Efecto 3 - %s
+WESTRING_GEVAL_GBA3=
+//-- Efecto 3 - %s
+WESTRING_GEVAL_GMO3=
+//-- Efecto 3 - %s
+WESTRING_GEVAL_GCO3=
+//-- Efecto 4
+WESTRING_GEVAL_GEF4=
+//-- Efecto 4 - %s
+WESTRING_GEVAL_GBA4=
+//-- Efecto 4 - %s
+WESTRING_GEVAL_GMO4=
+//-- Efecto 4 - %s
+WESTRING_GEVAL_GCO4=
+//-- Transferir con pertenencia de unidad
+WESTRING_GEVAL_GINH="Esto transfiere la investigación cuando un jugador se hace propietario de una unidad que haga uso de esta."
+//-- Requisitos
+WESTRING_GEVAL_GREQ=
+//-- Requisitos - Niveles
+WESTRING_GEVAL_GRQC=
+//-- Raza
+WESTRING_GEVAL_GRAC=
+//-- Aplica a todas las unidades
+WESTRING_GEVAL_GLOB=
+//-- Bonificación de dado de ataque - Base
+WESTRING_EEVAL_ATDB=
+//-- Bonificación de dado de ataque - Aumento
+WESTRING_EEVAL_ATDM=
+//-- Bonificación de nivel de habilidad - Base
+WESTRING_EEVAL_LEVB=
+//-- Bonificación de nivel de habilidad - Aumento
+WESTRING_EEVAL_LEVM=
+//-- Habilidad afectada
+WESTRING_EEVAL_LEVC=
+//-- Bonificación de puntos de impacto - Base
+WESTRING_EEVAL_HPXB=
+//-- Bonificación de puntos de impacto - Aumento
+WESTRING_EEVAL_HPXM=
+//-- Bonificación de puntos de maná - Base
+WESTRING_EEVAL_MNXB=
+//-- Bonificación de puntos de maná - Aumento
+WESTRING_EEVAL_MNXM=
+//-- Bonificación de velocidad de movimiento - Base
+WESTRING_EEVAL_MVXB=
+//-- Bonificación de velocidad de movimiento - Aumento
+WESTRING_EEVAL_MVXM=
+//-- Bonificación de regeneración de maná (%) - Base
+WESTRING_EEVAL_MNRB=
+//-- Bonificación de regeneración de maná (%) - Aumento
+WESTRING_EEVAL_MNRM=
+//-- Bonificación de puntos de impacto (%) - Base
+WESTRING_EEVAL_HPOB=
+//-- Bonificación de puntos de impacto (%) - Aumento
+WESTRING_EEVAL_HPOM=
+//-- Bonificación de puntos de maná (%) - Base
+WESTRING_EEVAL_MANB=
+//-- Bonificación de puntos de maná (%) - Aumento
+WESTRING_EEVAL_MANM=
+//-- Bonificación de velocidad de movimiento (%) - Base
+WESTRING_EEVAL_MOVB=
+//-- Bonificación de velocidad de movimiento (%) - Aumento
+WESTRING_EEVAL_MOVM=
+//-- Bonificación de daño de ataque - Base
+WESTRING_EEVAL_ATXB=
+//-- Bonificación de daño de ataque - Aumento
+WESTRING_EEVAL_ATXM=
+//-- Bonificación de recogida madera - Base
+WESTRING_EEVAL_LUMB=
+//-- Bonificación de recogida madera - Aumento
+WESTRING_EEVAL_LUMM=
+//-- Bonificación de alcance de ataque - Base
+WESTRING_EEVAL_ATRB=
+//-- Bonificación de alcance de ataque - Aumento
+WESTRING_EEVAL_ATRM=
+//-- Bonificación de velocidad de ataque (%) - Base
+WESTRING_EEVAL_ATSB=
+//-- Bonificación de velocidad de ataque (%) - Aumento
+WESTRING_EEVAL_ATSM=
+//-- Daño de pincho - Base
+WESTRING_EEVAL_SPIB=
+//-- Daño de pincho - Aumento
+WESTRING_EEVAL_SPIM=
+//-- Bonificación de regeneración de puntos de impacto (%) - Base
+WESTRING_EEVAL_HPRB=
+//-- Bonificación de regeneración de puntos de impacto (%) - Aumento
+WESTRING_EEVAL_HPRM=
+//-- Bonificación de alcance de vista - Base
+WESTRING_EEVAL_SIGB=
+//-- Bonificación de alcance de vista - Aumento
+WESTRING_EEVAL_SIGM=
+//-- Bonificación de cantidad de objetivos de ataque - Base
+WESTRING_EEVAL_ATCB=
+//-- Bonificación de cantidad de objetivos de ataque - Aumento
+WESTRING_EEVAL_ATCM=
+//-- Bonificación de pérdida de daño de ataque - Base
+WESTRING_EEVAL_ADLB=
+//-- Bonificación de pérdida de daño de ataque - Aumento
+WESTRING_EEVAL_ADLM=
+//-- Bonificación de recogida oro - Base
+WESTRING_EEVAL_MINB=
+//-- Bonificación de recogida oro - Aumento
+WESTRING_EEVAL_MINM=
+//-- Bonificación de duración de Alzar muertos - Base
+WESTRING_EEVAL_RAIB=
+//-- Bonificación de duración de Alzar muertos - Aumento
+WESTRING_EEVAL_RAIM=
+//-- Bonificación de recogida oro (Entramar) - Base
+WESTRING_EEVAL_ENTB=
+//-- Bonificación de recogida oro (Entramar) - Aumento
+WESTRING_EEVAL_ENTM=
+//-- Ataques a activar
+WESTRING_EEVAL_ENWB=
+//-- Bonificación de datos de aura - Base
+WESTRING_EEVAL_AUDB=
+//-- Bonificación de datos de aura - Aumento
+WESTRING_EEVAL_AUDM=
+//-- Bonificación de alcance de ataque - Base
+WESTRING_EEVAL_ASDB=
+//-- Bonificación de alcance de ataque - Aumento
+WESTRING_EEVAL_ASDM=
+//-- Bonificación de radio de alcance de ataque - Base
+WESTRING_EEVAL_ASRB=
+//-- Bonificación de radio de alcance de ataque - Aumento
+WESTRING_EEVAL_ASRM=
+//-- Ataques a activar (arraigado)
+WESTRING_EEVAL_ROOB=
+//-- Ataques a activar (desarraigado)
+WESTRING_EEVAL_UROB=
+//-- Nuevo tipo de defensa
+WESTRING_EEVAL_UART=
+//-- Nueva disponibilidad
+WESTRING_EEVAL_UTMA=
+//-- Tipo de unidad afectada
+WESTRING_EEVAL_TTMA=
+//-- Exp héroe - Distribución global
+WESTRING_MISCVAL_GEXP=
+//-- Exp héroe - Arrasar edificios garantiza Exp
+WESTRING_MISCVAL_BGXP=
+//-- Exp héroe - Héroes de nivel máximo roban Exp
+WESTRING_MISCVAL_MHDX=
+//-- Mostrar estado de edificio
+WESTRING_MISCVAL_DBST=
+//-- Mostrar inventario del enemigo
+WESTRING_MISCVAL_DEIN=
+//-- Nivel máximo de héroe
+WESTRING_MISCVAL_MHEL=
+//-- Nivel máximo de unidad
+WESTRING_MISCVAL_MULE=
+//-- Exp. de héroe necesaria - Tabla
+WESTRING_MISCVAL_MXPN=
+//-- Exp. de héroe necesaria - Factor de valor anterior
+WESTRING_MISCVAL_XPN1=
+//-- Exp. de héroe necesaria - Factor de nivel
+WESTRING_MISCVAL_XPN2=
+//-- Exp. de héroe necesaria - Factor de constante
+WESTRING_MISCVAL_XPN3=
+//-- Coste máximo de revivir héroe - Oro
+WESTRING_MISCVAL_MHRC=
+//-- Coste máximo de revivir héroe - Madera
+WESTRING_MISCVAL_MHRL=
+//-- Coste máximo de revivir héroe - Tiempo
+WESTRING_MISCVAL_MHRT=
+//-- Coste máximo de despertar héroe - Oro
+WESTRING_MISCVAL_MHAC=
+//-- Coste máximo de despertar héroe - Madera
+WESTRING_MISCVAL_MHAL=
+//-- Revivir héroe - Usar maná inicial
+WESTRING_MISCVAL_HRMS=
+//-- Revivir héroe - Factor de maná
+WESTRING_MISCVAL_HRMF=
+//-- Revivir héroe - Factor de vida
+WESTRING_MISCVAL_HRLF=
+//-- Despertar héroe - Usar maná inicial
+WESTRING_MISCVAL_HAMS=
+//-- Despertar héroe - Factor de maná
+WESTRING_MISCVAL_HAMF=
+//-- Despertar héroe - Factor de vida
+WESTRING_MISCVAL_HALF=
+//-- Radio de edificio - Disipar infestación
+WESTRING_MISCVAL_BUBR=
+//-- Creeps - Radio para percatarse de construcción edificio
+WESTRING_MISCVAL_BCNR=
+//-- Creeps - Radio para percatarse de uso de edificio neutral
+WESTRING_MISCVAL_NUNR=
+//-- Radio de alcance de niebla - Unidad atacando
+WESTRING_MISCVAL_FARR=
+//-- Radio de Revelar niebla - Unidad muriendo
+WESTRING_MISCVAL_DFRR=
+//-- Tiempo de putrefacción (seg) - Huesos
+WESTRING_MISCVAL_BDET=
+//-- Tiempo de putrefacción (seg) - Estructuras
+WESTRING_MISCVAL_SDET=
+//-- Tiempo de putrefacción (seg) - Carne
+WESTRING_MISCVAL_DECT=
+//-- Tiempo de putrefacción (seg) - Disipación de héroe
+WESTRING_MISCVAL_DIST=
+//-- Tiempo de putrefacción (seg) - Misiles
+WESTRING_MISCVAL_BUDT=
+//-- Tiempo de putrefacción (seg) - Efectos
+WESTRING_MISCVAL_EFDT=
+//-- Tiempo de putrefacción (seg) - Cancelación
+WESTRING_MISCVAL_CADT=
+//-- Tiempo de putrefacción (seg) - Flash de niebla de guerra
+WESTRING_MISCVAL_FFDT=
+//-- Alcance de seguimiento - Unidades
+WESTRING_MISCVAL_FOLR=
+//-- Alcance de seguimiento - Estructuras
+WESTRING_MISCVAL_FOLS=
+//-- Alcance de seguimiento - Ítems
+WESTRING_MISCVAL_FOLI=
+//-- Conjuros - Rango de gracia de conjuro con objetivo
+WESTRING_MISCVAL_SCRB="Si el objetivo está fuera del rango máximo de un conjuro + rango de gracia una vez comienza el efecto, este fallará."
+//-- Retraso de reacción (seg) - Máximo
+WESTRING_MISCVAL_READ=
+//-- Combate - Probabilidad de fallar (en moviendose o terreno alto)
+WESTRING_MISCVAL_CHTM="Probabilidad de que un ataque con un tipo de arma (y sus variaciones) de artillería o misil falle en objetivos que están en movimiento o terreno alto. Atacar terreno no puede fallar."
+//-- Tiempo - Segundos reales por día de juego
+WESTRING_MISCVAL_DAYL=
+//-- Tiempo - Amanecer
+WESTRING_MISCVAL_DAWN=
+//-- Tiempo - Anochecer
+WESTRING_MISCVAL_DUSK=
+//-- Tiempo - Horas por día
+WESTRING_MISCVAL_DAYH=
+//-- Mina de oro - Oro máximo
+WESTRING_MISCVAL_GMMG=
+//-- Alcance máximo de ganancia de exp. de héroe
+WESTRING_MISCVAL_HEXR=
+//-- Coste de revivir héroe - Factor en oro - Constante
+WESTRING_MISCVAL_RBFG=
+//-- Coste de revivir héroe - Factor en oro - Nivel
+WESTRING_MISCVAL_RLFG=
+//-- Coste de revivir héroe - Factor en madera - Constante
+WESTRING_MISCVAL_RBFL=
+//-- Coste de revivir héroe - Factor en madera - Nivel
+WESTRING_MISCVAL_RLFL=
+//-- Coste de revivir héroe - Factor en oro/madera - Máximo
+WESTRING_MISCVAL_RMAF=
+//-- Coste de revivir héroe - Factor en tiempo - Nivel
+WESTRING_MISCVAL_RBFT=
+//-- Coste de revivir héroe - Factor en tiempo - Máximo
+WESTRING_MISCVAL_RMTF=
+//-- Coste de despertar héroe - Factor en oro - Constante
+WESTRING_MISCVAL_AWBF=
+//-- Coste de despertar héroe - Factor en oro - Nivel
+WESTRING_MISCVAL_AWLF=
+//-- Coste de despertar héroe - Factor en madera - Constante
+WESTRING_MISCVAL_AWBL=
+//-- Coste de despertar héroe - Factor en madera - Nivel
+WESTRING_MISCVAL_AWLL=
+//-- Coste de despertar héroe - Factor en oro/madera - Máximo
+WESTRING_MISCVAL_AWMF=
+//-- Mina de oro - Baja cantidad de oro
+WESTRING_MISCVAL_LOGA=
+//-- Mina de oro - Búfer tiempo propietario (seg)
+WESTRING_MISCVAL_GMOD=
+//-- Índice de cambio de visibilidad de unidad
+WESTRING_MISCVAL_INVS=
+//-- Conjuros - Hielo - Reducción de velocidad de movimiento
+WESTRING_MISCVAL_FROM=
+//-- Conjuros - Hielo - Reducción de velocidad de ataque
+WESTRING_MISCVAL_FROA=
+//-- "Exp. de héroe ganada - Normal, Tabla"
+WESTRING_MISCVAL_GNXP=
+//-- "Exp. de héroe ganada - Normal, Factor de valor anterior"
+WESTRING_MISCVAL_GNXA=
+//-- "Exp. de héroe ganada - Normal, Factor de nivel"
+WESTRING_MISCVAL_GNXB=
+//-- "Exp. de héroe ganada - Normal, Factor de constante"
+WESTRING_MISCVAL_GNXC=
+//-- "Exp. de héroe ganada - Héroe, Tabla"
+WESTRING_MISCVAL_GHXP=
+//-- "Exp. de héroe ganada - Héroe, Factor de valor anterior"
+WESTRING_MISCVAL_GHFA=
+//-- "Exp. de héroe ganada - Héroe, Factor de nivel"
+WESTRING_MISCVAL_GHFB=
+//-- "Exp. de héroe ganada - Héroe, Factor de constante"
+WESTRING_MISCVAL_GHFC=
+//-- Exp. de héroe ganada - Tabla de reducción en creeps
+WESTRING_MISCVAL_HFXP=
+//-- Atributos de héroe - Atr. primario - Bonificación de ataque por punto
+WESTRING_MISCVAL_SATB=
+//-- Atributos de héroe - Fuerza - Bonificación de vida por punto
+WESTRING_MISCVAL_SHPB=
+//-- Atributos de héroe - Fuerza - Bonificación de regen. de vida por punto
+WESTRING_MISCVAL_SREB=
+//-- Atributos de héroe - Inteligencia - Bonificación de maná por punto
+WESTRING_MISCVAL_IMAB=
+//-- Atributos de héroe - Inteligencia - Bonificación de regen. de maná por punto
+WESTRING_MISCVAL_IMRB=
+//-- Atributos de héroe - Agilidad - Bonificación de defensa por punto
+WESTRING_MISCVAL_ADEB=
+//-- Atributos de héroe - Agilidad - Valor base de defensa (previo a bonif. de agilidad)
+WESTRING_MISCVAL_ADBA=
+//-- Atributos de héroe - Agilidad - Bonificación de movimiento por punto
+WESTRING_MISCVAL_AMVB=
+//-- Atributos de héroe - Agilidad - Bonificación de velocidad de ataque por punto
+WESTRING_MISCVAL_AASB=
+//-- Inventario - Alcance de soltar ítem
+WESTRING_MISCVAL_DROP=
+//-- Inventario - Alcance de dar ítem
+WESTRING_MISCVAL_GIVE=
+//-- Inventario - Alcance de recoger ítem
+WESTRING_MISCVAL_PICK=
+//-- Inventario - Alcance de venta de ítem
+WESTRING_MISCVAL_PAIR=
+//-- Inventario - Índice de ganancias por venta de ítem
+WESTRING_MISCVAL_PAIF=
+//-- Combate - Alcance de llamada de socorro
+WESTRING_MISCVAL_CFHR=
+//-- "Combate - Alcance de llamada de socorro, Creeps"
+WESTRING_MISCVAL_CFHC=
+//-- Combate - Multiplicador de reducción de daño de armadura
+WESTRING_MISCVAL_DEFA=
+//-- Combate - Tabla de bonificación de daño - Normal
+WESTRING_MISCVAL_CTNO=
+//-- Combate - Tabla de bonificación de daño - Perforador
+WESTRING_MISCVAL_CTPI=
+//-- Combate - Tabla de bonificación de daño - Asedio
+WESTRING_MISCVAL_CTSI=
+//-- Combate - Tabla de bonificación de daño - Magia
+WESTRING_MISCVAL_CTMA=
+//-- Combate - Tabla de bonificación de daño - Caos
+WESTRING_MISCVAL_CTCH=
+//-- Combate - Tabla de bonificación de daño - Conjuros
+WESTRING_MISCVAL_CTSP=
+//-- Combate - Tabla bonificación daño - Héroe
+WESTRING_MISCVAL_CTHE=
+//-- Creeps - Distancia de guardia
+WESTRING_MISCVAL_GUAD=
+//-- Creeps - Distancia de retorno a guardia
+WESTRING_MISCVAL_GUAM=
+//-- Creeps - Tiempo de regreso a guardia (seg)
+WESTRING_MISCVAL_GUAT=
+//-- Factor de devolución al cancelar - Construcción de edificio
+WESTRING_MISCVAL_RRCO=
+//-- Factor de devolución al cancelar - Investigación
+WESTRING_MISCVAL_RRRE=
+//-- Factor de devolución al cancelar - Resucitación de héroe
+WESTRING_MISCVAL_RRHR=
+//-- Factor de devolución al cancelar - Entrenamiento de unidad
+WESTRING_MISCVAL_RRTU=
+//-- Factor de devolución al cancelar - Actualización de edificio
+WESTRING_MISCVAL_RRBU=
+//-- Notificación de ataque - Intervalo mínimo (seg)
+WESTRING_MISCVAL_ANDE=
+//-- Notificación de ataque - Alcance mínimo
+WESTRING_MISCVAL_ANRA=
+//-- Aumento negocio aliados - Clic normal
+WESTRING_MISCVAL_TRAS=
+//-- Aumento negocio aliados - Clic control
+WESTRING_MISCVAL_TRAL=
+//-- Salto de niveles de habilidades de héroe (Predeterminado)
+WESTRING_MISCVAL_HALS=
+//-- Cancelar construcción - Índice de pérdida de vida (por seg)
+WESTRING_MISCVAL_CLDR=
+//-- Ángulo de vista de edificio (grados)
+WESTRING_MISCVAL_BANG=
+//-- "Ángulo de vista de edificio, arraigado (grados)"
+WESTRING_MISCVAL_RANG=
+//-- Colisión - Radio máximo
+WESTRING_MISCVAL_MCOR=
+//-- Punto de reunión - Desplazamiento Z
+WESTRING_MISCVAL_RZOF=
+//-- Escala de tiempo de animación
+WESTRING_MISCVAL_SANT=
+//-- Exp. de héroe ganada - Factor de unidad invocada
+WESTRING_MISCVAL_SKIF=
+//-- Combate - Tabla de bonificación de daño - Etéreo
+WESTRING_MISCVAL_EDBO=
+//-- Combate - Factor de daño de ataques fallidos (artillería)
+WESTRING_MISCVAL_MDRE="Si un ataque de artillería falla en una unidad, sea por evasión o tierra alta/movimiento, esta constante modifica el daño final."
+//-- Conjuros - Bonificación de cura en etéreos
+WESTRING_MISCVAL_EHBO=
+//-- Movimiento - Velocidad de unidad - Máximo
+WESTRING_MISCVAL_MXUS=
+//-- Movimiento - Velocidad de unidad - Mínimo
+WESTRING_MISCVAL_MNUS=
+//-- Movimiento - Velocidad de construcción - Máximo
+WESTRING_MISCVAL_MXBS=
+//-- Movimiento - Velocidad de construcción - Mínimo
+WESTRING_MISCVAL_MNBS=
+//-- Creeps - Radio máximo campamento de creeps (celdas de ruta)
+WESTRING_MISCVAL_CCCR=
+//-- Límite de comida
+WESTRING_MISCVAL_FCAP=
+//-- Manutención - Niveles de comida
+WESTRING_MISCVAL_UPKU=
+//-- Manutención - Índices de impuestos en oro
+WESTRING_MISCVAL_UPKG=
+//-- Manutención - Índices de impuestos en madera
+WESTRING_MISCVAL_UPKW=
+//-- Organigrama - Equivalentes de dependencia - Héroe
+WESTRING_MISCVAL_HERO=
+//-- Organigrama - Equivalentes de dependencia - Altar
+WESTRING_MISCVAL_TALT=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 1
+WESTRING_MISCVAL_TWN1=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 2
+WESTRING_MISCVAL_TWN2=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 3
+WESTRING_MISCVAL_TWN3=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 4
+WESTRING_MISCVAL_TWN4=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 5
+WESTRING_MISCVAL_TWN5=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 6
+WESTRING_MISCVAL_TWN6=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 7
+WESTRING_MISCVAL_TWN7=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 8
+WESTRING_MISCVAL_TWN8=
+//-- Organigrama - Equivalentes de dependencia - Galería de nivel 9
+WESTRING_MISCVAL_TWN9=
+//-- Héroe XP ganada - Factores de bonificación de nivel 1
+WESTRING_MISCVAL_TXP1=
+//-- Héroe XP ganada - Factores de bonificación de nivel 2
+WESTRING_MISCVAL_TXP2=
+//-- Héroe XP ganada - Factores de bonificación de nivel 3
+WESTRING_MISCVAL_TXP3=
+//-- Héroe XP ganada - Factores de bonificación de nivel 4
+WESTRING_MISCVAL_TXP4=
+//-- Héroe XP ganada - Factores de bonificación de nivel 5
+WESTRING_MISCVAL_TXP5=
+//-- Héroe XP ganada - Factores de bonificación de nivel 6
+WESTRING_MISCVAL_TXP6=
+//-- Héroe XP ganada - Factores de bonificación de nivel 7
+WESTRING_MISCVAL_TXP7=
+//-- Héroe XP ganada - Factores de bonificación de nivel 8
+WESTRING_MISCVAL_TXP8=
+//-- Héroe XP ganada - Factores de bonificación de nivel 9
+WESTRING_MISCVAL_TXP9=
+//-- Organigrama - Texto de equivalentes de dependencia - Héroe
+WESTRING_MISCVAL_EQNH=
+//-- Organigrama - Texto de equivalentes de dependencia - Altar
+WESTRING_MISCVAL_EQNA=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 1
+WESTRING_MISCVAL_EQN1=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 2
+WESTRING_MISCVAL_EQN2=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 3
+WESTRING_MISCVAL_EQN3=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 4
+WESTRING_MISCVAL_EQN4=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 5
+WESTRING_MISCVAL_EQN5=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 6
+WESTRING_MISCVAL_EQN6=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 7
+WESTRING_MISCVAL_EQN7=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 8
+WESTRING_MISCVAL_EQN8=
+//-- Organigrama - Texto de equivalentes de dependencia - Galería de nivel 9
+WESTRING_MISCVAL_EQN9=
+//-- Puede construir encima
+WESTRING_UEVAL_UCBO=
+//-- Se puede construir encima
+WESTRING_UEVAL_UIBO=
+//-- Niveles de nombre de animación
+WESTRING_AEVAL_AANC=
+//-- Nombres de animación (Nivel 2)
+WESTRING_AEVAL_AAN1=
+//-- Nombres de animación (Nivel 3)
+WESTRING_AEVAL_AAN2=
+//-- Nombres de animación (Nivel 4)
+WESTRING_AEVAL_AAN3=
+//-- Juego - Inmune a magia resiste daño
+WESTRING_MISCVAL_MIRD=
+//-- Juego - Inmune a magia resiste espinos
+WESTRING_MISCVAL_MIRT=
+//-- Juego - Inmune a magia resiste sanguijuelas
+WESTRING_MISCVAL_MIRL=
+//-- Juego - Inmune a magia resiste ultimátums
+WESTRING_MISCVAL_MIRU=
+//-- Juego - Ciclón oculta unidades
+WESTRING_MISCVAL_CYST=
+//-- Juego - Dependencias comprueban el ID de datos de habilidades
+WESTRING_MISCVAL_DCAL=
+//-- Juego - Teletransporte de masa con acomplamiento
+WESTRING_MISCVAL_MTCL=
+//-- Juego - Invocación oscura con acomplamiento
+WESTRING_MISCVAL_DSCL=
+//-- Juego - Puerta del Ayuntamiento con acomplamiento
+WESTRING_MISCVAL_TPCL=
+//-- Juego - Amuleto del recuerdo con acomplamiento
+WESTRING_MISCVAL_ARCL=
+//-- Juego - Morfosear - Voladores aterrizan en la pos. más cercana
+WESTRING_MISCVAL_MLCL=
+//-- Juego - Morfosear - Desactiva habilidades alternativas
+WESTRING_MISCVAL_MADI=
+//-- Juego - Invocables invulnerables toman daño de Disipar
+WESTRING_MISCVAL_ISDD=
+//-- Juego - Penalización de devolución por daño en construcción
+WESTRING_MISCVAL_CDRP=
+//-- Juego - Penalización de devolución por daño en actualización
+WESTRING_MISCVAL_UDRP=
+//-- Juego - Permitir múltiples rebotes por unidad
+WESTRING_MISCVAL_AMBO=
+//-- Juego - Atrapar comprueba por inmunidad mágica
+WESTRING_MISCVAL_EIMA=
+//-- Juego - Red comprueba por inmunidad mágica
+WESTRING_MISCVAL_WIMA=
+//-- Juego - Ilusiones obtienen bonificaciones de ataque
+WESTRING_MISCVAL_IGAB=
+//-- Juego - Ilusiones obtienen bonificaciones de vel. de ataque
+WESTRING_MISCVAL_IASB=
+//-- Juego - Ilusiones obtienen bonificaciones de vel. de movimiento
+WESTRING_MISCVAL_IGMB=
+//-- Juego - Ilusiones obtienen bonificaciones de defensa
+WESTRING_MISCVAL_IGDB=
+//-- Juego - Ilusiones pueden regenerar vida
+WESTRING_MISCVAL_ICRL=
+//-- Juego - Ilusiones pueden regenerar maná
+WESTRING_MISCVAL_ICRM=
+//-- Juego - Ilusiones conceden auras
+WESTRING_MISCVAL_IBAU=
+//-- Juego - Ilusiones son objetivos de autoconjuro
+WESTRING_MISCVAL_IGAU=
+//-- Juego - Unidades invisibles conceden auras
+WESTRING_MISCVAL_INBA=
+//-- Juego - Unidades polimorfoseadas conceden auras
+WESTRING_MISCVAL_PUBA=
+//-- Juego - Unidades enterradas conceden auras
+WESTRING_MISCVAL_BUBA=
+//-- Juego - Unidades muertas animadas conceden auras
+WESTRING_MISCVAL_AUBA=
+//-- Juego - Héroes voladores conceden auras
+WESTRING_MISCVAL_FHBA=
+//-- Juego - Bonificaciónes de vel. movimiento se combinan
+WESTRING_MISCVAL_MSBS=
+//-- Juego - Consumir usa bonificación de daño en etéreos
+WESTRING_MISCVAL_DUEB=
+//-- Juego - Consumir transfiere vida
+WESTRING_MISCVAL_DTLI=
+//-- Juego - Consumir transfiere maná
+WESTRING_MISCVAL_DTMA=
+//-- Juego - Consumir otorga bonificación de vida
+WESTRING_MISCVAL_DGBL=
+//-- Juego - Consumir otorga bonificación de maná
+WESTRING_MISCVAL_DGBM=
+//-- Juego - Bonificación de daño en aliados etéreos
+WESTRING_MISCVAL_EDBA=
+//-- Juego - Se puede desactivar Avatar (Todavía sin implementación)
+WESTRING_MISCVAL_CDAV=
+//-- Juego - Se puede desactivar Forma vengadora (TSI)
+WESTRING_MISCVAL_CDAF=
+//-- Juego - Se puede desactivar Corteza (TSI)
+WESTRING_MISCVAL_CDBS=
+//-- Juego - Se puede desactivar Forma de oso (TSI)
+WESTRING_MISCVAL_CDBF=
+//-- Juego - Se puede desactivar Torbellino de cuchillas (TSI)
+WESTRING_MISCVAL_CDBM=
+//-- Juego - Se puede desactivar Enterrar (TSI)
+WESTRING_MISCVAL_CDBU=
+//-- Juego - Se puede desactivar Llamar a las armas (TSI)
+WESTRING_MISCVAL_CDCA=
+//-- Juego - Se puede desactivar Furia química (TSI)
+WESTRING_MISCVAL_CDCR=
+//-- Juego - Se puede desactivar Forma corpórea (TSI)
+WESTRING_MISCVAL_CDCF=
+//-- Juego - Se puede desactivar Defender (TSI)
+WESTRING_MISCVAL_CDDE=
+//-- Juego - Se puede desactivar Escudo divino
+WESTRING_MISCVAL_CDDS=
+//-- Juego - Se puede desactivar Inmolación (TSI)
+WESTRING_MISCVAL_CDIM=
+//-- Juego - Se puede desactivar Llamarada de Maná (TSI)
+WESTRING_MISCVAL_CDMF=
+//-- Juego - Se puede desactivar Escudo de maná (TSI)
+WESTRING_MISCVAL_CDMS=
+//-- Juego - Se puede desactivar Metamorfosis (TSI)
+WESTRING_MISCVAL_CDME=
+//-- Juego - Se puede desactivar Forma de cuervo (TSI)
+WESTRING_MISCVAL_CDRF=
+//-- Juego - Se puede desactivar Robo Goblin (TSI)
+WESTRING_MISCVAL_CDRG=
+//-- Juego - Se puede desactivar Forma de piedra (TSI)
+WESTRING_MISCVAL_CDSF=
+//-- Juego - Se puede desactivar Sumergir (TSI)
+WESTRING_MISCVAL_CDSU=
+//-- Juego - Se puede desactivar Andar del viento (TSI)
+WESTRING_MISCVAL_CDWW=
+//-- Juego - Usar costos de actualización relativos
+WESTRING_MISCVAL_RUCO=
+//-- Juego - Defender puede reflejar
+WESTRING_MISCVAL_DEDE=
+//-- Juego - Alcance de pelea de Creep de venta de ítems
+WESTRING_MISCVAL_ISAR=
+//-- Juego - Alcance de pelea de Creep de venta de unidades
+WESTRING_MISCVAL_USAR=
+//-- Juego - Alcance de pelea de Creep de venta de habilidades
+WESTRING_MISCVAL_ASAR=
+//-- Bonificación de porcentaje
+WESTRING_AEVAL_HAB2=
+//-- No fallar
+WESTRING_AEVAL_OCR5=
+//-- No fallar
+WESTRING_AEVAL_OWK4=
+//-- Vida transferida por segundo
+WESTRING_AEVAL_NDR4=
+//-- Maná transferido por segundo
+WESTRING_AEVAL_NDR5=
+//-- Factor de bonificación de vida
+WESTRING_AEVAL_NDR6=
+//-- Factor de bonificación de maná
+WESTRING_AEVAL_NDR7=
+//-- Putrefacción de bonificación de vida
+WESTRING_AEVAL_NDR8=
+//-- Putrefacción de bonificación de maná
+WESTRING_AEVAL_NDR9=
+//-- Heredar actualizaciones
+WESTRING_AEVAL_UAN3=
+//-- Bonificación de porcentaje
+WESTRING_AEVAL_UAU3=
+//-- Bonificación de porcentaje
+WESTRING_AEVAL_HAD2=
+//-- Puede desactivar
+WESTRING_AEVAL_HDS1=
+//-- Regeneración de maná
+WESTRING_AEVAL_ROA4=
+//-- Preferir hostiles
+WESTRING_AEVAL_ROA5=
+//-- Preferir amigos
+WESTRING_AEVAL_ROA6=
+//-- Máximo de unidades
+WESTRING_AEVAL_ROA7=
+//-- Bonificación de melé
+WESTRING_AEVAL_EAR2=
+//-- Bonificación a distancia
+WESTRING_AEVAL_EAR3=
+//-- Bonificación plana
+WESTRING_AEVAL_EAR4=
+//-- Bonificación de vel. de movimiento (sólo Panel información)
+WESTRING_AEVAL_NCR5=
+//-- Bonificación vel. de ataque (sólo Panel información)
+WESTRING_AEVAL_NCR6=
+//-- Bonificación de fuerza
+WESTRING_AEVAL_NRG5=
+//-- Bonificación de defensa
+WESTRING_AEVAL_NRG6=
+//-- Alcance de campamento
+WESTRING_AEVAL_NSY5=
+//-- ID de destructible
+WESTRING_AEVAL_NVCU=
+//-- Heredar actualizaciones
+WESTRING_AEVAL_CAD3=
+//-- Pérdida de maná
+WESTRING_AEVAL_AMS4=
+//-- Cargar vida actual
+WESTRING_AEVAL_CMG3=
+//-- Oportunidad de desviar
+WESTRING_AEVAL_DEF6=
+//-- Desviar daño tomado (Perforador)
+WESTRING_AEVAL_DEF7=
+//-- Desviar daño tomado (Conjuros)
+WESTRING_AEVAL_DEF8=
+//-- Ignorar conjuros benéficos amigos
+WESTRING_AEVAL_DVM6=
+//-- Alcance de campamento
+WESTRING_AEVAL_NFY2=
+//-- Daño a invocación
+WESTRING_AEVAL_FBK5=
+//-- Salpique único a conjugador
+WESTRING_AEVAL_MFL6=
+//-- Tiempo de transición de invisibilidad
+WESTRING_AEVAL_MIN2=
+//-- Pérdida de maná
+WESTRING_AEVAL_PRG6=
+//-- Explota al morir
+WESTRING_AEVAL_SDS6=
+//-- Preferir hostiles
+WESTRING_AEVAL_TAU1=
+//-- Preferir amigables
+WESTRING_AEVAL_TAU2=
+//-- Máximo de unidades
+WESTRING_AEVAL_TAU3=
+//-- Daño máximo
+WESTRING_AEVAL_UCO5=
+//-- Bonificación de velocidad de movimiento
+WESTRING_AEVAL_UCO6=
+//-- Eliminar con la muerte del conjurador
+WESTRING_AEVAL_UCB6=
+//-- No fallar
+WESTRING_AEVAL_HBH5=
