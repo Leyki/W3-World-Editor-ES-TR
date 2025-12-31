@@ -126,7 +126,7 @@ TriggerRegisterTimerExpireEventBJHint="Un reloj expira cuando llega a 0.  Los re
 // Unit events
 TriggerRegisterUnitEvent="Evento de unidad específica"
 TriggerRegisterUnitEvent=~Unit," ",~Event
-TriggerRegisterUnitEventHint="Un objeto en este evento se refiere a una posible unidad, ítem o destructible - (widget)."
+TriggerRegisterUnitEventHint=
 
 TriggerRegisterPlayerUnitEventSimple="Evento de unidad perteneciente a jugador"
 TriggerRegisterPlayerUnitEventSimple="Una unidad perteneciente a ",~Player," ",~Event
@@ -134,7 +134,7 @@ TriggerRegisterPlayerUnitEventSimpleHint=
 
 TriggerRegisterAnyUnitEventBJ="Evento de unidad genérica"
 TriggerRegisterAnyUnitEventBJ="Una unidad ",~Event
-TriggerRegisterAnyUnitEventBJHint="Un objeto en este evento se refiere a una posible unidad, ítem o destructible - (widget)."
+TriggerRegisterAnyUnitEventBJHint=
 
 TriggerRegisterEnterRectSimple="Unidad adentra región"
 TriggerRegisterEnterRectSimple="Una unidad se adentra en ",~Region
@@ -3665,8 +3665,8 @@ GetEventPlayerChatString="Cadena de chat escrita"
 GetEventPlayerChatString="Cadena de chat escrita"
 GetEventPlayerChatStringHint=
 
-GetEventPlayerChatStringMatched="Cadena de chat igualada"
-GetEventPlayerChatStringMatched="Cadena de chat igualada"
+GetEventPlayerChatStringMatched="Cadena de chat coincidente"
+GetEventPlayerChatStringMatched="Cadena de chat coincidente"
 GetEventPlayerChatStringMatchedHint=
 
 GetSaveBasicFilename="Nombre de archivo de partida guardada"
@@ -3835,9 +3835,9 @@ GetEnumUnit="Unidad recogida"
 GetEnumUnit="Un. recogida"
 GetEnumUnitHint="Al usar una acción de 'Recoger cada unidad...', esto se refiere a cada unidad tal como es recogida."
 
-GetFilterUnit="Unidad igualada"
-GetFilterUnit="Un. igualada"
-GetFilterUnitHint="Usa esto para referirte a cada unidad igualada en funciones de 'Unidades que igualan condiciones'."
+GetFilterUnit="Unidad coincidente"
+GetFilterUnit="Un. coincidente"
+GetFilterUnitHint="Usa esto para referirte a cada unidad coincidente en funciones de 'Unidades que igualan condiciones'."
 
 GroupPickRandomUnit="Unidad aleatoria de un grupo"
 GroupPickRandomUnit="Unidad aleatoria de ",~Unit Group
@@ -4205,7 +4205,7 @@ GetUnitsInRectOfPlayerHint="Crea un grupo de unidades."
 
 GetUnitsInRectMatching="Unidades en región que igualan condiciones"
 GetUnitsInRectMatching="Unidades en ",~Region," igualando ",~Condition
-GetUnitsInRectMatchingHint="Usa 'Unidad igualada' para referirte a la unidad que está siendo comparada."
+GetUnitsInRectMatchingHint="Usa 'Unidad coincidente' para referirte a la unidad que está siendo comparada."
 
 GetUnitsInRangeOfLocAll="Unidades en rango"
 GetUnitsInRangeOfLocAll="Unidades dentro de ",~Radius," en ",~Point
@@ -4213,7 +4213,7 @@ GetUnitsInRangeOfLocAllHint="Crea un grupo de unidades."
 
 GetUnitsInRangeOfLocMatching="Unidades en rango que igualan condiciones"
 GetUnitsInRangeOfLocMatching="Unidades dentro de ",~Radius," en ",~Point," igualando ",~Condition
-GetUnitsInRangeOfLocMatchingHint="Usa 'Unidad igualada' para referirte a la unidad que está siendo comparada. Crea un grupo de unidades."
+GetUnitsInRangeOfLocMatchingHint="Usa 'Unidad coincidente' para referirte a la unidad que está siendo comparada. Crea un grupo de unidades."
 
 GetUnitsOfPlayerAll="Unidades pertenecientes a jugador"
 GetUnitsOfPlayerAll="Unidades pertenecientes a ",~Player
@@ -4225,7 +4225,7 @@ GetUnitsOfPlayerAndTypeIdHint="Crea un grupo de unidades."
 
 GetUnitsOfPlayerMatching="Unidades pertenecientes a jugador que igualan condiciones"
 GetUnitsOfPlayerMatching="Unidades pertenecientes a ",~Player," igualando ",~Condition
-GetUnitsOfPlayerMatchingHint="Usa 'Unidad igualada' para referirte a la unidad que está siendo comparada. Crea un grupo de unidades."
+GetUnitsOfPlayerMatchingHint="Usa 'Unidad coincidente' para referirte a la unidad que está siendo comparada. Crea un grupo de unidades."
 
 GetUnitsOfTypeIdAll="Unidades de tipo"
 GetUnitsOfTypeIdAll="Unidades de tipo ",~Unit-Type
