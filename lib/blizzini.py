@@ -67,6 +67,7 @@ def parse_files(files: list, parse_other=True, parse_none=True):
 def write(file_name: str, data: list):
     with open(file_name, "w", encoding="utf8") as file:
         for line in data:
+            if type(line) == str: file.write(line) ; continue
             if line["kind"] == "data":
                 wvalue = line["value"]
                 if not line["value"] == None and type(line["value"]) == list:

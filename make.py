@@ -44,7 +44,9 @@ def make_release(langs=langs, vers=vers, files=files):
     for lang, ver, file, parsed in iterdata:
         if file == "WorldEditStrings.txt":
             parsed_hints = bini.parse(f"data/{lang}/versions/shared/Hints/{file}", False, False)
-            parsed = parsed + parsed_hints
+            for hint in parsed_hints:
+                hint["name"] = hint["name"] + "_HINT"
+            parsed = parsed + ["// Custom Hints\n"] + parsed_hints
         os.makedirs(f"release/{lang}/{ver}/UI", exist_ok=True)
         bini.write(f"release/{lang}/{ver}/UI/{file[: -4]}.txt", parsed)
 
